@@ -2,7 +2,7 @@ name: Daily Site Pulse
 
 on:
   schedule:
-    # 每天 UTC 01:15 运行（北京时间约 09:15，随夏令时略有偏差）
+    # 每天 UTC 01:15（北京时间约 09:15）
     - cron: '15 1 * * *'
   workflow_dispatch:
 
@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
+          token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -30,14 +31,22 @@ jobs:
       - name: Update daily pulse data
         run: python3 scripts/update-site-pulse.py
 
-      - name: Commit and push changes
+      - name: Commit and push as flutterffi
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          # 与 GitHub 账户绑定的 noreply 邮箱（用户 flutterffi 的 numeric ID）
+          COMMIT_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'flutterffi' }}
+          COMMIT_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || '252504539+flutterffi@users.noreply.github.com' }}
         run: |
-          # 若希望 commit 计入个人贡献图，在仓库 Variables 中设置：
-          # ACTIVITY_COMMIT_NAME、ACTIVITY_COMMIT_EMAIL（GitHub 设置页里的 noreply 邮箱）
-          git config user.name "${{ vars.ACTIVITY_COMMIT_NAME || 'github-actions[bot]' }}"
-          git config user.email "${{ vars.ACTIVITY_COMMIT_EMAIL || 'github-actions[bot]@users.noreply.github.com' }}"
+          if [ -z "$TOKEN" ]; then
+            echo "::error::缺少 secret: PERSONAL_TOKEN（需对 flutter.ffi 有 push 权限的个人令牌）"
+            exit 1
+          fi
 
-          if git diff --quiet; then
+          git config user.name "$COMMIT_NAME"
+          git config user.email "$COMMIT_EMAIL"
+
+          if git diff --quiet && git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
@@ -45,4 +54,5 @@ jobs:
           git add docs/data/site-pulse.json docs/mine.md docs/activity/latest.md
           git commit -m "chore: daily site pulse $(date -u +%Y-%m-%d)"
 
-          git push origin main
+          # 用个人 PAT 推送，配合上方 author，提交才会计入你的贡献图
+          git push "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main

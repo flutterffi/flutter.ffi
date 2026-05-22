@@ -76,12 +76,26 @@ Actions 构建 `docs/.vitepress/dist` 并推送到 `flutterffi.github.io` 的 `m
 
 每日变化包括：一句轮换文案、随机推荐一篇文章、文章总数与维护序号。
 
-**若希望 commit 计入你的 GitHub 个人贡献图**（而不是 `github-actions[bot]`），在仓库 **Settings → Secrets and variables → Actions → Variables** 添加：
+**贡献图（绿格子）**：工作流已默认使用你的身份提交并推送：
 
-| 变量名 | 示例 |
+- 作者：`flutterffi`
+- 邮箱：`252504539+flutterffi@users.noreply.github.com`（GitHub 隐私 noreply 格式）
+- 推送：`secrets.PERSONAL_TOKEN`（与部署站点同一令牌，需有本仓库 push 权限）
+
+请在本机确认一次（GitHub → Settings → Emails）：
+
+1. 已勾选 **Keep my email addresses private**，或已将上述 noreply 邮箱加入账户  
+2. Profile → **Contributions** → 按需开启 **Include private contributions**（若有私有仓）  
+3. 贡献图只统计 **默认分支** 上的 commit（本仓为 `main`）
+
+若你换了 GitHub 账号或关闭了隐私邮箱，可在仓库 **Variables** 覆盖：
+
+| 变量名 | 说明 |
 |--------|------|
-| `ACTIVITY_COMMIT_NAME` | `flutterffi` |
-| `ACTIVITY_COMMIT_EMAIL` | `12345678+flutterffi@users.noreply.github.com`（见 GitHub 邮箱设置里的 noreply 地址） |
+| `ACTIVITY_COMMIT_NAME` | 显示在 commit 里的名字 |
+| `ACTIVITY_COMMIT_EMAIL` | 必须与账户绑定的邮箱一致 |
+
+推送后可在 [Actions](https://github.com/flutterffi/flutter.ffi/actions/workflows/daily-activity.yml) 手动 **Run workflow** 试跑一次；次日 UTC 01:15 起每天一格。
 
 本地试跑：
 
