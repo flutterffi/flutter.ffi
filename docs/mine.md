@@ -26,3 +26,18 @@ title: 我的
 ---
 
 写作与发布说明见 [写作指南](/guide/writing)。
+
+<!-- site-pulse:auto:start -->
+## 站点脉动（每日自动维护）
+
+- **最近更新（UTC）**：2026-05-22T15:02:22Z
+- **本地日期**：2026-05-22
+- **文章总数**：90 篇
+- **维护次数**：第 1 次自动脉动
+
+> 生活不在远方，在洗碗时想起的一句诗。
+
+**今日随机推荐**：[GPT Image 2最新使用教程：内附触发提示词，持续收集免费的GPT Image 2站点](/posts/收藏/appark-gpt-image-2-complete-guide-and-prompt-tips)  
+
+更完整的日志见 [每日脉动记录](/activity/latest)。
+<!-- site-pulse:auto:end -->

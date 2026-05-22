@@ -66,6 +66,29 @@ git push origin main
 
 Actions 构建 `docs/.vitepress/dist` 并推送到 `flutterffi.github.io` 的 `main` 分支。
 
+## 每日自动脉动（仓库活跃度）
+
+工作流 [`.github/workflows/daily-activity.yml`](.github/workflows/daily-activity.yml) 每天 UTC 01:15 运行（也可在 Actions 页手动 **Run workflow**）：
+
+1. 执行 `scripts/update-site-pulse.py`
+2. 更新 `docs/data/site-pulse.json`、`docs/activity/latest.md`、`docs/mine.md` 中的自动区块
+3. 提交并 push 到 `main`，随后触发 `pages.yml` 重新部署站点
+
+每日变化包括：一句轮换文案、随机推荐一篇文章、文章总数与维护序号。
+
+**若希望 commit 计入你的 GitHub 个人贡献图**（而不是 `github-actions[bot]`），在仓库 **Settings → Secrets and variables → Actions → Variables** 添加：
+
+| 变量名 | 示例 |
+|--------|------|
+| `ACTIVITY_COMMIT_NAME` | `flutterffi` |
+| `ACTIVITY_COMMIT_EMAIL` | `12345678+flutterffi@users.noreply.github.com`（见 GitHub 邮箱设置里的 noreply 地址） |
+
+本地试跑：
+
+```bash
+python3 scripts/update-site-pulse.py
+```
+
 ## 目录结构
 
 ```
@@ -86,6 +109,9 @@ flutter.ffi/
 │       ├── utils/sidebar.mjs    # 侧边栏生成
 │       └── theme/
 ├── .github/workflows/pages.yml
+├── .github/workflows/daily-activity.yml
+├── scripts/update-site-pulse.py
+├── docs/data/site-pulse.json
 └── package.json
 ```
 

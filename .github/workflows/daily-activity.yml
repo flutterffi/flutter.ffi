@@ -1,0 +1,48 @@
+name: Daily Site Pulse
+
+on:
+  schedule:
+    # 每天 UTC 01:15 运行（北京时间约 09:15，随夏令时略有偏差）
+    - cron: '15 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-site-pulse
+  cancel-in-progress: false
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update daily pulse data
+        run: python3 scripts/update-site-pulse.py
+
+      - name: Commit and push changes
+        run: |
+          # 若希望 commit 计入个人贡献图，在仓库 Variables 中设置：
+          # ACTIVITY_COMMIT_NAME、ACTIVITY_COMMIT_EMAIL（GitHub 设置页里的 noreply 邮箱）
+          git config user.name "${{ vars.ACTIVITY_COMMIT_NAME || 'github-actions[bot]' }}"
+          git config user.email "${{ vars.ACTIVITY_COMMIT_EMAIL || 'github-actions[bot]@users.noreply.github.com' }}"
+
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add docs/data/site-pulse.json docs/mine.md docs/activity/latest.md
+          git commit -m "chore: daily site pulse $(date -u +%Y-%m-%d)"
+
+          git push origin main
