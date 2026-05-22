@@ -10,12 +10,6 @@ excerpt: 归纳 Show HN、Product Hunt、落地页与邮件列表的发布节奏
 ---
 <img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-14.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
-</div>
-
-
 # 独立开发者发布清单
 
 X 上独立开发者（indie hacker）线程常分享「发布日」经验。以下为合并多条高赞流程的**通用 playbook**。

@@ -11,11 +11,6 @@ excerpt: 面向软件工程任务的 Codex：在 Cursor/VS Code 中安装、Chat
 
 <img src="/photos/thumb-04.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-04.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">工程 Agent 的价值在闭环，而不在单行补全。</p>
-</div>
-
 # OpenAI Codex 使用教程
 
 OpenAI **Codex**（2025–2026 产品线中的工程 Agent）定位是参与真实开发流程：读仓库、改多文件、跑命令、协助 Code Review。与早期「只补全 API」不同，当前形态更接近**可授权执行的编程代理**。

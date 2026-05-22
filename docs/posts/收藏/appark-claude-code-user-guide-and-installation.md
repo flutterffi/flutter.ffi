@@ -11,15 +11,7 @@ excerpt: "终端 AI Agent 安装、套餐选择与 VS Code 接入。"
 ---
 <img src="/photos/thumb-09.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-02.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">日常场景往往比热搜更长命。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/claude-code-user-guide-and-installation) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 Claude Code 最新使用教程：**安装方式、技巧与最佳实践** [](#claude-code-最新使用教程-安装方式、技巧与最佳实践)
 

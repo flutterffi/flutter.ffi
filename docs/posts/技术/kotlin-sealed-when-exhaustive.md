@@ -9,11 +9,6 @@ excerpt: 用 sealed interface 建模 UI 状态机，与 Swift enum associated va
 ---
 <img src="/photos/thumb-15.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-08.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">镜头里留住的片刻，给观点一点落地的重量。</p>
-</div>
-
 # 密封类与穷尽 when
 
 ```kotlin

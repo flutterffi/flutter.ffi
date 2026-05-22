@@ -11,11 +11,6 @@ excerpt: 本站 SwiftUI 深度系列：AttributeGraph、身份、布局、导航
 
 <img src="/photos/thumb-02.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-03.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">先建立运行时模型，再谈组件 API。</p>
-</div>
-
 # SwiftUI 深度教程索引
 
 本系列为**原创技术长文**，写作时参考了社区高质量来源的思路（非转载），便于对照深入学习：

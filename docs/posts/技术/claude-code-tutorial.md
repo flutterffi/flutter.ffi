@@ -11,11 +11,6 @@ excerpt: Anthropic 终端编程 Agent：安装、CLAUDE.md 项目记忆、权限
 
 <img src="/photos/thumb-02.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-02.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">终端是指挥部，仓库是战场。</p>
-</div>
-
 # Claude Code 使用教程
 
 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 是 Anthropic 推出的**终端优先** AI 编程 Agent：能读仓库、改文件、跑命令、提 PR。适合把「一整个任务」交给 AI，而不是只补一行代码。

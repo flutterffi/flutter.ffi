@@ -11,11 +11,6 @@ excerpt: 本站技术区原创教程：Cursor、Claude Code、Copilot、Codex、
 
 <img src="/photos/thumb-07.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-07.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">工具会变，选型和验收方法可以留下来。</p>
-</div>
-
 # 主流 AI 编程工具教程索引
 
 以下为**技术**分类下的本站原创入门教程（非转载）。收藏区另有 Appark 等外部教程备份，可作补充阅读。

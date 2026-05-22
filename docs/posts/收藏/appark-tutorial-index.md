@@ -9,15 +9,7 @@ excerpt: "从 Appark 博客收录的应用增长、ASO 与工具教程目录。"
 ---
 <img src="/photos/thumb-06.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-15.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">街角的光，像新闻标题一样突然又平常。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 # Appark 教程收藏
 

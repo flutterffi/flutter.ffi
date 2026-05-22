@@ -11,15 +11,7 @@ excerpt: "尼区 Apple ID、礼品卡与 Claude 注册接码的完整教程。"
 ---
 <img src="/photos/thumb-02.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-11.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">一张随拍，像评论里的脚注。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/claude-pro-discount-subscription-tutorial) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买 [](#_2026年最新-claude-pro-折扣订阅教程-五折尼日利亚区购买)
 

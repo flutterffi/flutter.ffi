@@ -12,11 +12,6 @@ excerpt: Roo Code（原 Roo Cline）VS Code 扩展：Code/Architect/Debug 模式
 
 <img src="/photos/thumb-10.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-10.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">同一编辑器里，也可以切换不同的「工种」模式。</p>
-</div>
-
 # Roo Code 使用教程
 
 [Roo Code](https://github.com/RooCodeInc/Roo-Code)（前身为 **Roo Cline**，由 Cline 生态分支发展）是 VS Code 上的 **AI 编程 Agent** 扩展。与 [Cline](/posts/技术/cline-vscode-agent-tutorial) 类似，通过自有 API Key 调用多厂商模型；差异在于 Roo Code 强调**多角色模式**（写代码 / 做架构 / 调试）与更细的自定义配置。

@@ -11,15 +11,7 @@ excerpt: "Codex 安装、GPT-5.5 实战与 DeepSeek V4 对比。"
 ---
 <img src="/photos/thumb-09.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-02.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">日常场景往往比热搜更长命。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/openai-codex-guide-gpt55-vs-deepseekv4) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4 [](#openai-codex-使用教程-从安装到-gpt-5-5-实战-深度对比-deepseek-v4)
 

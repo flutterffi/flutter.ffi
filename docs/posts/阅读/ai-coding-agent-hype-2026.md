@@ -11,11 +11,6 @@ excerpt: Cursor、Codex、Claude Code 轮番上热搜，兴奋背后是对效率
 
 <img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-09.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">工具越热闹，人越需要想清楚自己要成为什么。</p>
-</div>
-
 # 当「AI 写代码」成为热搜
 
 2026 年上半年，社交平台上几乎每周都有新的「编程 Agent」话题：有人晒一键生成 PR，有人吐槽幻觉删库，还有人认真讨论「初级工程师是否正在消失」。热搜轮换得很快，情绪却高度相似——**既想立刻上车，又怕被车甩下**。

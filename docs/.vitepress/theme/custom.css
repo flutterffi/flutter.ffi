@@ -173,7 +173,7 @@
 .vp-doc .article-banner {
   width: 100%;
   max-width: 720px;
-  max-height: 360px;
+  aspect-ratio: 16 / 9;
   height: auto;
   object-fit: cover;
   border-radius: 12px;

@@ -35,7 +35,8 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/flutterffi/flutter.ffi' },
+      { icon: 'github', link: 'https://github.com/flutterffi' },
+      { icon: 'x', link: 'https://x.com/flutterffi' },
     ],
   },
 })

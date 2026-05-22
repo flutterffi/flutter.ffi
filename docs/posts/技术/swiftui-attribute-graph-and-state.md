@@ -11,11 +11,6 @@ excerpt: 从 @State 的真实存储位置、依赖边到脏标记与 body 重算
 
 <img src="/photos/thumb-11.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-11.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">声明式 UI 的背后是一张会记账的图，而不是一摞 View 结构体。</p>
-</div>
-
 # AttributeGraph、@State 与更新传播
 
 社区里 objc.io [Swift Talk 的 Attribute Graph 系列](https://talk.objc.io/episodes/S01E429-attribute-graph-part-1)、SwiftyPlace 对 [AttributeGraph 引擎](https://www.swiftyplace.com/blog/the-attributegraph-the-engine-behind-every-swiftui-view) 的梳理，以及 Michael Tsai 对 [@State 与图节点](https://mjtsai.com/blog/2026/05/14/swiftui-state-and-the-attribute-graph/) 的摘要，都指向同一件事：**SwiftUI 的「状态」不在 View 结构体里**。

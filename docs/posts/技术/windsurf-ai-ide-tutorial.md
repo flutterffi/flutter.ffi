@@ -11,11 +11,6 @@ excerpt: Codeium 出品的 AI IDE：Cascade 多步推理、Flows 工作流与和
 
 <img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-05.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">多步推理像瀑布，一步接一步把任务冲到底。</p>
-</div>
-
 # Windsurf 使用教程
 
 [Windsurf](https://windsurf.com)（原 Codeium 编辑器路线）是与 Cursor 同类的 **AI-native IDE**，主打 **Cascade**——把「理解 → 规划 → 改文件 → 跑终端」串成连续流，减少你在 Chat 与编辑器之间来回粘贴。

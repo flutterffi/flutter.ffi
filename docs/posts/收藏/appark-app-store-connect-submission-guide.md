@@ -11,15 +11,7 @@ excerpt: "从零发布第一款 iOS App 的证书、元数据与审核避坑。"
 ---
 <img src="/photos/thumb-03.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/app-store-connect-submission-guide) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 App Store Connect 最新上架教程：从零开始发布你的第一款 APP [](#app-store-connect-最新上架教程-从零开始发布你的第一款-app)
 

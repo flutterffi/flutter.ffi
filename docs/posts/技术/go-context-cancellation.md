@@ -9,11 +9,6 @@ excerpt: 贯穿 HTTP handler、gRPC 与 worker 池的取消传播惯例。
 ---
 <img src="/photos/thumb-03.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
-</div>
-
 # context.Context
 
 ```go

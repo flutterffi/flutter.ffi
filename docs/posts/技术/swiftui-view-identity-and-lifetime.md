@@ -11,11 +11,6 @@ excerpt: 结构身份 vs 显式 id、ForEach 稳定性、TabView 懒加载与 on
 
 <img src="/photos/thumb-12.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">同一套 UI 代码，换一层 id 就是另一个「实例」。</p>
-</div>
-
 # 视图身份与生命周期
 
 SwiftyPlace 关于 [onAppear 何时触发](https://www.swiftyplace.com/blog/swiftui-view-lifecycle-onappear) 的文章把问题拆成两条轨：**节点生命周期**（图里有没有这个 View）与 **可见性**（用户看不看得到）。很多「onAppear 乱了」其实是 **身份** 和 **容器策略** 叠在一起。

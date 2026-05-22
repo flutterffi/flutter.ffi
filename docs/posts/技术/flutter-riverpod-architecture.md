@@ -10,11 +10,6 @@ excerpt: 用 Provider 组合替代 InheritedWidget 泥球，讨论 AsyncNotifier
 ---
 <img src="/photos/thumb-15.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-08.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">镜头里留住的片刻，给观点一点落地的重量。</p>
-</div>
-
 # Riverpod 架构笔记
 
 `flutter_riverpod` 把状态提升为可测试的图结构，而不是散落在 Widget 树里。

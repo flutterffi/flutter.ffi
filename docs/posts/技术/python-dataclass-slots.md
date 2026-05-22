@@ -8,11 +8,6 @@ excerpt: 对比 attrs/pydantic，谈配置模型与 API DTO 分层。
 ---
 <img src="/photos/thumb-02.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-11.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">一张随拍，像评论里的脚注。</p>
-</div>
-
 # dataclass 进阶
 
 ```python

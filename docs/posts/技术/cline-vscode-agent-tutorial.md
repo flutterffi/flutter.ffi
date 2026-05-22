@@ -12,11 +12,6 @@ excerpt: 开源 VS Code 扩展 Cline：接 Anthropic/OpenAI/国产模型 API，P
 
 <img src="/photos/thumb-06.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-06.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">留在熟悉的 VS Code，也能接上不同的模型后端。</p>
-</div>
-
 # Cline 使用教程
 
 [Cline](https://github.com/cline/cline)（前身 Clawd / Claude Dev）是 VS Code 上的**开源 AI 编程 Agent** 扩展：保留你现有编辑器与插件，通过配置 **API Key** 或兼容端点调用 Claude、GPT、Gemini、DeepSeek、GLM 等模型。

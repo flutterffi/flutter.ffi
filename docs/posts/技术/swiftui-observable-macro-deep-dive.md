@@ -11,11 +11,6 @@ excerpt: Observation 框架如何把属性访问变成依赖边，以及 @Observ
 
 <img src="/photos/thumb-15.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-15.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">少刷新不是魔法，是更细的依赖图。</p>
-</div>
-
 # @Observable 宏与依赖跟踪
 
 本站已有短文 [SwiftUI 状态观察](/posts/技术/swiftui-state-observation)。本篇补足 **机制与迁移深水区**，思路与 Apple *Discover Observation in SwiftUI*（WWDC23）及社区对 AttributeGraph 细粒度边的讨论一致。

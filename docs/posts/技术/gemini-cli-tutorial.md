@@ -12,11 +12,6 @@ excerpt: Google 官方终端编程 Agent：安装、GEMINI.md 项目说明、工
 
 <img src="/photos/thumb-08.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-08.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">多模型时代，终端 Agent 是另一条工程主线。</p>
-</div>
-
 # Gemini CLI 使用教程
 
 **Gemini CLI** 是 Google 面向开发者的**终端 AI Agent**（与 Gemini 网页/APP 同源模型族），可在项目目录中读文件、执行命令、做多步推理。CC Switch 等工具已将其与 Claude Code、Codex 并列管理，说明它已是主流 Agent 之一。

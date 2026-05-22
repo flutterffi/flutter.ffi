@@ -11,15 +11,7 @@ excerpt: "推特爆款 Prompt 模板与结构化生图技巧。"
 ---
 <img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-14.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/gpt-image-2-advanced-prompt-and-templates) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果 [](#gpt-image-2提示词高阶模板合集-附推特爆款提示词生图效果)
 

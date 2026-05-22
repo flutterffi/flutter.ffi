@@ -9,11 +9,6 @@ excerpt: 李白句式的留白与 gdb 单步，都是在有限符号里寻找因
 ---
 <img src="/photos/thumb-13.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-06.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
-</div>
-
 # 诗歌与调试
 
 好诗留白，好代码也留白：函数名是隐喻，类型是约束，注释解释**为什么**而非**是什么**。

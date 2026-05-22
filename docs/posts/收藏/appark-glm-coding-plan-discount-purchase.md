@@ -11,15 +11,7 @@ excerpt: "智谱 GLM 编程套餐、优惠码与国际版订阅说明。"
 ---
 <img src="/photos/thumb-04.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-13.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">记录本身，就是一种立场。</p>
-</div>
-
-
 > **转载说明**：本文由 [Appark 博客](https://appark.ai/cn/blog/glm-coding-plan-discount-purchase) 收录备份，版权归 Appark 及原作者所有。仅供个人学习收藏，如有侵权请联系删除。
-
-
 
 GLM Coding Plan 九折优惠购买指南｜持续更新优惠码 [](#glm-coding-plan-九折优惠购买指南-持续更新优惠码)
 

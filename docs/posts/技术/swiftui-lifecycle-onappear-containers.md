@@ -11,11 +11,6 @@ excerpt: 区分节点销毁与仅不可见，理清 TabView、NavigationStack、
 
 <img src="/photos/thumb-16.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-16.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">出现不等于创建，消失不等于销毁。</p>
-</div>
-
 # onAppear、task 与容器语义
 
 参考 SwiftyPlace 对 [View Lifecycle](https://www.swiftyplace.com/blog/swiftui-view-lifecycle-onappear) 的拆解：生产 bug 的根源常是把 **onAppear 当成 viewDidLoad**，而 SwiftUI 里二者不对等。

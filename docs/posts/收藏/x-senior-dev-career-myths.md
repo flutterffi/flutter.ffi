@@ -10,12 +10,6 @@ excerpt: 整理关于十年经验、面试 LeetCode 与 IC 转管理的社区争
 ---
 <img src="/photos/thumb-03.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
-</div>
-
-
 # 「资深工程师」迷思收藏
 
 职业类讨论在 X 上极易传播，因触及身份焦虑。以下为常见**迷思—反论**对，便于收藏后冷静阅读。

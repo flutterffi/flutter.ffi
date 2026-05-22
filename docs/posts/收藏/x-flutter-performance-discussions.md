@@ -10,12 +10,6 @@ excerpt: 整理开发者社区关于 Impeller、重建优化与真机 Profiling 
 ---
 <img src="/photos/thumb-15.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-08.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">镜头里留住的片刻，给观点一点落地的重量。</p>
-</div>
-
-
 # X 上关于 Flutter 性能的讨论精华
 
 > 本文为**编辑整理**，归纳公开技术社区（含 X/Twitter、Mastodon 技术圈）常见观点，非单条推文转载。具体作者与链接因时效未逐一列出，建议结合官方文档验证。

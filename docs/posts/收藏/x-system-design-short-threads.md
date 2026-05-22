@@ -10,12 +10,6 @@ excerpt: 把「设计 Twitter」「短链接」「消息队列」类经典帖拆
 ---
 <img src="/photos/thumb-07.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-16.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">镜头里留住的片刻，给观点一点落地的重量。</p>
-</div>
-
-
 # 系统设计短文收藏
 
 X 上系统设计内容多为**压缩版博文**。阅读方式应是「提取模型」，而非背答案。

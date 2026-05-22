@@ -9,11 +9,6 @@ excerpt: 官方文档、Flutter Apprentice、源码走读与 FFI 四条线并行
 ---
 <img src="/photos/thumb-14.jpg" alt="配图" class="article-banner" loading="lazy" />
 
-<div class="figure wide">
-  <img src="/photos/photo-07.jpg" alt="随拍配图" loading="lazy" />
-  <p class="figure-caption">街角的光，像新闻标题一样突然又平常。</p>
-</div>
-
 # Flutter 学习路径
 
 1. **基础**：Widget 生命周期、布局约束、状态管理（Riverpod）
