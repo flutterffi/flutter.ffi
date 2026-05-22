@@ -1,0 +1,27 @@
+---
+title: Swift 并发：async/await 与 Task 取消协作
+date: 2025-01-28
+category: 技术
+tags:
+  - Swift
+  - 并发
+excerpt: 讨论 TaskGroup、优先级反转与在 View 生命周期中绑定任务。
+---
+# Swift async/await
+
+```swift
+func loadFeed() async throws -> [Post] {
+    try await withThrowingTaskGroup(of: Post.self) { group in
+        for id in ids {
+            group.addTask { try await api.post(id) }
+        }
+        return try await group.reduce(into: []) { $0.append($1) }
+    }
+}
+```
+
+`Task.checkCancellation()` 应在长循环中周期性调用。
+
+## UI 绑定
+
+`.task { await vm.load() }` 在 SwiftUI 视图消失时自动取消，优于裸 `Task {}` 泄漏风险。
