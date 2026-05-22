@@ -7,6 +7,13 @@ tags:
   - 协议
 excerpt: 用 protocol extension 提供默认实现，谈 PAT 与类型擦除容器。
 ---
+<img src="/photos/thumb-11.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-04.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
+</div>
+
 # 面向协议编程
 
 ```swift

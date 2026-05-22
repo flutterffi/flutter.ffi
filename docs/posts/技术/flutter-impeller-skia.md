@@ -8,6 +8,13 @@ tags:
   - Impeller
 excerpt: 简述 Impeller 相对 Skia 在着色器预编译、光栅化与 jank 上的取舍。
 ---
+<img src="/photos/thumb-03.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
+</div>
+
 # Impeller 与 Skia
 
 Impeller 是 Flutter 为降低**首帧着色器编译卡顿**而引入的渲染后端，尤其针对 Vulkan/Metal。

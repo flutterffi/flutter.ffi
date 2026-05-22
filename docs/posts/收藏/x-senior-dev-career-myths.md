@@ -8,6 +8,13 @@ tags:
   - X
 excerpt: 整理关于十年经验、面试 LeetCode 与 IC 转管理的社区争论，供职业阶段自省。
 ---
+<img src="/photos/thumb-03.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
+</div>
+
 
 # 「资深工程师」迷思收藏
 

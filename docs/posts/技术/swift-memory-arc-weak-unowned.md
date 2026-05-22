@@ -7,6 +7,13 @@ tags:
   - 内存
 excerpt: 用循环引用图解释 capture list 与 delegate 弱引用模式。
 ---
+<img src="/photos/thumb-09.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-02.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">日常场景往往比热搜更长命。</p>
+</div>
+
 # ARC 内存管理
 
 ```swift

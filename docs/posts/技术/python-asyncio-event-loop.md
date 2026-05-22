@@ -7,6 +7,13 @@ tags:
   - asyncio
 excerpt: 区分协程与线程池 offload，避免在 async 函数里阻塞调用。
 ---
+<img src="/photos/thumb-12.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-05.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">记录本身，就是一种立场。</p>
+</div>
+
 # asyncio 实战
 
 ```python

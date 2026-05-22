@@ -6,6 +6,13 @@ tags:
   - 生活
 excerpt: 只留键盘、显示器、笔记本与一杯水，线缆收纳的真实收益。
 ---
+<img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-14.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
+</div>
+
 # 桌面极简
 
 杂物是未关闭的 tab。收纳线缆后，视觉噪音下降，切换任务的摩擦变小。

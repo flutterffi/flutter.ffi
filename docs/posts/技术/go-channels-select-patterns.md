@@ -7,6 +7,13 @@ tags:
   - 并发
 excerpt: fan-in、超时 select、done channel 关闭语义与 nil channel 陷阱。
 ---
+<img src="/photos/thumb-11.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-04.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
+</div>
+
 # channel 模式
 
 ```go

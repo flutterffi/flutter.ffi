@@ -7,6 +7,13 @@ tags:
   - 工具
 excerpt: 整理 IDE、Charles、Obsidian、ripgrep 等长期驻留工具及使用场景。
 ---
+<img src="/photos/thumb-01.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-10.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">日常场景往往比热搜更长命。</p>
+</div>
+
 # 工具箱 2026
 
 | 类别 | 工具 | 用途 |

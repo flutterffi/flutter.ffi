@@ -7,6 +7,13 @@ tags:
   - Flow
 excerpt: 说明 StateFlow、SharedFlow 与 Observable 在 UI 状态层的映射关系。
 ---
+<img src="/photos/thumb-06.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-15.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">街角的光，像新闻标题一样突然又平常。</p>
+</div>
+
 # Flow vs RxJava
 
 Flow 默认是**冷流**：收集才执行，利于资源节约。

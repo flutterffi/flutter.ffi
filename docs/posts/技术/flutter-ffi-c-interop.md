@@ -8,6 +8,13 @@ tags:
   - Dart
 excerpt: 梳理 Dart FFI 调用 C 库时符号加载、结构体布局与指针生命周期的常见陷阱。
 ---
+<img src="/photos/thumb-07.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-16.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">镜头里留住的片刻，给观点一点落地的重量。</p>
+</div>
+
 # Flutter FFI 与 C 互操作
 
 移动与桌面场景常需复用既有 C/C++ 能力：编解码、传感器 SDK、游戏引擎碎片。Dart 2.12+ 的 `dart:ffi` 提供稳定 ABI，但**所有权**与**线程**仍是事故高发区。

@@ -7,6 +7,13 @@ tags:
   - 工作流
 excerpt: 用一条真实分支流程串起 clone、分支、提交、推送、合并与回滚，适合个人博客与小型项目。
 ---
+<img src="/photos/thumb-13.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-06.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
+</div>
+
 
 # Git 日常使用案例：从改代码到安全上线
 

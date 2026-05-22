@@ -7,6 +7,13 @@ tags:
   - 工程化
 excerpt: go.work 多模块、replace 指令与私有 module proxy 配置要点。
 ---
+<img src="/photos/thumb-16.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-09.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">画面不必解释一切，它只是让叙述慢下来。</p>
+</div>
+
 # Go Modules 工程化
 
 ```bash

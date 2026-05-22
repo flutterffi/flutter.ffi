@@ -7,6 +7,13 @@ tags:
   - SwiftUI
 excerpt: 从 ObservableObject 到 @Observable 宏，减少 objectWillChange 样板。
 ---
+<img src="/photos/thumb-03.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-12.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
+</div>
+
 # SwiftUI 状态观察
 
 iOS 17+ `@Observable` 取代部分 `ObservableObject`：

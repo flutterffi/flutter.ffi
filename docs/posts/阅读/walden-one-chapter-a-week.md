@@ -6,6 +6,13 @@ tags:
   - 阅读
 excerpt: 梭罗的湖不是逃避，而是对消费默认值的质疑；与极简桌面相映。
 ---
+<img src="/photos/thumb-06.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-15.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">街角的光，像新闻标题一样突然又平常。</p>
+</div>
+
 # 每周一章瓦尔登
 
 梭罗若活在今日，大概会嘲笑我们买齐机械键盘却写不出三百字日记。

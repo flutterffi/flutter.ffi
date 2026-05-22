@@ -7,6 +7,13 @@ tags:
   - 性能
 excerpt: 用 Profile 模式定位 rebuild 热点，总结 const、Key 与 itemExtent 策略。
 ---
+<img src="/photos/thumb-11.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-04.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">光影把抽象话题拽回可触摸的现实。</p>
+</div>
+
 # Widget 重建优化
 
 ## 诊断流程

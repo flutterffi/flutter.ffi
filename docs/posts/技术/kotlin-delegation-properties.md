@@ -6,6 +6,13 @@ tags:
   - Kotlin
 excerpt: 拆解 Delegates.notNull 在 Fragment 视图绑定里的典型写法与生命周期。
 ---
+<img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-14.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
+</div>
+
 # 属性委托
 
 ```kotlin

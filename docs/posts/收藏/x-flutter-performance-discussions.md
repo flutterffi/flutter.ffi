@@ -8,6 +8,13 @@ tags:
   - X
 excerpt: 整理开发者社区关于 Impeller、重建优化与真机 Profiling 的共识与争议，附可执行检查清单。
 ---
+<img src="/photos/thumb-15.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-08.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">镜头里留住的片刻，给观点一点落地的重量。</p>
+</div>
+
 
 # X 上关于 Flutter 性能的讨论精华
 

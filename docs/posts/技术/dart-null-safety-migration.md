@@ -7,6 +7,13 @@ tags:
   - Flutter
 excerpt: 解释 promoted flow analysis、late 与可空泛型的边界行为。
 ---
+<img src="/photos/thumb-04.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-13.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">记录本身，就是一种立场。</p>
+</div>
+
 # Dart 空安全
 
 Sound null safety 在编译期消灭大量 NPE。

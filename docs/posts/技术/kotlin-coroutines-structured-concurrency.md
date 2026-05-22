@@ -7,6 +7,13 @@ tags:
   - 协程
 excerpt: 从 CoroutineScope、Job 层次与 supervisorScope 谈取消传播与异常聚合。
 ---
+<img src="/photos/thumb-04.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-13.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">记录本身，就是一种立场。</p>
+</div>
+
 # Kotlin 结构化并发
 
 协程不是「轻量线程」口号，而是一套**带生命周期**的并发抽象。

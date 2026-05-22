@@ -7,6 +7,13 @@ tags:
   - 并发
 excerpt: 讨论 TaskGroup、优先级反转与在 View 生命周期中绑定任务。
 ---
+<img src="/photos/thumb-12.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-05.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">记录本身，就是一种立场。</p>
+</div>
+
 # Swift async/await
 
 ```swift

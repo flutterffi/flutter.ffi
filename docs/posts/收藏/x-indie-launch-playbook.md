@@ -8,6 +8,13 @@ tags:
   - X
 excerpt: 归纳 Show HN、Product Hunt、落地页与邮件列表的发布节奏，适合 side project。
 ---
+<img src="/photos/thumb-05.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-14.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">留白处，读者可以补上自己的判断。</p>
+</div>
+
 
 # 独立开发者发布清单
 

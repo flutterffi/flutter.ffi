@@ -7,6 +7,13 @@ tags:
   - KMP
 excerpt: 评估 expect/actual、网络层下沉与 Compose Multiplatform 的现状与坑。
 ---
+<img src="/photos/thumb-04.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-13.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">记录本身，就是一种立场。</p>
+</div>
+
 # KMM 边界
 
 KMP 擅长共享：**序列化模型、仓库、业务规则**；UI 仍多平台原生或 Compose Multiplatform。

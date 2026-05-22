@@ -7,6 +7,13 @@ tags:
   - 接口
 excerpt: 从 io.Reader 到仓储抽象，讨论接口应定义在消费方一侧。
 ---
+<img src="/photos/thumb-09.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-02.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">日常场景往往比热搜更长命。</p>
+</div>
+
 # Go 接口
 
 ```go

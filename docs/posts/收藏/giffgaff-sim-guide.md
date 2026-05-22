@@ -8,6 +8,13 @@ tags:
   - 旅行
 excerpt: 从免费领卡、激活到套餐选择与保号，一篇收藏备用的 Giffgaff 开卡全流程指南。
 ---
+<img src="/photos/thumb-02.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-11.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">一张随拍，像评论里的脚注。</p>
+</div>
+
 
 # 经典 Giffgaff 开卡指南（英国平价 SIM）
 

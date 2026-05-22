@@ -7,6 +7,13 @@ tags:
   - 哲学
 excerpt: 把「控制二分法」映射到需求变更、线上事故与代码评审情绪。
 ---
+<img src="/photos/thumb-02.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-11.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">一张随拍，像评论里的脚注。</p>
+</div>
+
 # 《沉思录》札记
 
 马可·奥勒留写给自己，不是写给别人。这种私密性让句子像日志。

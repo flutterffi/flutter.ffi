@@ -8,6 +8,13 @@ tags:
   - 并发
 excerpt: 对比 Isolate 与线程池思维，说明 compute、ReceivePort 与后台解析大 JSON 的模式。
 ---
+<img src="/photos/thumb-16.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-09.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">画面不必解释一切，它只是让叙述慢下来。</p>
+</div>
+
 # Flutter Isolate 实战
 
 Dart 单线程事件循环保证 UI 顺滑，CPU 密集任务必须 offload。

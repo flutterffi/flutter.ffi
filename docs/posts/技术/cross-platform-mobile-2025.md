@@ -8,6 +8,13 @@ tags:
   - Swift
 excerpt: 从团队技能、包体、生态与 FFI 四个维度做技术选型矩阵。
 ---
+<img src="/photos/thumb-08.jpg" alt="配图" class="article-banner" loading="lazy" />
+
+<div class="figure wide">
+  <img src="/photos/photo-01.jpg" alt="随拍配图" loading="lazy" />
+  <p class="figure-caption">画面不必解释一切，它只是让叙述慢下来。</p>
+</div>
+
 # 跨平台选型矩阵
 
 | 维度 | Flutter | KMP | 双原生 |
