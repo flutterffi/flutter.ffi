@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
+      link: /articles
+    - theme: alt
+      text: 归档
       link: /archive
     - theme: alt
-      text: 所有文章
-      link: /archive
-    - theme: alt
-      text: 源码仓库
-      link: https://github.com/flutterffi/flutter.ffi
+      text: 我的
+      link: /mine
 
 features:
   - icon: 🚀

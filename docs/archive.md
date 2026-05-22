@@ -1,5 +1,5 @@
 ---
-title: 所有文章
+title: 归档
 ---
 
 <script setup>
@@ -12,7 +12,9 @@ const grouped = CATEGORIES.map((name) => ({
 }))
 </script>
 
-# 所有文章
+# 归档
+
+按分类浏览全部文章。
 
 <section v-for="group in grouped" :key="group.name" class="category-block">
   <h2>{{ group.name }}</h2>

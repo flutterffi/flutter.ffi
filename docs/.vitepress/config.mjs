@@ -11,14 +11,16 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '文章', link: '/articles' },
       { text: '归档', link: '/archive' },
-      { text: '写作指南', link: '/guide/writing' },
-      { text: 'GitHub', link: 'https://github.com/flutterffi/flutter.ffi' },
+      { text: '我的', link: '/mine' },
     ],
     sidebar: {
       '/': categorySidebar,
       '/posts/': categorySidebar,
+      '/articles': categorySidebar,
       '/archive': categorySidebar,
+      '/mine': categorySidebar,
       '/guide/': [
         { text: '文档', items: [{ text: '写作指南', link: '/guide/writing' }] },
       ],
