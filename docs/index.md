@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /posts/hello-world
+      link: /archive
     - theme: alt
       text: 所有文章
       link: /archive

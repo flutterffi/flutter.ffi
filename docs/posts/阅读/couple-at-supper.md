@@ -1,12 +1,13 @@
 ---
-title: While having supper with a friend, she told me about this couple.
-date: 2026-05-21
+title: 晚饭时朋友讲的一对情侣
+date: 2026-05-22
+category: 阅读
 tags:
-  - Book
-excerpt: The guy studied design, comes from an extremely wealthy family, and didn’t look for a job after graduation—he’s in the process of setting up his own company. But he’s not terribly busy, living in a semi-leisurely state, just taking on the odd freelance job here and there to get by.
+  - 阅读
+excerpt: 男生学设计、家境极好，毕业后不找工作，半闲散地接点零活；女生是高中同学，重逢后走到一起……
 ---
 
-# 欢迎 👋
+# 晚饭时朋友讲的一对情侣
 
 While having supper with a friend, she told me about this couple.
 

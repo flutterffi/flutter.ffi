@@ -1,9 +1,9 @@
 ---
 title: 欢迎来到博客
 date: 2026-05-21
+category: 生活
 tags:
   - 生活
-  - 阅读
 excerpt: 这是博客的第一篇文章。
 ---
 

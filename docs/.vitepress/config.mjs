@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { buildCategorySidebar } from './utils/sidebar.mjs'
+
+const categorySidebar = buildCategorySidebar()
 
 export default defineConfig({
   title: '阅读与生活',
@@ -8,10 +11,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/posts/hello-world' },
       { text: '归档', link: '/archive' },
       { text: 'GitHub', link: 'https://github.com/flutterffi/flutter.ffi' },
     ],
+    sidebar: {
+      '/': categorySidebar,
+      '/posts/': categorySidebar,
+      '/archive': categorySidebar,
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/flutterffi/flutter.ffi' },
     ],

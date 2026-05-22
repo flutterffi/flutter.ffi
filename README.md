@@ -25,21 +25,22 @@ npm run docs:dev
 
 ## 写文章
 
-在 `docs/posts/` 下新建 Markdown，例如 `my-article.md`：
+在 `docs/posts/<分类>/` 下新建 Markdown。分类目录：`阅读`、`生活`、`技术`、`收藏`。
 
 ```md
 ---
 title: 文章标题
 date: 2026-05-22
+category: 阅读
 tags:
-  - Flutter
+  - 随笔
 excerpt: 列表页显示的摘要（可选）
 ---
 
 正文内容…
 ```
 
-新文章若需出现在侧边栏，在 `docs/.vitepress/config.ts` 的 `sidebar` 中补充链接（或使用默认导航进入「所有文章」页）。
+`category` 与所在文件夹名一致时，侧边栏与归档页会自动收录，无需改配置。
 
 ## 发布
 
