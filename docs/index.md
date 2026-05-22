@@ -27,7 +27,3 @@ features:
     title: VitePress
     details: 基于 Vite 的静态站点，构建快、配置简单、维护成本低。
 ---
-
-## 最新文章
-
-<PostList />

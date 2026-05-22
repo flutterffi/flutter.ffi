@@ -3,7 +3,7 @@ title: 所有文章
 ---
 
 <script setup>
-import { data as posts } from './posts.data'
+import { data as posts } from './.vitepress/theme/posts.data.js'
 </script>
 
 # 所有文章
