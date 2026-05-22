@@ -27,7 +27,7 @@ jobs:
           NODE_ENV: development
 
       - name: Verify VitePress installed
-        run: npx vitepress --version
+        run: npm ls vitepress && test -x node_modules/.bin/vitepress
 
       - name: Build site
         run: npm run docs:build
