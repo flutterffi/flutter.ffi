@@ -34,7 +34,7 @@ jobs:
         run: ls -la source/_posts/
 
       - name: Build Hexo with verbose
-        run: npx hexo generate --verbose
+        run: npx hexo generate --verbose 2>&1 || (echo "BUILD FAILED" && exit 1)
         env:
           TZ: Asia/Shanghai
 
