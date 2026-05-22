@@ -31,10 +31,16 @@ jobs:
         run: git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
 
       - name: Check npm packages
-        run: npm list hexo-cli
+        run: npm list hexo-cli && npm list hexo
+
+      - name: Check current directory
+        run: pwd && ls -la
 
       - name: List source files
         run: ls -la source/_posts/
+
+      - name: Check hexo commands
+        run: node_modules/.bin/hexo help
 
       - name: Build Hexo with verbose
         run: node_modules/.bin/hexo generate --verbose 2>&1 || (echo "BUILD FAILED" && exit 1)
