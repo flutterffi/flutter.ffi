@@ -35,6 +35,9 @@ jobs:
         env:
           TZ: Asia/Shanghai
 
+      - name: Check build output
+        run: ls -la public/
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
