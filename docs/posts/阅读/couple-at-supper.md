@@ -7,10 +7,10 @@ tags:
 excerpt: 男生学设计、家境极好，毕业后不找工作，半闲散地接点零活；女生是高中同学，重逢后走到一起……
 ---
 
-<img src="/photos/photo-03.jpg" alt="随拍" class="article-banner" />
+<img src="/photos/thumb-03.jpg" alt="随拍" class="article-banner" loading="lazy" />
 
 <div class="figure wide">
-  <img src="/photos/photo-04.jpg" alt="故事配图" />
+  <img src="/photos/thumb-04.jpg" alt="故事配图" loading="lazy" />
   <p class="figure-caption">生活里的片段，也像电影镜头。</p>
 </div>
 

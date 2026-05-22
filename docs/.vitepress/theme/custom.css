@@ -30,13 +30,19 @@
   text-align: center;
 }
 
+.VPHome .VPFeatures .icon {
+  display: flex;
+  justify-content: center;
+}
+
 .VPHome .VPFeatures .icon img {
   width: 100%;
-  max-width: 260px;
+  max-width: 312px;
   height: 156px;
   object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  background: var(--vp-c-bg-soft);
 }
 
 .VPHome .VPFeatures .title {
@@ -166,8 +172,11 @@
 
 .vp-doc .article-banner {
   width: 100%;
-  max-height: 280px;
+  max-width: 720px;
+  max-height: 360px;
+  height: auto;
   object-fit: cover;
   border-radius: 12px;
-  margin: 0 0 1.5rem;
+  margin: 0 auto 1.5rem;
+  display: block;
 }

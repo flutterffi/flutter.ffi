@@ -7,7 +7,7 @@ tags:
 excerpt: 这是博客的第一篇文章。
 ---
 
-<img src="/photos/photo-01.jpg" alt="生活随拍" class="article-banner" />
+<img src="/photos/thumb-01.jpg" alt="生活随拍" class="article-banner" loading="lazy" />
 
 <div class="figure svg-inline">
   <img src="/svg/book.svg" alt="阅读" width="80" />
