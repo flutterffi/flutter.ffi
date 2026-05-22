@@ -1,0 +1,43 @@
+/* 首页电影台词卡片 */
+.VPHome .VPFeatures .item {
+  text-align: center;
+}
+
+.VPHome .VPFeatures .icon img {
+  width: 100%;
+  max-width: 280px;
+  height: 168px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+.VPHome .VPFeatures .title {
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin-top: 0.75rem;
+}
+
+.VPHome .VPFeatures .details {
+  margin-top: 0.35rem;
+  color: var(--vp-c-text-2);
+  font-size: 0.875rem;
+}
+
+@media (min-width: 640px) {
+  .VPHome .VPFeatures .container {
+    max-width: 960px;
+  }
+
+  .VPHome .VPFeatures .items {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem 1.5rem;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHome .VPFeatures .items {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
