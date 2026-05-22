@@ -23,6 +23,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        env:
+          NODE_ENV: development
+
+      - name: Verify VitePress installed
+        run: npx vitepress --version
 
       - name: Build site
         run: npm run docs:build
