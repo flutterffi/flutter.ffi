@@ -42,8 +42,11 @@ jobs:
       - name: Check hexo commands
         run: node_modules/.bin/hexo help
 
-      - name: Build Hexo with verbose
-        run: node_modules/.bin/hexo generate --verbose 2>&1 || (echo "BUILD FAILED" && exit 1)
+      - name: Clean and rebuild dependencies
+        run: rm -rf node_modules package-lock.json && npm install
+
+      - name: Build Hexo with npx
+        run: npx hexo generate --verbose 2>&1 || (echo "BUILD FAILED" && exit 1)
         env:
           TZ: Asia/Shanghai
 
