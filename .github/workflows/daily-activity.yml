@@ -34,9 +34,13 @@ jobs:
       - name: Commit and push as flutterffi
         env:
           TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          # 与 GitHub 账户绑定的 noreply 邮箱（用户 flutterffi 的 numeric ID）
           COMMIT_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'flutterffi' }}
           COMMIT_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || 'flutterffi@gmail.com' }}
+          # author 与 committer 都设为 flutterffi，避免 PAT 所属账号（如 platojobs）出现在提交者里
+          GIT_AUTHOR_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'flutterffi' }}
+          GIT_AUTHOR_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || 'flutterffi@gmail.com' }}
+          GIT_COMMITTER_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'flutterffi' }}
+          GIT_COMMITTER_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || 'flutterffi@gmail.com' }}
         run: |
           if [ -z "$TOKEN" ]; then
             echo "::error::缺少 secret: PERSONAL_TOKEN（需对 flutter.ffi 有 push 权限的个人令牌）"
@@ -52,7 +56,12 @@ jobs:
           fi
 
           git add docs/data/site-pulse.json docs/mine.md docs/activity/latest.md
-          git commit -m "chore: daily site pulse $(date -u +%Y-%m-%d)"
+          git commit \
+            --author="$COMMIT_NAME <$COMMIT_EMAIL>" \
+            -m "chore: daily site pulse $(date -u +%Y-%m-%d)"
 
-          # 用个人 PAT 推送，配合上方 author，提交才会计入你的贡献图
+          echo "Commit metadata:"
+          git log -1 --format=fuller
+
+          # PAT 可以是协作者账号（如 platojobs），仅负责 push；贡献图认 author/committer 邮箱
           git push "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main

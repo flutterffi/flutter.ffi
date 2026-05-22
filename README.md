@@ -80,13 +80,15 @@ Actions 构建 `docs/.vitepress/dist` 并推送到 `flutterffi.github.io` 的 `m
 
 - 作者：`flutterffi`
 - 邮箱：`flutterffi@gmail.com`（须在 GitHub → Settings → Emails 中已验证）
-- 推送：`secrets.PERSONAL_TOKEN`（与部署站点同一令牌，需有本仓库 push 权限）
+- 推送：`secrets.PERSONAL_TOKEN`（可与部署共用；常为协作者账号如 platojobs 的 PAT，**只负责 push**）
+- 提交者显示：工作流会把 **author 与 committer** 都写成 `flutterffi <flutterffi@gmail.com>`，避免页面上只显示 PAT 持有人
 
-请在本机确认一次（GitHub → Settings → Emails）：
+请在本机确认一次：
 
-1. `flutterffi@gmail.com` 已添加并完成 **Verify**（未验证的邮箱不会计入贡献图）  
-2. Profile → **Contributions** → 按需开启 **Include private contributions**（若有私有仓）  
-3. 贡献图只统计 **默认分支** 上的 commit（本仓为 `main`）
+1. 登录 **flutterffi** 账号 → Settings → Emails：`flutterffi@gmail.com` 已 **Verify**（绿格子算在这个账号上，不是 platojobs）  
+2. `PERSONAL_TOKEN` 对 `flutterffi/flutter.ffi` 有 push 权限即可（可用 platojobs 的令牌代推）  
+3. Profile → **Contributions** → 按需开启 **Include private contributions**  
+4. 只统计默认分支 `main` 上的 commit
 
 若你换了 GitHub 账号或关闭了隐私邮箱，可在仓库 **Variables** 覆盖：
 
