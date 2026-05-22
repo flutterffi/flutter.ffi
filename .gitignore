@@ -4,7 +4,6 @@ public/
 .deploy_git*/
 .git/
 themes/
-package-lock.json
 *.log
 .DS_Store
 Thumbs.db

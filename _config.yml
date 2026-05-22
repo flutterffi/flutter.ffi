@@ -75,32 +75,13 @@ exclude:
 ignore:
 
 # Extension
-theme: landscape
+theme: fluid
 
-# Deploy
+# Deploy（本地 hexo deploy 时使用；CI 由 GitHub Actions 推送 public）
 deploy:
   type: git
   repo: https://github.com/flutterffi/flutterffi.github.io.git
-  branch: gh-pages
+  branch: main
   token: ${GITHUB_TOKEN}
   name: ${GITHUB_ACTOR}
   email: ${GITHUB_EMAIL}
-
-# Feed
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
-  hub:
-  content:
-  content_limit: 140
-  content_limit_delim: ' '
-  order_by: -date
-  icon: icon.png
-  autodiscovery: true
-  template:
-
-# Sitemap
-sitemap:
-  template: ./themes/fluid/layout/sitemap.vm
-  filename: sitemap.xml

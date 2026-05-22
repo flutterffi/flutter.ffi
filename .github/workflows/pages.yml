@@ -9,45 +9,46 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Setup Node
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '22'
 
-      - name: Clean and install dependencies
-        run: rm -rf node_modules package-lock.json && npm install --force
+      - name: Install dependencies
+        run: npm install
 
-      - name: Install theme
-        run: git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
+      - name: Install Fluid theme
+        run: |
+          git clone --depth 1 https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
+          cp themes/fluid/_config.yml _config.fluid.yml
 
-      - name: Check hexo module
-        run: ls -la node_modules/hexo/bin/
-
-      - name: Build Hexo directly
-        run: node node_modules/hexo/bin/hexo generate --debug 2>&1 || (echo "BUILD FAILED" && exit 1)
+      - name: Build site
+        run: npm run build
         env:
           TZ: Asia/Shanghai
 
-      - name: Check build output
-        run: ls -la public/ || echo "public directory not found"
+      - name: Verify public output
+        run: |
+          if [ ! -d public ] || [ -z "$(ls -A public)" ]; then
+            echo "::error::Hexo build did not produce a non-empty public/ directory"
+            exit 1
+          fi
+          ls -la public/
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4.0.0
+        uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
           external_repository: flutterffi/flutterffi.github.io
-          publish_branch: gh-pages
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          full_commit_message: ${{ github.event.head_commit.message }}
+          publish_branch: main
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+          commit_message: ${{ github.event.head_commit.message }}

@@ -92,8 +92,13 @@ language: zh-CN
 git submodule update --init --recursive
 ```
 
+### 构建后没有 public 目录
+确认 `_config.yml` 中 `theme: fluid` 与 CI 中安装的 Fluid 主题一致。若主题为 `landscape` 但未安装 `hexo-theme-landscape`，`hexo generate` 会失败且不会生成 `public/`。
+
 ### 部署失败
-检查 GitHub Actions 日志，确保 `flutterffi.github.io` 仓库存在且为 Public。
+1. 在源码仓库 `flutter.ffi` 的 Settings → Secrets 中配置 `PERSONAL_TOKEN`（需对 `flutterffi.github.io` 有写权限的 PAT）。
+2. 用户站点 `flutterffi.github.io` 应使用 **main** 分支作为 Pages 源，不是 `gh-pages`。
+3. 确保 `flutterffi.github.io` 仓库存在且为 Public。
 
 ## 📄 许可证
 
