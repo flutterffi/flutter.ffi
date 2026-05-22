@@ -24,13 +24,40 @@ export default createContentLoader('posts/**/*.md', {
           url,
           date: formatDate(frontmatter.date as string),
           category,
-          excerpt: (excerpt || frontmatter.excerpt) as string | undefined,
+          excerpt: normalizeExcerpt(
+            frontmatter.excerpt as string | undefined,
+            excerpt as string | undefined,
+          ),
           tags: frontmatter.tags as string[] | undefined,
         }
       })
       .sort((a, b) => +new Date(b.date) - +new Date(a.date))
   },
 })
+
+/** 列表摘要只用纯文本，避免正文开头的 HTML 被当成 excerpt */
+function normalizeExcerpt(
+  fromFrontmatter?: string,
+  autoExcerpt?: string,
+): string | undefined {
+  const plain = stripHtml(fromFrontmatter || autoExcerpt || '')
+  if (!plain) return undefined
+  const max = 140
+  return plain.length > max ? `${plain.slice(0, max)}…` : plain
+}
+
+function stripHtml(value: string): string {
+  return value
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/\s+/g, ' ')
+    .trim()
+}
 
 function resolveCategory(url: string, category?: string): Category {
   if (category && CATEGORIES.includes(category as Category)) return category as Category
