@@ -25,7 +25,10 @@ jobs:
           node-version: '24'
 
       - name: Install dependencies
-        run: npm install 2>&1 | tail -50
+        run: npm install --verbose 2>&1 | tail -100
+
+      - name: Verify installation
+        run: npm list && npm list hexo-cli && npm list hexo
 
       - name: Install theme
         run: git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
