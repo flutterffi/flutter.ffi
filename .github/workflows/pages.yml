@@ -24,32 +24,14 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Install dependencies
-        run: npm install --verbose 2>&1 | tail -100
-
-      - name: Verify installation
-        run: npm list && npm list hexo-cli && npm list hexo
+      - name: Clean and install dependencies
+        run: rm -rf node_modules package-lock.json && npm install --force
 
       - name: Install theme
         run: git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
 
-      - name: Check npm packages
-        run: npm list hexo-cli && npm list hexo
-
-      - name: Check current directory
-        run: pwd && ls -la
-
-      - name: List source files
-        run: ls -la source/_posts/
-
-      - name: Check hexo commands
-        run: node_modules/.bin/hexo help
-
-      - name: Clean and rebuild dependencies
-        run: rm -rf node_modules package-lock.json && npm install
-
-      - name: Build Hexo with npx
-        run: npx hexo generate --verbose 2>&1 || (echo "BUILD FAILED" && exit 1)
+      - name: Build Hexo
+        run: npx hexo generate
         env:
           TZ: Asia/Shanghai
 
