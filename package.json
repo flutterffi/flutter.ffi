@@ -1,0 +1,21 @@
+{
+  "name": "flutter-ffi-blog",
+  "version": "1.0.0",
+  "description": "Flutter FFI 技术博客",
+  "private": true,
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
+  "dependencies": {
+    "hexo": "^7.1.0",
+    "hexo-cli": "^4.3.0",
+    "hexo-deployer-git": "^3.0.0",
+    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-theme-fluid": "^2.1.0",
+    "hexo-renderer-markdown-it": "^1.1.1"
+  }
+}
