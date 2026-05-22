@@ -4,8 +4,8 @@ import { buildCategorySidebar } from './utils/sidebar.mjs'
 const categorySidebar = buildCategorySidebar()
 
 export default defineConfig({
-  title: '阅读与生活',
-  description: '阅读和生活分享',
+  title: 'Reading & Life',
+  description: 'Reading, living, and the quiet art of paying attention',
   lang: 'zh-CN',
   ignoreDeadLinks: true,
   themeConfig: {

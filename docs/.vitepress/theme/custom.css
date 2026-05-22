@@ -1,19 +1,46 @@
-/* 首页电影台词卡片 */
+/* Hero typography hierarchy */
+.VPHome .VPHero .name {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-1);
+  line-height: 1.4;
+}
+
+.VPHome .VPHero .text {
+  font-size: clamp(2.25rem, 6vw, 3.5rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin-top: 0.5rem;
+}
+
+.VPHome .VPHero .tagline {
+  font-size: clamp(1rem, 2.2vw, 1.25rem);
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+  max-width: 32rem;
+  margin: 0.75rem auto 0;
+}
+
+/* Movie quote cards */
 .VPHome .VPFeatures .item {
   text-align: center;
 }
 
 .VPHome .VPFeatures .icon img {
   width: 100%;
-  max-width: 280px;
-  height: 168px;
+  max-width: 260px;
+  height: 156px;
   object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
 }
 
 .VPHome .VPFeatures .title {
-  font-size: 1rem;
+  font-size: 0.9375rem;
   font-style: italic;
   line-height: 1.5;
   margin-top: 0.75rem;
@@ -22,17 +49,21 @@
 .VPHome .VPFeatures .details {
   margin-top: 0.35rem;
   color: var(--vp-c-text-2);
-  font-size: 0.875rem;
+  font-size: 0.8125rem;
+  letter-spacing: 0.02em;
+}
+
+.VPHome .VPFeatures .container {
+  max-width: 1100px;
+}
+
+.VPHome .VPFeatures .items {
+  gap: 1.75rem 1.25rem;
 }
 
 @media (min-width: 640px) {
-  .VPHome .VPFeatures .container {
-    max-width: 960px;
-  }
-
   .VPHome .VPFeatures .items {
     grid-template-columns: repeat(2, 1fr);
-    gap: 2rem 1.5rem;
   }
 }
 
