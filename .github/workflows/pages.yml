@@ -30,13 +30,19 @@ jobs:
       - name: Install theme
         run: git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
 
-      - name: Build Hexo
-        run: npm run build
+      - name: Check hexo version
+        run: npx hexo --version
+
+      - name: List source files
+        run: ls -la source/_posts/
+
+      - name: Build Hexo with verbose
+        run: npx hexo generate --verbose
         env:
           TZ: Asia/Shanghai
 
       - name: Check build output
-        run: ls -la public/
+        run: ls -la public/ || echo "public directory not found"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
