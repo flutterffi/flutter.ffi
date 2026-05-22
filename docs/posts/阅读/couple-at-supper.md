@@ -7,6 +7,17 @@ tags:
 excerpt: 男生学设计、家境极好，毕业后不找工作，半闲散地接点零活；女生是高中同学，重逢后走到一起……
 ---
 
+<img src="/photos/photo-03.jpg" alt="随拍" class="article-banner" />
+
+<div class="figure wide">
+  <img src="/photos/photo-04.jpg" alt="故事配图" />
+  <p class="figure-caption">生活里的片段，也像电影镜头。</p>
+</div>
+
+<div class="figure svg-inline">
+  <img src="/svg/quote.svg" alt="quote" width="64" />
+</div>
+
 # 晚饭时朋友讲的一对情侣
 
 While having supper with a friend, she told me about this couple.

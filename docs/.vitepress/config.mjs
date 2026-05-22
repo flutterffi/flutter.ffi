@@ -8,6 +8,15 @@ export default defineConfig({
   description: 'Reading, living, and the quiet art of paying attention',
   lang: 'zh-CN',
   ignoreDeadLinks: true,
+  head: [
+    [
+      'script',
+      {
+        src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js',
+        async: true,
+      },
+    ],
+  ],
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },

@@ -5,6 +5,7 @@ title: 归档
 <script setup>
 import { data as posts } from './posts.data'
 import { CATEGORIES } from './categories'
+import { getTagStyle } from './.vitepress/theme/utils/tagColors'
 
 const grouped = CATEGORIES.map((name) => ({
   name,
@@ -22,7 +23,15 @@ const grouped = CATEGORIES.map((name) => ({
     <li v-for="post in group.posts" :key="post.url" class="post-list-item">
       <a :href="post.url">{{ post.title }}</a>
       <time :datetime="post.date">{{ post.date }}</time>
-      <p v-if="post.excerpt" class="post-excerpt">{{ post.excerpt }}</p>
+      <p v-if="post.tags?.length" class="post-tags">
+      <span
+        v-for="tag in post.tags"
+        :key="tag"
+        class="tag-pill"
+        :style="getTagStyle(String(tag))"
+      >{{ tag }}</span>
+    </p>
+    <p v-if="post.excerpt" class="post-excerpt">{{ post.excerpt }}</p>
     </li>
   </ul>
   <p v-else class="empty">暂无文章</p>
@@ -61,6 +70,21 @@ const grouped = CATEGORIES.map((name) => ({
   margin-top: 0.2rem;
   color: var(--vp-c-text-2);
   font-size: 0.875rem;
+}
+
+.post-tags {
+  margin: 0.35rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.post-tags .tag-pill {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.75rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
 }
 
 .post-excerpt {

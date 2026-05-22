@@ -50,6 +50,38 @@ excerpt: 在归档页显示的简短摘要（可选）
 正文用 Markdown 编写……
 ```
 
+### 3. 插入图片与 SVG
+
+**本地照片**（已入库示例在 `docs/public/photos/`，来自你的 Instagram 导出目录）：
+
+```html
+<img src="/photos/photo-01.jpg" alt="说明" class="article-banner" />
+```
+
+**静态 SVG**（站点内置在 `docs/public/svg/`）：
+
+```html
+<div class="figure svg-inline">
+  <img src="/svg/leaf.svg" alt="叶子" width="80" />
+</div>
+```
+
+也可把自定义 `.svg` 放进 `docs/public/svg/`，文中用 `/svg/你的文件.svg` 引用。
+
+**从本机图库批量同步**（默认路径 `~/Downloads/Instagram/robert_le.ph`）：
+
+```bash
+chmod +x scripts/sync-photos.sh
+./scripts/sync-photos.sh 12
+```
+
+图库约两百张图，不建议全部提交 Git；只同步需要的数量即可。
+
+### 4. 标签颜色与阅读量
+
+- 文末 **tags** 会显示为彩色圆角标签（颜色在 `docs/.vitepress/theme/utils/tagColors.ts` 配置，可给每个标签名指定颜色）
+- **阅读量** 使用 [不蒜子](https://busuanzi.ibruce.info/) 统计（页面底部为全站访客/浏览量，文末为当前文章浏览量），静态站部署后由访客浏览器异步加载
+
 | 字段 | 必填 | 说明 |
 |------|------|------|
 | `title` | 是 | 文章标题 |
@@ -60,7 +92,7 @@ excerpt: 在归档页显示的简短摘要（可选）
 
 **注意：** `category` 应与文件所在目录一致（如放在 `posts/生活/` 则写 `category: 生活`）。一致时**无需改任何配置文件**，侧边栏和归档会自动出现新文章。
 
-### 3. 本地预览
+### 5. 本地预览
 
 ```bash
 npm install
@@ -69,7 +101,7 @@ npm run docs:dev
 
 浏览器打开终端提示的地址（一般为 http://localhost:5173），修改 Markdown 后会热更新。
 
-### 4. 发布上线
+### 6. 发布上线
 
 ```bash
 git add .
