@@ -1,16 +1,15 @@
 ---
-title: 欢迎来到 Flutter FFI 技术博客
+title: 欢迎来到博客
 date: 2026-05-21
 tags:
-  - Flutter
-  - FFI
-  - iOS
-excerpt: 这是你的 Flutter FFI 技术博客的第一篇文章。
+  - 生活
+  - 阅读
+excerpt: 这是博客的第一篇文章。
 ---
 
 # 欢迎 👋
 
-这是你的 Flutter FFI 技术博客的第一篇文章！
+这是博客的第一篇文章！
 
 ## 博客特点
 
@@ -53,7 +52,7 @@ flutter.ffi/          # 源码仓库
 ## 下一步
 
 1. 修改 `.vitepress/config.ts` 中的站点信息
-2. 在 `docs/posts/` 添加你的技术文章
+2. 在 `docs/posts/` 添加你的文章
 3. 推送到 GitHub，查看自动部署效果
 
 祝你写作愉快！

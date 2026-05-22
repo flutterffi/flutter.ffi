@@ -1,6 +1,6 @@
-# Flutter FFI 技术博客
+# 阅读与生活
 
-基于 [VitePress](https://vitepress.dev/) 的技术博客，双仓库 + GitHub Actions 自动部署到 GitHub Pages。
+基于 [VitePress](https://vitepress.dev/) 的个人博客，双仓库 + GitHub Actions 自动部署到 GitHub Pages。
 
 ## 仓库说明
 

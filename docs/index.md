@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: Flutter FFI 技术博客
-  text: 探索 Flutter 与原生交互
-  tagline: 专注 Flutter、FFI、iOS 开发的技术分享
+  name: 阅读与生活
+  text: 探索生活与感受自然
+  tagline: 阅读和生活分享
   actions:
     - theme: brand
       text: 开始阅读

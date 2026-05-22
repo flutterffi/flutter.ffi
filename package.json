@@ -1,7 +1,7 @@
 {
   "name": "flutter-ffi-blog",
   "version": "2.0.0",
-  "description": "Flutter FFI 技术博客（VitePress）",
+  "description": "阅读和生活分享（VitePress）",
   "private": true,
   "type": "module",
   "scripts": {

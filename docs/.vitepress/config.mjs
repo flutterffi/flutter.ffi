@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Flutter FFI 技术博客',
-  description: '专注 Flutter、FFI、iOS 开发的技术分享',
+  title: '阅读与生活',
+  description: '阅读和生活分享',
   lang: 'zh-CN',
   ignoreDeadLinks: true,
   themeConfig: {
