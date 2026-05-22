@@ -26,7 +26,7 @@ npm install
 npm run docs:dev
 ```
 
-浏览器打开 http://localhost:5173 预览。
+浏览器打开本地开发地址（默认端口 5173）预览。
 
 ## 发布文章
 
