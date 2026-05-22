@@ -79,12 +79,12 @@ Actions 构建 `docs/.vitepress/dist` 并推送到 `flutterffi.github.io` 的 `m
 **贡献图（绿格子）**：工作流已默认使用你的身份提交并推送：
 
 - 作者：`flutterffi`
-- 邮箱：`252504539+flutterffi@users.noreply.github.com`（GitHub 隐私 noreply 格式）
+- 邮箱：`flutterffi@gmail.com`（须在 GitHub → Settings → Emails 中已验证）
 - 推送：`secrets.PERSONAL_TOKEN`（与部署站点同一令牌，需有本仓库 push 权限）
 
 请在本机确认一次（GitHub → Settings → Emails）：
 
-1. 已勾选 **Keep my email addresses private**，或已将上述 noreply 邮箱加入账户  
+1. `flutterffi@gmail.com` 已添加并完成 **Verify**（未验证的邮箱不会计入贡献图）  
 2. Profile → **Contributions** → 按需开启 **Include private contributions**（若有私有仓）  
 3. 贡献图只统计 **默认分支** 上的 commit（本仓为 `main`）
 

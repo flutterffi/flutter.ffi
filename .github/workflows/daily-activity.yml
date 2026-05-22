@@ -36,7 +36,7 @@ jobs:
           TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           # 与 GitHub 账户绑定的 noreply 邮箱（用户 flutterffi 的 numeric ID）
           COMMIT_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'flutterffi' }}
-          COMMIT_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || '252504539+flutterffi@users.noreply.github.com' }}
+          COMMIT_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || 'flutterffi@gmail.com' }}
         run: |
           if [ -z "$TOKEN" ]; then
             echo "::error::缺少 secret: PERSONAL_TOKEN（需对 flutter.ffi 有 push 权限的个人令牌）"
