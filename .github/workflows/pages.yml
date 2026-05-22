@@ -30,8 +30,11 @@ jobs:
       - name: Install theme
         run: git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
 
-      - name: Build Hexo
-        run: npx hexo generate
+      - name: Check hexo version
+        run: npx hexo --version 2>&1 || echo "hexo version check failed"
+
+      - name: Build Hexo with error output
+        run: npx hexo generate --debug 2>&1 || (echo "BUILD FAILED" && exit 1)
         env:
           TZ: Asia/Shanghai
 
