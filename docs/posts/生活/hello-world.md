@@ -38,21 +38,10 @@ git push origin main
 
 GitHub Actions 会将站点构建到 `flutterffi.github.io` 仓库的 `main` 分支。
 
-## 目录结构
-
-```
-flutter.ffi/          # 源码仓库
-├── docs/
-│   ├── index.md      # 首页
-│   └── posts/        # 文章
-├── .vitepress/       # 站点配置
-└── .github/workflows/
-```
-
 ## 下一步
 
-1. 修改 `.vitepress/config.ts` 中的站点信息
-2. 在 `docs/posts/` 添加你的文章
+1. 阅读 [写作指南](/guide/writing) 了解分类与发布流程
+2. 在 `docs/posts/<分类>/` 下添加文章（阅读 / 生活 / 技术 / 收藏）
 3. 推送到 GitHub，查看自动部署效果
 
 祝你写作愉快！

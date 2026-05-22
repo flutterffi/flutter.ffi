@@ -12,12 +12,16 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '归档', link: '/archive' },
+      { text: '写作指南', link: '/guide/writing' },
       { text: 'GitHub', link: 'https://github.com/flutterffi/flutter.ffi' },
     ],
     sidebar: {
       '/': categorySidebar,
       '/posts/': categorySidebar,
       '/archive': categorySidebar,
+      '/guide/': [
+        { text: '文档', items: [{ text: '写作指南', link: '/guide/writing' }] },
+      ],
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/flutterffi/flutter.ffi' },
