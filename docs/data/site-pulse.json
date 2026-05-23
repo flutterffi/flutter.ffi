@@ -1,12 +1,12 @@
 {
-  "pulse_count": 3,
-  "last_updated_utc": "2026-05-22T15:17:32Z",
-  "last_updated_local": "2026-05-22",
+  "pulse_count": 4,
+  "last_updated_utc": "2026-05-23T04:52:09Z",
+  "last_updated_local": "2026-05-23",
   "posts_total": 90,
-  "day_of_year": 142,
-  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
+  "day_of_year": 143,
+  "daily_quote": "博客是时间的栈，push 的是片段，不是结论。",
   "spotlight": {
-    "title": "GPT Image 2最新使用教程：内附触发提示词，持续收集免费的GPT Image 2站点",
-    "path": "/posts/收藏/appark-gpt-image-2-complete-guide-and-prompt-tips"
+    "title": "2026 最新谷歌邮箱注册教程（PC 端、移动端 Gmail 注册全指南）",
+    "path": "/posts/收藏/appark-how-to-create-gmail-account"
   }
 }
