@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-05-23T04:52:09Z
-- **本地日期**：2026-05-23
+- **最近更新（UTC）**：2026-05-24T05:12:50Z
+- **本地日期**：2026-05-24
 - **文章总数**：90 篇
-- **维护次数**：第 4 次自动脉动
+- **维护次数**：第 5 次自动脉动
 
-> 博客是时间的栈，push 的是片段，不是结论。
+> 观察一片叶子，比刷完时间线更接近真实。
 
-**今日随机推荐**：[2026 最新谷歌邮箱注册教程（PC 端、移动端 Gmail 注册全指南）](/posts/收藏/appark-how-to-create-gmail-account)  
+**今日随机推荐**：[OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4](/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
