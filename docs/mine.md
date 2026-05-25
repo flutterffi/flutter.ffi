@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-05-24T05:12:50Z
-- **本地日期**：2026-05-24
+- **最近更新（UTC）**：2026-05-25T05:49:52Z
+- **本地日期**：2026-05-25
 - **文章总数**：90 篇
-- **维护次数**：第 5 次自动脉动
+- **维护次数**：第 6 次自动脉动
 
-> 观察一片叶子，比刷完时间线更接近真实。
+> 调试人生：先复现，再缩小范围，最后才改。
 
-**今日随机推荐**：[OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4](/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4)  
+**今日随机推荐**：[Appark 教程收藏索引](/posts/收藏/appark-tutorial-index)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

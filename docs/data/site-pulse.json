@@ -1,12 +1,12 @@
 {
-  "pulse_count": 5,
-  "last_updated_utc": "2026-05-24T05:12:50Z",
-  "last_updated_local": "2026-05-24",
+  "pulse_count": 6,
+  "last_updated_utc": "2026-05-25T05:49:52Z",
+  "last_updated_local": "2026-05-25",
   "posts_total": 90,
-  "day_of_year": 144,
-  "daily_quote": "观察一片叶子，比刷完时间线更接近真实。",
+  "day_of_year": 145,
+  "daily_quote": "调试人生：先复现，再缩小范围，最后才改。",
   "spotlight": {
-    "title": "OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4",
-    "path": "/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4"
+    "title": "Appark 教程收藏索引",
+    "path": "/posts/收藏/appark-tutorial-index"
   }
 }
