@@ -1,12 +1,12 @@
 {
-  "pulse_count": 6,
-  "last_updated_utc": "2026-05-25T05:49:52Z",
-  "last_updated_local": "2026-05-25",
+  "pulse_count": 7,
+  "last_updated_utc": "2026-05-26T05:13:39Z",
+  "last_updated_local": "2026-05-26",
   "posts_total": 90,
-  "day_of_year": 145,
-  "daily_quote": "调试人生：先复现，再缩小范围，最后才改。",
+  "day_of_year": 146,
+  "daily_quote": "好的工具让人忘记工具，好的文字让人忘记屏幕。",
   "spotlight": {
-    "title": "Appark 教程收藏索引",
-    "path": "/posts/收藏/appark-tutorial-index"
+    "title": "开发者工具箱收藏：编辑、调试、抓包与笔记",
+    "path": "/posts/收藏/developer-toolkit-2026"
   }
 }
