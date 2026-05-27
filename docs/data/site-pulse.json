@@ -1,12 +1,12 @@
 {
-  "pulse_count": 7,
-  "last_updated_utc": "2026-05-26T05:13:39Z",
-  "last_updated_local": "2026-05-26",
+  "pulse_count": 8,
+  "last_updated_utc": "2026-05-27T05:41:40Z",
+  "last_updated_local": "2026-05-27",
   "posts_total": 90,
-  "day_of_year": 146,
-  "daily_quote": "好的工具让人忘记工具，好的文字让人忘记屏幕。",
+  "day_of_year": 147,
+  "daily_quote": "周末适合读纸书，周一适合写注释。",
   "spotlight": {
-    "title": "开发者工具箱收藏：编辑、调试、抓包与笔记",
-    "path": "/posts/收藏/developer-toolkit-2026"
+    "title": "Flutter 学习路径收藏：从 Widget 到引擎",
+    "path": "/posts/收藏/flutter-learning-path"
   }
 }
