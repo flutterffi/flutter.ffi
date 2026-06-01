@@ -1,12 +1,12 @@
 {
-  "pulse_count": 12,
-  "last_updated_utc": "2026-05-31T05:45:30Z",
-  "last_updated_local": "2026-05-31",
+  "pulse_count": 13,
+  "last_updated_utc": "2026-06-01T06:18:51Z",
+  "last_updated_local": "2026-06-01",
   "posts_total": 90,
-  "day_of_year": 151,
-  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
+  "day_of_year": 152,
+  "daily_quote": "记录本身，是对遗忘的温和抵抗。",
   "spotlight": {
-    "title": "收藏｜X 上关于 Flutter 性能的高赞讨论精华",
-    "path": "/posts/收藏/x-flutter-performance-discussions"
+    "title": "收藏｜独立开发者在 X 分享的发布清单",
+    "path": "/posts/收藏/x-indie-launch-playbook"
   }
 }
