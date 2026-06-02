@@ -1,12 +1,12 @@
 {
-  "pulse_count": 13,
-  "last_updated_utc": "2026-06-01T06:18:51Z",
-  "last_updated_local": "2026-06-01",
+  "pulse_count": 14,
+  "last_updated_utc": "2026-06-02T06:02:41Z",
+  "last_updated_local": "2026-06-02",
   "posts_total": 90,
-  "day_of_year": 152,
-  "daily_quote": "记录本身，是对遗忘的温和抵抗。",
+  "day_of_year": 153,
+  "daily_quote": "今日可读，明日可改，后日可忘——亦无妨。",
   "spotlight": {
-    "title": "收藏｜独立开发者在 X 分享的发布清单",
-    "path": "/posts/收藏/x-indie-launch-playbook"
+    "title": "收藏｜X 热议的「资深工程师」迷思与反论",
+    "path": "/posts/收藏/x-senior-dev-career-myths"
   }
 }
