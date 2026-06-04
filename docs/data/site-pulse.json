@@ -1,12 +1,12 @@
 {
-  "pulse_count": 15,
-  "last_updated_utc": "2026-06-03T06:17:07Z",
-  "last_updated_local": "2026-06-03",
+  "pulse_count": 16,
+  "last_updated_utc": "2026-06-04T06:08:04Z",
+  "last_updated_local": "2026-06-04",
   "posts_total": 90,
-  "day_of_year": 154,
-  "daily_quote": "在信息流里种一棵慢树，需要每天浇一点耐心。",
+  "day_of_year": 155,
+  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
   "spotlight": {
-    "title": "收藏｜X 上的系统设计短文：高频模型与阅读法",
-    "path": "/posts/收藏/x-system-design-short-threads"
+    "title": "城市的雨季：玻璃窗与延迟的地铁",
+    "path": "/posts/生活/city-rain-season"
   }
 }
