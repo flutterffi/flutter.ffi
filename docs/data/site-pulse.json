@@ -1,12 +1,12 @@
 {
-  "pulse_count": 18,
-  "last_updated_utc": "2026-06-06T05:04:59Z",
-  "last_updated_local": "2026-06-06",
+  "pulse_count": 19,
+  "last_updated_utc": "2026-06-07T05:52:27Z",
+  "last_updated_local": "2026-06-07",
   "posts_total": 90,
-  "day_of_year": 157,
-  "daily_quote": "一本读了一半的书，像一封未寄出的信。",
+  "day_of_year": 158,
+  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
   "spotlight": {
-    "title": "桌面极简：少一件杂物，多一寸思考空间",
-    "path": "/posts/生活/desk-minimalism"
+    "title": "欢迎来到博客",
+    "path": "/posts/生活/hello-world"
   }
 }
