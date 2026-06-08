@@ -1,12 +1,12 @@
 {
-  "pulse_count": 19,
-  "last_updated_utc": "2026-06-07T05:52:27Z",
-  "last_updated_local": "2026-06-07",
+  "pulse_count": 20,
+  "last_updated_utc": "2026-06-08T06:07:23Z",
+  "last_updated_local": "2026-06-08",
   "posts_total": 90,
-  "day_of_year": 158,
-  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
+  "day_of_year": 159,
+  "daily_quote": "雨声是最好的白噪音，适合把章节读完。",
   "spotlight": {
-    "title": "欢迎来到博客",
-    "path": "/posts/生活/hello-world"
+    "title": "写给一年后的自己：不追求酷，追求可持续",
+    "path": "/posts/生活/letter-to-future-self"
   }
 }
