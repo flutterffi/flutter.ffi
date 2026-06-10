@@ -1,12 +1,12 @@
 {
-  "pulse_count": 21,
-  "last_updated_utc": "2026-06-09T05:16:55Z",
-  "last_updated_local": "2026-06-09",
+  "pulse_count": 22,
+  "last_updated_utc": "2026-06-10T05:48:36Z",
+  "last_updated_local": "2026-06-10",
   "posts_total": 90,
-  "day_of_year": 160,
-  "daily_quote": "图书馆的灯永远比热搜温和。",
+  "day_of_year": 161,
+  "daily_quote": "不带手机散步，原来街道有自己的字幕。",
   "spotlight": {
-    "title": "不带手机的晨走：二十分钟重置注意力",
-    "path": "/posts/生活/morning-walk-without-phone"
+    "title": "当「AI 写代码」成为热搜：我们到底在兴奋什么",
+    "path": "/posts/阅读/ai-coding-agent-hype-2026"
   }
 }
