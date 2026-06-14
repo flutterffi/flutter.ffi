@@ -1,12 +1,12 @@
 {
-  "pulse_count": 25,
-  "last_updated_utc": "2026-06-13T05:46:12Z",
-  "last_updated_local": "2026-06-13",
+  "pulse_count": 26,
+  "last_updated_utc": "2026-06-14T06:05:24Z",
+  "last_updated_local": "2026-06-14",
   "posts_total": 90,
-  "day_of_year": 164,
-  "daily_quote": "好的书评不是判决，而是邀请读者再打开一次书。",
+  "day_of_year": 165,
+  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
   "spotlight": {
-    "title": "书评：《小王子》——写给成年人的童话与「驯养」的伦理",
-    "path": "/posts/阅读/book-review-little-prince"
+    "title": "书评：《沉思录》——皇帝在营帐里写给自己的运维手册",
+    "path": "/posts/阅读/book-review-meditations-stoic"
   }
 }
