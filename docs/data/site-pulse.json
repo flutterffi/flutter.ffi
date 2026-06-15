@@ -1,12 +1,12 @@
 {
-  "pulse_count": 26,
-  "last_updated_utc": "2026-06-14T06:05:24Z",
-  "last_updated_local": "2026-06-14",
+  "pulse_count": 27,
+  "last_updated_utc": "2026-06-15T06:38:04Z",
+  "last_updated_local": "2026-06-15",
   "posts_total": 90,
-  "day_of_year": 165,
-  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
+  "day_of_year": 166,
+  "daily_quote": "收藏夹里的文章，像冬天的干花。",
   "spotlight": {
-    "title": "书评：《沉思录》——皇帝在营帐里写给自己的运维手册",
-    "path": "/posts/阅读/book-review-meditations-stoic"
+    "title": "书评：《百年孤独》——马孔多在时间环里的坍塌与重生",
+    "path": "/posts/阅读/book-review-one-hundred-years-of-solitude"
   }
 }
