@@ -1,12 +1,12 @@
 {
-  "pulse_count": 27,
-  "last_updated_utc": "2026-06-15T06:38:04Z",
-  "last_updated_local": "2026-06-15",
+  "pulse_count": 28,
+  "last_updated_utc": "2026-06-16T06:43:02Z",
+  "last_updated_local": "2026-06-16",
   "posts_total": 90,
-  "day_of_year": 166,
-  "daily_quote": "收藏夹里的文章，像冬天的干花。",
+  "day_of_year": 167,
+  "daily_quote": "清晨的咖啡与傍晚的 commit，都是给自己的仪式。",
   "spotlight": {
-    "title": "书评：《百年孤独》——马孔多在时间环里的坍塌与重生",
-    "path": "/posts/阅读/book-review-one-hundred-years-of-solitude"
+    "title": "书评：《三体》——从科幻窗口望向人性与文明的尺度",
+    "path": "/posts/阅读/book-review-three-body"
   }
 }
