@@ -1,12 +1,12 @@
 {
-  "pulse_count": 31,
-  "last_updated_utc": "2026-06-19T06:30:50Z",
-  "last_updated_local": "2026-06-19",
+  "pulse_count": 32,
+  "last_updated_utc": "2026-06-20T05:43:36Z",
+  "last_updated_local": "2026-06-20",
   "posts_total": 90,
-  "day_of_year": 170,
-  "daily_quote": "沉默不是空白，是页面边距。",
+  "day_of_year": 171,
+  "daily_quote": "经典之所以经典，因为每次重读都会换一双眼睛。",
   "spotlight": {
-    "title": "「慢就业」上热搜：不是懒，是选项变贵了",
-    "path": "/posts/阅读/gen-z-employment-discourse-2026"
+    "title": "读《沉思录》札记：斯多葛与工程师的日常",
+    "path": "/posts/阅读/notes-on-meditations"
   }
 }
