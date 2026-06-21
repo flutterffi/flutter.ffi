@@ -1,12 +1,12 @@
 {
-  "pulse_count": 32,
-  "last_updated_utc": "2026-06-20T05:43:36Z",
-  "last_updated_local": "2026-06-20",
+  "pulse_count": 33,
+  "last_updated_utc": "2026-06-21T06:18:13Z",
+  "last_updated_local": "2026-06-21",
   "posts_total": 90,
-  "day_of_year": 171,
-  "daily_quote": "经典之所以经典，因为每次重读都会换一双眼睛。",
+  "day_of_year": 172,
+  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
   "spotlight": {
-    "title": "读《沉思录》札记：斯多葛与工程师的日常",
-    "path": "/posts/阅读/notes-on-meditations"
+    "title": "算法与骑手热搜：技术中立是个方便的神话",
+    "path": "/posts/阅读/platform-algorithm-labor-debate"
   }
 }
