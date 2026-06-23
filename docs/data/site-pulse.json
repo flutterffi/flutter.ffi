@@ -1,12 +1,12 @@
 {
-  "pulse_count": 34,
-  "last_updated_utc": "2026-06-22T06:40:46Z",
-  "last_updated_local": "2026-06-22",
+  "pulse_count": 35,
+  "last_updated_utc": "2026-06-23T05:14:32Z",
+  "last_updated_local": "2026-06-23",
   "posts_total": 90,
-  "day_of_year": 173,
-  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
+  "day_of_year": 174,
+  "daily_quote": "博客是时间的栈，push 的是片段，不是结论。",
   "spotlight": {
-    "title": "诗歌与调试：隐喻如何帮助理解复杂系统",
-    "path": "/posts/阅读/poetry-and-debugging"
+    "title": "阅读·书评与经典荐书索引",
+    "path": "/posts/阅读/reading-books-index"
   }
 }
