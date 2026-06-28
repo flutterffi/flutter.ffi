@@ -1,12 +1,12 @@
 {
-  "pulse_count": 39,
-  "last_updated_utc": "2026-06-27T05:03:49Z",
-  "last_updated_local": "2026-06-27",
+  "pulse_count": 40,
+  "last_updated_utc": "2026-06-28T05:45:00Z",
+  "last_updated_local": "2026-06-28",
   "posts_total": 90,
-  "day_of_year": 178,
-  "daily_quote": "周末适合读纸书，周一适合写注释。",
+  "day_of_year": 179,
+  "daily_quote": "自然从不说教，它只展示循环与季节。",
   "spotlight": {
-    "title": "翻译即重读：在另一种语言里遇见作者",
-    "path": "/posts/阅读/translation-as-rereading"
+    "title": "每周一章《瓦尔登湖》：简朴作为一种练习",
+    "path": "/posts/阅读/walden-one-chapter-a-week"
   }
 }
