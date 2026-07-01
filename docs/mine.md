@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-06-30T05:17:14Z
-- **本地日期**：2026-06-30
+- **最近更新（UTC）**：2026-07-01T05:54:12Z
+- **本地日期**：2026-07-01
 - **文章总数**：90 篇
-- **维护次数**：第 42 次自动脉动
+- **维护次数**：第 43 次自动脉动
 
-> 夜深时，键盘声像远处的雨。
+> 每一本书都是一扇门，开多少由你决定。
 
-**今日随机推荐**：[Claude Code 使用教程：终端 Agent 安装与工程化实践](/posts/技术/claude-code-tutorial)  
+**今日随机推荐**：[Cline 使用教程：VS Code 开源 Agent 与 API 配置](/posts/技术/cline-vscode-agent-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

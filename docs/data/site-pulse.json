@@ -1,12 +1,12 @@
 {
-  "pulse_count": 42,
-  "last_updated_utc": "2026-06-30T05:17:14Z",
-  "last_updated_local": "2026-06-30",
+  "pulse_count": 43,
+  "last_updated_utc": "2026-07-01T05:54:12Z",
+  "last_updated_local": "2026-07-01",
   "posts_total": 90,
-  "day_of_year": 181,
-  "daily_quote": "夜深时，键盘声像远处的雨。",
+  "day_of_year": 182,
+  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
   "spotlight": {
-    "title": "Claude Code 使用教程：终端 Agent 安装与工程化实践",
-    "path": "/posts/技术/claude-code-tutorial"
+    "title": "Cline 使用教程：VS Code 开源 Agent 与 API 配置",
+    "path": "/posts/技术/cline-vscode-agent-tutorial"
   }
 }
