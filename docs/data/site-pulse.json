@@ -1,12 +1,12 @@
 {
-  "pulse_count": 44,
-  "last_updated_utc": "2026-07-02T05:09:49Z",
-  "last_updated_local": "2026-07-02",
+  "pulse_count": 45,
+  "last_updated_utc": "2026-07-03T04:57:41Z",
+  "last_updated_local": "2026-07-03",
   "posts_total": 90,
-  "day_of_year": 183,
-  "daily_quote": "记录本身，是对遗忘的温和抵抗。",
+  "day_of_year": 184,
+  "daily_quote": "今日可读，明日可改，后日可忘——亦无妨。",
   "spotlight": {
-    "title": "跨平台移动开发 2025：Flutter、KMP 与原生三角",
-    "path": "/posts/技术/cross-platform-mobile-2025"
+    "title": "Cursor 使用教程：从安装到 Agent 与 Composer 实战",
+    "path": "/posts/技术/cursor-ai-coding-tutorial"
   }
 }
