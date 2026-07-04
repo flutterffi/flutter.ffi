@@ -1,12 +1,12 @@
 {
-  "pulse_count": 45,
-  "last_updated_utc": "2026-07-03T04:57:41Z",
-  "last_updated_local": "2026-07-03",
+  "pulse_count": 46,
+  "last_updated_utc": "2026-07-04T04:52:05Z",
+  "last_updated_local": "2026-07-04",
   "posts_total": 90,
-  "day_of_year": 184,
-  "daily_quote": "今日可读，明日可改，后日可忘——亦无妨。",
+  "day_of_year": 185,
+  "daily_quote": "在信息流里种一棵慢树，需要每天浇一点耐心。",
   "spotlight": {
-    "title": "Cursor 使用教程：从安装到 Agent 与 Composer 实战",
-    "path": "/posts/技术/cursor-ai-coding-tutorial"
+    "title": "Dart 空安全迁移：Sound null safety 语义深潜",
+    "path": "/posts/技术/dart-null-safety-migration"
   }
 }

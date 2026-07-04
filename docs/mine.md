@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-03T04:57:41Z
-- **本地日期**：2026-07-03
+- **最近更新（UTC）**：2026-07-04T04:52:05Z
+- **本地日期**：2026-07-04
 - **文章总数**：90 篇
-- **维护次数**：第 45 次自动脉动
+- **维护次数**：第 46 次自动脉动
 
-> 今日可读，明日可改，后日可忘——亦无妨。
+> 在信息流里种一棵慢树，需要每天浇一点耐心。
 
-**今日随机推荐**：[Cursor 使用教程：从安装到 Agent 与 Composer 实战](/posts/技术/cursor-ai-coding-tutorial)  
+**今日随机推荐**：[Dart 空安全迁移：Sound null safety 语义深潜](/posts/技术/dart-null-safety-migration)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
