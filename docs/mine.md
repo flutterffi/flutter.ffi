@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-04T04:52:05Z
-- **本地日期**：2026-07-04
+- **最近更新（UTC）**：2026-07-05T05:08:14Z
+- **本地日期**：2026-07-05
 - **文章总数**：90 篇
-- **维护次数**：第 46 次自动脉动
+- **维护次数**：第 47 次自动脉动
 
-> 在信息流里种一棵慢树，需要每天浇一点耐心。
+> 阅读不是填满时间，而是给思考留出缝隙。
 
-**今日随机推荐**：[Dart 空安全迁移：Sound null safety 语义深潜](/posts/技术/dart-null-safety-migration)  
+**今日随机推荐**：[Flutter FFI 与 C 互操作：从 dlopen 到内存所有权](/posts/技术/flutter-ffi-c-interop)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
