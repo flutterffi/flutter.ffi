@@ -1,12 +1,12 @@
 {
-  "pulse_count": 47,
-  "last_updated_utc": "2026-07-05T05:08:14Z",
-  "last_updated_local": "2026-07-05",
+  "pulse_count": 48,
+  "last_updated_utc": "2026-07-06T05:36:34Z",
+  "last_updated_local": "2026-07-06",
   "posts_total": 90,
-  "day_of_year": 186,
-  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
+  "day_of_year": 187,
+  "daily_quote": "慢下来的时候，树影会移动，句子也会变长。",
   "spotlight": {
-    "title": "Flutter FFI 与 C 互操作：从 dlopen 到内存所有权",
-    "path": "/posts/技术/flutter-ffi-c-interop"
+    "title": "Impeller 渲染管线：Flutter 图形栈的一次重构",
+    "path": "/posts/技术/flutter-impeller-skia"
   }
 }
