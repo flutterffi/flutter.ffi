@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-06T05:36:34Z
-- **本地日期**：2026-07-06
+- **最近更新（UTC）**：2026-07-07T05:07:42Z
+- **本地日期**：2026-07-07
 - **文章总数**：90 篇
-- **维护次数**：第 48 次自动脉动
+- **维护次数**：第 49 次自动脉动
 
-> 慢下来的时候，树影会移动，句子也会变长。
+> 一本读了一半的书，像一封未寄出的信。
 
-**今日随机推荐**：[Impeller 渲染管线：Flutter 图形栈的一次重构](/posts/技术/flutter-impeller-skia)  
+**今日随机推荐**：[Flutter Isolate：并发模型与消息传递实战](/posts/技术/flutter-isolates-concurrency)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
