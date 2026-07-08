@@ -1,12 +1,12 @@
 {
-  "pulse_count": 49,
-  "last_updated_utc": "2026-07-07T05:07:42Z",
-  "last_updated_local": "2026-07-07",
+  "pulse_count": 50,
+  "last_updated_utc": "2026-07-08T04:32:47Z",
+  "last_updated_local": "2026-07-08",
   "posts_total": 90,
-  "day_of_year": 188,
-  "daily_quote": "一本读了一半的书，像一封未寄出的信。",
+  "day_of_year": 189,
+  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
   "spotlight": {
-    "title": "Flutter Isolate：并发模型与消息传递实战",
-    "path": "/posts/技术/flutter-isolates-concurrency"
+    "title": "Riverpod 2.x：依赖注入与 UI 解耦架构笔记",
+    "path": "/posts/技术/flutter-riverpod-architecture"
   }
 }

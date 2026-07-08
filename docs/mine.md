@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-07T05:07:42Z
-- **本地日期**：2026-07-07
+- **最近更新（UTC）**：2026-07-08T04:32:47Z
+- **本地日期**：2026-07-08
 - **文章总数**：90 篇
-- **维护次数**：第 49 次自动脉动
+- **维护次数**：第 50 次自动脉动
 
-> 一本读了一半的书，像一封未寄出的信。
+> 代码与散文一样：删掉的字，往往最值钱。
 
-**今日随机推荐**：[Flutter Isolate：并发模型与消息传递实战](/posts/技术/flutter-isolates-concurrency)  
+**今日随机推荐**：[Riverpod 2.x：依赖注入与 UI 解耦架构笔记](/posts/技术/flutter-riverpod-architecture)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
