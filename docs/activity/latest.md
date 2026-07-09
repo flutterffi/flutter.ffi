@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-08T04:32:47Z |
-| 本地日期 | 2026-07-08 |
+| UTC 时间 | 2026-07-09T05:06:24Z |
+| 本地日期 | 2026-07-09 |
 | 文章总数 | 90 |
-| 脉动序号 | 50 |
+| 脉动序号 | 51 |
 
 ## 今日一句
 
-> 代码与散文一样：删掉的字，往往最值钱。
+> 雨声是最好的白噪音，适合把章节读完。
 
 ## 今日推荐文章
 
-[Riverpod 2.x：依赖注入与 UI 解耦架构笔记](/posts/技术/flutter-riverpod-architecture)
+[Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载](/posts/技术/flutter-widget-rebuild-performance)
 
 ---
 

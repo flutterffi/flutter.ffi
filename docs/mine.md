@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-08T04:32:47Z
-- **本地日期**：2026-07-08
+- **最近更新（UTC）**：2026-07-09T05:06:24Z
+- **本地日期**：2026-07-09
 - **文章总数**：90 篇
-- **维护次数**：第 50 次自动脉动
+- **维护次数**：第 51 次自动脉动
 
-> 代码与散文一样：删掉的字，往往最值钱。
+> 雨声是最好的白噪音，适合把章节读完。
 
-**今日随机推荐**：[Riverpod 2.x：依赖注入与 UI 解耦架构笔记](/posts/技术/flutter-riverpod-architecture)  
+**今日随机推荐**：[Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载](/posts/技术/flutter-widget-rebuild-performance)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

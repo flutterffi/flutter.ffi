@@ -1,12 +1,12 @@
 {
-  "pulse_count": 50,
-  "last_updated_utc": "2026-07-08T04:32:47Z",
-  "last_updated_local": "2026-07-08",
+  "pulse_count": 51,
+  "last_updated_utc": "2026-07-09T05:06:24Z",
+  "last_updated_local": "2026-07-09",
   "posts_total": 90,
-  "day_of_year": 189,
-  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
+  "day_of_year": 190,
+  "daily_quote": "雨声是最好的白噪音，适合把章节读完。",
   "spotlight": {
-    "title": "Riverpod 2.x：依赖注入与 UI 解耦架构笔记",
-    "path": "/posts/技术/flutter-riverpod-architecture"
+    "title": "Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载",
+    "path": "/posts/技术/flutter-widget-rebuild-performance"
   }
 }
