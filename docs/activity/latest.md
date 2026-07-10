@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-09T05:06:24Z |
-| 本地日期 | 2026-07-09 |
+| UTC 时间 | 2026-07-10T05:09:00Z |
+| 本地日期 | 2026-07-10 |
 | 文章总数 | 90 |
-| 脉动序号 | 51 |
+| 脉动序号 | 52 |
 
 ## 今日一句
 
-> 雨声是最好的白噪音，适合把章节读完。
+> 图书馆的灯永远比热搜温和。
 
 ## 今日推荐文章
 
-[Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载](/posts/技术/flutter-widget-rebuild-performance)
+[Gemini CLI 使用教程：Google 终端 Agent 安装与项目实践](/posts/技术/gemini-cli-tutorial)
 
 ---
 

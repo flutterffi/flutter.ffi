@@ -1,12 +1,12 @@
 {
-  "pulse_count": 51,
-  "last_updated_utc": "2026-07-09T05:06:24Z",
-  "last_updated_local": "2026-07-09",
+  "pulse_count": 52,
+  "last_updated_utc": "2026-07-10T05:09:00Z",
+  "last_updated_local": "2026-07-10",
   "posts_total": 90,
-  "day_of_year": 190,
-  "daily_quote": "雨声是最好的白噪音，适合把章节读完。",
+  "day_of_year": 191,
+  "daily_quote": "图书馆的灯永远比热搜温和。",
   "spotlight": {
-    "title": "Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载",
-    "path": "/posts/技术/flutter-widget-rebuild-performance"
+    "title": "Gemini CLI 使用教程：Google 终端 Agent 安装与项目实践",
+    "path": "/posts/技术/gemini-cli-tutorial"
   }
 }
