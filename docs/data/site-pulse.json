@@ -1,12 +1,12 @@
 {
-  "pulse_count": 52,
-  "last_updated_utc": "2026-07-10T05:09:00Z",
-  "last_updated_local": "2026-07-10",
+  "pulse_count": 53,
+  "last_updated_utc": "2026-07-11T04:29:13Z",
+  "last_updated_local": "2026-07-11",
   "posts_total": 90,
-  "day_of_year": 191,
-  "daily_quote": "图书馆的灯永远比热搜温和。",
+  "day_of_year": 192,
+  "daily_quote": "不带手机散步，原来街道有自己的字幕。",
   "spotlight": {
-    "title": "Gemini CLI 使用教程：Google 终端 Agent 安装与项目实践",
-    "path": "/posts/技术/gemini-cli-tutorial"
+    "title": "Git 日常使用案例：从改代码到安全上线",
+    "path": "/posts/技术/git-daily-workflow"
   }
 }
