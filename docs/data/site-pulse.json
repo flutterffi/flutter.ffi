@@ -1,12 +1,12 @@
 {
-  "pulse_count": 53,
-  "last_updated_utc": "2026-07-11T04:29:13Z",
-  "last_updated_local": "2026-07-11",
+  "pulse_count": 54,
+  "last_updated_utc": "2026-07-12T04:40:58Z",
+  "last_updated_local": "2026-07-12",
   "posts_total": 90,
-  "day_of_year": 192,
-  "daily_quote": "不带手机散步，原来街道有自己的字幕。",
+  "day_of_year": 193,
+  "daily_quote": "翻译是重读，重读是第二次初见。",
   "spotlight": {
-    "title": "Git 日常使用案例：从改代码到安全上线",
-    "path": "/posts/技术/git-daily-workflow"
+    "title": "GitHub Copilot 使用教程：补全、Chat 与 Agent 模式入门",
+    "path": "/posts/技术/github-copilot-tutorial"
   }
 }
