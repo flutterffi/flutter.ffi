@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-12T04:40:58Z
-- **本地日期**：2026-07-12
+- **最近更新（UTC）**：2026-07-13T04:47:25Z
+- **本地日期**：2026-07-13
 - **文章总数**：90 篇
-- **维护次数**：第 54 次自动脉动
+- **维护次数**：第 55 次自动脉动
 
-> 翻译是重读，重读是第二次初见。
+> 瓦尔登湖不在麻省，在关机后的十分钟里。
 
-**今日随机推荐**：[GitHub Copilot 使用教程：补全、Chat 与 Agent 模式入门](/posts/技术/github-copilot-tutorial)  
+**今日随机推荐**：[Go channel 与 select：并发模式集锦](/posts/技术/go-channels-select-patterns)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
