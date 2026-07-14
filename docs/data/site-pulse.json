@@ -1,12 +1,12 @@
 {
-  "pulse_count": 55,
-  "last_updated_utc": "2026-07-13T04:47:25Z",
-  "last_updated_local": "2026-07-13",
+  "pulse_count": 56,
+  "last_updated_utc": "2026-07-14T04:17:49Z",
+  "last_updated_local": "2026-07-14",
   "posts_total": 90,
-  "day_of_year": 194,
-  "daily_quote": "瓦尔登湖不在麻省，在关机后的十分钟里。",
+  "day_of_year": 195,
+  "daily_quote": "好的书评不是判决，而是邀请读者再打开一次书。",
   "spotlight": {
-    "title": "Go channel 与 select：并发模式集锦",
-    "path": "/posts/技术/go-channels-select-patterns"
+    "title": "Go context.Context：超时、取消与请求作用域",
+    "path": "/posts/技术/go-context-cancellation"
   }
 }

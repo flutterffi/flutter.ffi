@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-13T04:47:25Z
-- **本地日期**：2026-07-13
+- **最近更新（UTC）**：2026-07-14T04:17:49Z
+- **本地日期**：2026-07-14
 - **文章总数**：90 篇
-- **维护次数**：第 55 次自动脉动
+- **维护次数**：第 56 次自动脉动
 
-> 瓦尔登湖不在麻省，在关机后的十分钟里。
+> 好的书评不是判决，而是邀请读者再打开一次书。
 
-**今日随机推荐**：[Go channel 与 select：并发模式集锦](/posts/技术/go-channels-select-patterns)  
+**今日随机推荐**：[Go context.Context：超时、取消与请求作用域](/posts/技术/go-context-cancellation)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
