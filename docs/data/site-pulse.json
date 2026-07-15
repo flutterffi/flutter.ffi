@@ -1,12 +1,12 @@
 {
-  "pulse_count": 56,
-  "last_updated_utc": "2026-07-14T04:17:49Z",
-  "last_updated_local": "2026-07-14",
+  "pulse_count": 57,
+  "last_updated_utc": "2026-07-15T04:16:51Z",
+  "last_updated_local": "2026-07-15",
   "posts_total": 90,
-  "day_of_year": 195,
-  "daily_quote": "好的书评不是判决，而是邀请读者再打开一次书。",
+  "day_of_year": 196,
+  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
   "spotlight": {
-    "title": "Go context.Context：超时、取消与请求作用域",
-    "path": "/posts/技术/go-context-cancellation"
+    "title": "Go 接口：隐式实现与小接口哲学",
+    "path": "/posts/技术/go-interfaces-composition"
   }
 }
