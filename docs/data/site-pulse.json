@@ -1,12 +1,12 @@
 {
-  "pulse_count": 57,
-  "last_updated_utc": "2026-07-15T04:16:51Z",
-  "last_updated_local": "2026-07-15",
+  "pulse_count": 58,
+  "last_updated_utc": "2026-07-16T04:26:17Z",
+  "last_updated_local": "2026-07-16",
   "posts_total": 90,
-  "day_of_year": 196,
-  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
+  "day_of_year": 197,
+  "daily_quote": "收藏夹里的文章，像冬天的干花。",
   "spotlight": {
-    "title": "Go 接口：隐式实现与小接口哲学",
-    "path": "/posts/技术/go-interfaces-composition"
+    "title": "Go Modules 与 vendor：依赖可复现构建",
+    "path": "/posts/技术/go-modules-vendor-workflow"
   }
 }
