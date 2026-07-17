@@ -1,12 +1,12 @@
 {
-  "pulse_count": 58,
-  "last_updated_utc": "2026-07-16T04:26:17Z",
-  "last_updated_local": "2026-07-16",
+  "pulse_count": 59,
+  "last_updated_utc": "2026-07-17T04:26:03Z",
+  "last_updated_local": "2026-07-17",
   "posts_total": 90,
-  "day_of_year": 197,
-  "daily_quote": "收藏夹里的文章，像冬天的干花。",
+  "day_of_year": 198,
+  "daily_quote": "清晨的咖啡与傍晚的 commit，都是给自己的仪式。",
   "spotlight": {
-    "title": "Go Modules 与 vendor：依赖可复现构建",
-    "path": "/posts/技术/go-modules-vendor-workflow"
+    "title": "Kotlin 协程：结构化并发与作用域取消",
+    "path": "/posts/技术/kotlin-coroutines-structured-concurrency"
   }
 }

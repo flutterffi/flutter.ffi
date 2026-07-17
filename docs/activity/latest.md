@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-16T04:26:17Z |
-| 本地日期 | 2026-07-16 |
+| UTC 时间 | 2026-07-17T04:26:03Z |
+| 本地日期 | 2026-07-17 |
 | 文章总数 | 90 |
-| 脉动序号 | 58 |
+| 脉动序号 | 59 |
 
 ## 今日一句
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
 ## 今日推荐文章
 
-[Go Modules 与 vendor：依赖可复现构建](/posts/技术/go-modules-vendor-workflow)
+[Kotlin 协程：结构化并发与作用域取消](/posts/技术/kotlin-coroutines-structured-concurrency)
 
 ---
 
