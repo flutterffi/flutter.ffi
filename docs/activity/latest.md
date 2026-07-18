@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-17T04:26:03Z |
-| 本地日期 | 2026-07-17 |
+| UTC 时间 | 2026-07-18T04:14:47Z |
+| 本地日期 | 2026-07-18 |
 | 文章总数 | 90 |
-| 脉动序号 | 59 |
+| 脉动序号 | 60 |
 
 ## 今日一句
 
-> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
+> 星空不需要点赞，海浪也不做 KPI。
 
 ## 今日推荐文章
 
-[Kotlin 协程：结构化并发与作用域取消](/posts/技术/kotlin-coroutines-structured-concurrency)
+[Kotlin 属性委托：lazy、observable 与 map 存储](/posts/技术/kotlin-delegation-properties)
 
 ---
 

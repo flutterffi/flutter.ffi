@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-17T04:26:03Z
-- **本地日期**：2026-07-17
+- **最近更新（UTC）**：2026-07-18T04:14:47Z
+- **本地日期**：2026-07-18
 - **文章总数**：90 篇
-- **维护次数**：第 59 次自动脉动
+- **维护次数**：第 60 次自动脉动
 
-> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
+> 星空不需要点赞，海浪也不做 KPI。
 
-**今日随机推荐**：[Kotlin 协程：结构化并发与作用域取消](/posts/技术/kotlin-coroutines-structured-concurrency)  
+**今日随机推荐**：[Kotlin 属性委托：lazy、observable 与 map 存储](/posts/技术/kotlin-delegation-properties)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
