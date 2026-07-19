@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-18T04:14:47Z |
-| 本地日期 | 2026-07-18 |
+| UTC 时间 | 2026-07-19T04:35:53Z |
+| 本地日期 | 2026-07-19 |
 | 文章总数 | 90 |
-| 脉动序号 | 60 |
+| 脉动序号 | 61 |
 
 ## 今日一句
 
-> 星空不需要点赞，海浪也不做 KPI。
+> 把今天写成一行日志，明天就更容易继续。
 
 ## 今日推荐文章
 
-[Kotlin 属性委托：lazy、observable 与 map 存储](/posts/技术/kotlin-delegation-properties)
+[Kotlin Flow 对比 RxJava：冷流、背压与操作符心智](/posts/技术/kotlin-flow-vs-rxjava)
 
 ---
 
