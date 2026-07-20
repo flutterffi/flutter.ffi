@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-19T04:35:53Z |
-| 本地日期 | 2026-07-19 |
+| UTC 时间 | 2026-07-20T04:53:08Z |
+| 本地日期 | 2026-07-20 |
 | 文章总数 | 90 |
-| 脉动序号 | 61 |
+| 脉动序号 | 62 |
 
 ## 今日一句
 
-> 把今天写成一行日志，明天就更容易继续。
+> 沉默不是空白，是页面边距。
 
 ## 今日推荐文章
 
-[Kotlin Flow 对比 RxJava：冷流、背压与操作符心智](/posts/技术/kotlin-flow-vs-rxjava)
+[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)
 
 ---
 

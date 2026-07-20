@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-19T04:35:53Z
-- **本地日期**：2026-07-19
+- **最近更新（UTC）**：2026-07-20T04:53:08Z
+- **本地日期**：2026-07-20
 - **文章总数**：90 篇
-- **维护次数**：第 61 次自动脉动
+- **维护次数**：第 62 次自动脉动
 
-> 把今天写成一行日志，明天就更容易继续。
+> 沉默不是空白，是页面边距。
 
-**今日随机推荐**：[Kotlin Flow 对比 RxJava：冷流、背压与操作符心智](/posts/技术/kotlin-flow-vs-rxjava)  
+**今日随机推荐**：[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
