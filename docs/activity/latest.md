@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-20T04:53:08Z |
-| 本地日期 | 2026-07-20 |
+| UTC 时间 | 2026-07-21T04:32:26Z |
+| 本地日期 | 2026-07-21 |
 | 文章总数 | 90 |
-| 脉动序号 | 62 |
+| 脉动序号 | 63 |
 
 ## 今日一句
 
-> 沉默不是空白，是页面边距。
+> 经典之所以经典，因为每次重读都会换一双眼睛。
 
 ## 今日推荐文章
 
-[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)
+[Kotlin 密封类：代数数据类型与穷尽 when](/posts/技术/kotlin-sealed-when-exhaustive)
 
 ---
 
