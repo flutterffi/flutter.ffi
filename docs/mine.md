@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-21T04:32:26Z
-- **本地日期**：2026-07-21
+- **最近更新（UTC）**：2026-07-22T04:34:26Z
+- **本地日期**：2026-07-22
 - **文章总数**：90 篇
-- **维护次数**：第 63 次自动脉动
+- **维护次数**：第 64 次自动脉动
 
-> 经典之所以经典，因为每次重读都会换一双眼睛。
+> 写作是把模糊的感受，压成可传递的形状。
 
-**今日随机推荐**：[Kotlin 密封类：代数数据类型与穷尽 when](/posts/技术/kotlin-sealed-when-exhaustive)  
+**今日随机推荐**：[OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent](/posts/技术/openai-codex-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
