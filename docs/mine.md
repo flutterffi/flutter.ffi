@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-22T04:34:26Z
-- **本地日期**：2026-07-22
+- **最近更新（UTC）**：2026-07-23T04:34:49Z
+- **本地日期**：2026-07-23
 - **文章总数**：90 篇
-- **维护次数**：第 64 次自动脉动
+- **维护次数**：第 65 次自动脉动
 
-> 写作是把模糊的感受，压成可传递的形状。
+> 生活不在远方，在洗碗时想起的一句诗。
 
-**今日随机推荐**：[OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent](/posts/技术/openai-codex-tutorial)  
+**今日随机推荐**：[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

@@ -1,12 +1,12 @@
 {
-  "pulse_count": 64,
-  "last_updated_utc": "2026-07-22T04:34:26Z",
-  "last_updated_local": "2026-07-22",
+  "pulse_count": 65,
+  "last_updated_utc": "2026-07-23T04:34:49Z",
+  "last_updated_local": "2026-07-23",
   "posts_total": 90,
-  "day_of_year": 203,
-  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
+  "day_of_year": 204,
+  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
   "spotlight": {
-    "title": "OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent",
-    "path": "/posts/技术/openai-codex-tutorial"
+    "title": "Python asyncio：事件循环、Task 与 aiohttp 实战",
+    "path": "/posts/技术/python-asyncio-event-loop"
   }
 }

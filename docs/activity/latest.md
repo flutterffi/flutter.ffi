@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-22T04:34:26Z |
-| 本地日期 | 2026-07-22 |
+| UTC 时间 | 2026-07-23T04:34:49Z |
+| 本地日期 | 2026-07-23 |
 | 文章总数 | 90 |
-| 脉动序号 | 64 |
+| 脉动序号 | 65 |
 
 ## 今日一句
 
-> 写作是把模糊的感受，压成可传递的形状。
+> 生活不在远方，在洗碗时想起的一句诗。
 
 ## 今日推荐文章
 
-[OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent](/posts/技术/openai-codex-tutorial)
+[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)
 
 ---
 
