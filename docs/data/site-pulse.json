@@ -1,12 +1,12 @@
 {
-  "pulse_count": 65,
-  "last_updated_utc": "2026-07-23T04:34:49Z",
-  "last_updated_local": "2026-07-23",
+  "pulse_count": 66,
+  "last_updated_utc": "2026-07-24T04:33:33Z",
+  "last_updated_local": "2026-07-24",
   "posts_total": 90,
-  "day_of_year": 204,
-  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
+  "day_of_year": 205,
+  "daily_quote": "博客是时间的栈，push 的是片段，不是结论。",
   "spotlight": {
-    "title": "Python asyncio：事件循环、Task 与 aiohttp 实战",
-    "path": "/posts/技术/python-asyncio-event-loop"
+    "title": "Python dataclass：slots、frozen 与性能取舍",
+    "path": "/posts/技术/python-dataclass-slots"
   }
 }

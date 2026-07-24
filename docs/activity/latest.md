@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-23T04:34:49Z |
-| 本地日期 | 2026-07-23 |
+| UTC 时间 | 2026-07-24T04:33:33Z |
+| 本地日期 | 2026-07-24 |
 | 文章总数 | 90 |
-| 脉动序号 | 65 |
+| 脉动序号 | 66 |
 
 ## 今日一句
 
-> 生活不在远方，在洗碗时想起的一句诗。
+> 博客是时间的栈，push 的是片段，不是结论。
 
 ## 今日推荐文章
 
-[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)
+[Python dataclass：slots、frozen 与性能取舍](/posts/技术/python-dataclass-slots)
 
 ---
 

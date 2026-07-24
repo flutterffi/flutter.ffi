@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-23T04:34:49Z
-- **本地日期**：2026-07-23
+- **最近更新（UTC）**：2026-07-24T04:33:33Z
+- **本地日期**：2026-07-24
 - **文章总数**：90 篇
-- **维护次数**：第 65 次自动脉动
+- **维护次数**：第 66 次自动脉动
 
-> 生活不在远方，在洗碗时想起的一句诗。
+> 博客是时间的栈，push 的是片段，不是结论。
 
-**今日随机推荐**：[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)  
+**今日随机推荐**：[Python dataclass：slots、frozen 与性能取舍](/posts/技术/python-dataclass-slots)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
