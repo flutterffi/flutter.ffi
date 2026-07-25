@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-24T04:33:33Z |
-| 本地日期 | 2026-07-24 |
+| UTC 时间 | 2026-07-25T04:28:49Z |
+| 本地日期 | 2026-07-25 |
 | 文章总数 | 90 |
-| 脉动序号 | 66 |
+| 脉动序号 | 67 |
 
 ## 今日一句
 
-> 博客是时间的栈，push 的是片段，不是结论。
+> 观察一片叶子，比刷完时间线更接近真实。
 
 ## 今日推荐文章
 
-[Python dataclass：slots、frozen 与性能取舍](/posts/技术/python-dataclass-slots)
+[Python 类型系统：Protocol、Generic 与静态检查](/posts/技术/python-typing-generics-protocol)
 
 ---
 

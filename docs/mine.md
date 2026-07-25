@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-24T04:33:33Z
-- **本地日期**：2026-07-24
+- **最近更新（UTC）**：2026-07-25T04:28:49Z
+- **本地日期**：2026-07-25
 - **文章总数**：90 篇
-- **维护次数**：第 66 次自动脉动
+- **维护次数**：第 67 次自动脉动
 
-> 博客是时间的栈，push 的是片段，不是结论。
+> 观察一片叶子，比刷完时间线更接近真实。
 
-**今日随机推荐**：[Python dataclass：slots、frozen 与性能取舍](/posts/技术/python-dataclass-slots)  
+**今日随机推荐**：[Python 类型系统：Protocol、Generic 与静态检查](/posts/技术/python-typing-generics-protocol)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
