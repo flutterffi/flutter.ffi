@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-25T04:28:49Z |
-| 本地日期 | 2026-07-25 |
+| UTC 时间 | 2026-07-26T04:42:47Z |
+| 本地日期 | 2026-07-26 |
 | 文章总数 | 90 |
-| 脉动序号 | 67 |
+| 脉动序号 | 68 |
 
 ## 今日一句
 
-> 观察一片叶子，比刷完时间线更接近真实。
+> 调试人生：先复现，再缩小范围，最后才改。
 
 ## 今日推荐文章
 
-[Python 类型系统：Protocol、Generic 与静态检查](/posts/技术/python-typing-generics-protocol)
+[Roo Code 使用教程：VS Code Agent 模式与 Cline 生态对比](/posts/技术/roo-code-tutorial)
 
 ---
 
