@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-26T04:42:47Z
-- **本地日期**：2026-07-26
+- **最近更新（UTC）**：2026-07-27T04:52:32Z
+- **本地日期**：2026-07-27
 - **文章总数**：90 篇
-- **维护次数**：第 68 次自动脉动
+- **维护次数**：第 69 次自动脉动
 
-> 调试人生：先复现，再缩小范围，最后才改。
+> 好的工具让人忘记工具，好的文字让人忘记屏幕。
 
-**今日随机推荐**：[Roo Code 使用教程：VS Code Agent 模式与 Cline 生态对比](/posts/技术/roo-code-tutorial)  
+**今日随机推荐**：[Swift Actor：数据竞争与 MainActor 边界](/posts/技术/swift-actor-isolation)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
