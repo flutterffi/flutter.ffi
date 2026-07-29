@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-28T04:29:23Z
-- **本地日期**：2026-07-28
+- **最近更新（UTC）**：2026-07-29T04:31:40Z
+- **本地日期**：2026-07-29
 - **文章总数**：90 篇
-- **维护次数**：第 70 次自动脉动
+- **维护次数**：第 71 次自动脉动
 
-> 周末适合读纸书，周一适合写注释。
+> 自然从不说教，它只展示循环与季节。
 
-**今日随机推荐**：[Swift 并发：async/await 与 Task 取消协作](/posts/技术/swift-async-await-task)  
+**今日随机推荐**：[Swift ARC：strong、weak、unowned 与闭包捕获](/posts/技术/swift-memory-arc-weak-unowned)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

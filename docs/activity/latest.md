@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-28T04:29:23Z |
-| 本地日期 | 2026-07-28 |
+| UTC 时间 | 2026-07-29T04:31:40Z |
+| 本地日期 | 2026-07-29 |
 | 文章总数 | 90 |
-| 脉动序号 | 70 |
+| 脉动序号 | 71 |
 
 ## 今日一句
 
-> 周末适合读纸书，周一适合写注释。
+> 自然从不说教，它只展示循环与季节。
 
 ## 今日推荐文章
 
-[Swift 并发：async/await 与 Task 取消协作](/posts/技术/swift-async-await-task)
+[Swift ARC：strong、weak、unowned 与闭包捕获](/posts/技术/swift-memory-arc-weak-unowned)
 
 ---
 
