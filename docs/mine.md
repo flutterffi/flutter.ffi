@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-29T04:31:40Z
-- **本地日期**：2026-07-29
+- **最近更新（UTC）**：2026-07-30T04:21:38Z
+- **本地日期**：2026-07-30
 - **文章总数**：90 篇
-- **维护次数**：第 71 次自动脉动
+- **维护次数**：第 72 次自动脉动
 
-> 自然从不说教，它只展示循环与季节。
+> 把观点写短很难，把废话删光更难。
 
-**今日随机推荐**：[Swift ARC：strong、weak、unowned 与闭包捕获](/posts/技术/swift-memory-arc-weak-unowned)  
+**今日随机推荐**：[Swift 面向协议编程：扩展优于继承](/posts/技术/swift-protocol-oriented-design)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
