@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-30T04:21:38Z
-- **本地日期**：2026-07-30
+- **最近更新（UTC）**：2026-07-31T04:41:49Z
+- **本地日期**：2026-07-31
 - **文章总数**：90 篇
-- **维护次数**：第 72 次自动脉动
+- **维护次数**：第 73 次自动脉动
 
-> 把观点写短很难，把废话删光更难。
+> 夜深时，键盘声像远处的雨。
 
-**今日随机推荐**：[Swift 面向协议编程：扩展优于继承](/posts/技术/swift-protocol-oriented-design)  
+**今日随机推荐**：[SwiftUI 深度：AttributeGraph、@State 存哪儿、更新怎么传播](/posts/技术/swiftui-attribute-graph-and-state)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

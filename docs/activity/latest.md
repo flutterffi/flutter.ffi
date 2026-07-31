@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-07-30T04:21:38Z |
-| 本地日期 | 2026-07-30 |
+| UTC 时间 | 2026-07-31T04:41:49Z |
+| 本地日期 | 2026-07-31 |
 | 文章总数 | 90 |
-| 脉动序号 | 72 |
+| 脉动序号 | 73 |
 
 ## 今日一句
 
-> 把观点写短很难，把废话删光更难。
+> 夜深时，键盘声像远处的雨。
 
 ## 今日推荐文章
 
-[Swift 面向协议编程：扩展优于继承](/posts/技术/swift-protocol-oriented-design)
+[SwiftUI 深度：AttributeGraph、@State 存哪儿、更新怎么传播](/posts/技术/swiftui-attribute-graph-and-state)
 
 ---
 
