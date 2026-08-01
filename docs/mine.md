@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-07-31T04:41:49Z
-- **本地日期**：2026-07-31
+- **最近更新（UTC）**：2026-08-01T04:35:35Z
+- **本地日期**：2026-08-01
 - **文章总数**：90 篇
-- **维护次数**：第 73 次自动脉动
+- **维护次数**：第 74 次自动脉动
 
-> 夜深时，键盘声像远处的雨。
+> 每一本书都是一扇门，开多少由你决定。
 
-**今日随机推荐**：[SwiftUI 深度：AttributeGraph、@State 存哪儿、更新怎么传播](/posts/技术/swiftui-attribute-graph-and-state)  
+**今日随机推荐**：[SwiftUI 深度教程索引](/posts/技术/swiftui-deep-dive-index)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
