@@ -1,12 +1,12 @@
 {
-  "pulse_count": 74,
-  "last_updated_utc": "2026-08-01T04:35:35Z",
-  "last_updated_local": "2026-08-01",
+  "pulse_count": 75,
+  "last_updated_utc": "2026-08-02T04:38:18Z",
+  "last_updated_local": "2026-08-02",
   "posts_total": 90,
-  "day_of_year": 213,
-  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
+  "day_of_year": 214,
+  "daily_quote": "记录本身，是对遗忘的温和抵抗。",
   "spotlight": {
-    "title": "SwiftUI 深度教程索引",
-    "path": "/posts/技术/swiftui-deep-dive-index"
+    "title": "SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商",
+    "path": "/posts/技术/swiftui-layout-proposal-engine"
   }
 }
