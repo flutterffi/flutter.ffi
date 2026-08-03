@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-02T04:38:18Z |
-| 本地日期 | 2026-08-02 |
+| UTC 时间 | 2026-08-03T04:47:13Z |
+| 本地日期 | 2026-08-03 |
 | 文章总数 | 90 |
-| 脉动序号 | 75 |
+| 脉动序号 | 76 |
 
 ## 今日一句
 
-> 记录本身，是对遗忘的温和抵抗。
+> 今日可读，明日可改，后日可忘——亦无妨。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商](/posts/技术/swiftui-layout-proposal-engine)
+[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)
 
 ---
 

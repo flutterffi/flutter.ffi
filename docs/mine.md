@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-02T04:38:18Z
-- **本地日期**：2026-08-02
+- **最近更新（UTC）**：2026-08-03T04:47:13Z
+- **本地日期**：2026-08-03
 - **文章总数**：90 篇
-- **维护次数**：第 75 次自动脉动
+- **维护次数**：第 76 次自动脉动
 
-> 记录本身，是对遗忘的温和抵抗。
+> 今日可读，明日可改，后日可忘——亦无妨。
 
-**今日随机推荐**：[SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商](/posts/技术/swiftui-layout-proposal-engine)  
+**今日随机推荐**：[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
