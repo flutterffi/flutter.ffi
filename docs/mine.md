@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-03T04:47:13Z
-- **本地日期**：2026-08-03
+- **最近更新（UTC）**：2026-08-04T04:31:53Z
+- **本地日期**：2026-08-04
 - **文章总数**：90 篇
-- **维护次数**：第 76 次自动脉动
+- **维护次数**：第 77 次自动脉动
 
-> 今日可读，明日可改，后日可忘——亦无妨。
+> 在信息流里种一棵慢树，需要每天浇一点耐心。
 
-**今日随机推荐**：[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)  
+**今日随机推荐**：[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
