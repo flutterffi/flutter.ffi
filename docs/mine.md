@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-04T04:31:53Z
-- **本地日期**：2026-08-04
+- **最近更新（UTC）**：2026-08-05T04:29:37Z
+- **本地日期**：2026-08-05
 - **文章总数**：90 篇
-- **维护次数**：第 77 次自动脉动
+- **维护次数**：第 78 次自动脉动
 
-> 在信息流里种一棵慢树，需要每天浇一点耐心。
+> 阅读不是填满时间，而是给思考留出缝隙。
 
-**今日随机推荐**：[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)  
+**今日随机推荐**：[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

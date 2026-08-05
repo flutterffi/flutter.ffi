@@ -1,12 +1,12 @@
 {
-  "pulse_count": 77,
-  "last_updated_utc": "2026-08-04T04:31:53Z",
-  "last_updated_local": "2026-08-04",
+  "pulse_count": 78,
+  "last_updated_utc": "2026-08-05T04:29:37Z",
+  "last_updated_local": "2026-08-05",
   "posts_total": 90,
-  "day_of_year": 216,
-  "daily_quote": "在信息流里种一棵慢树，需要每天浇一点耐心。",
+  "day_of_year": 217,
+  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
   "spotlight": {
-    "title": "SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航",
-    "path": "/posts/技术/swiftui-navigation-path-deep-dive"
+    "title": "SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱",
+    "path": "/posts/技术/swiftui-observable-macro-deep-dive"
   }
 }

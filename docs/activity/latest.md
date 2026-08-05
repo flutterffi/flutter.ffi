@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-04T04:31:53Z |
-| 本地日期 | 2026-08-04 |
+| UTC 时间 | 2026-08-05T04:29:37Z |
+| 本地日期 | 2026-08-05 |
 | 文章总数 | 90 |
-| 脉动序号 | 77 |
+| 脉动序号 | 78 |
 
 ## 今日一句
 
-> 在信息流里种一棵慢树，需要每天浇一点耐心。
+> 阅读不是填满时间，而是给思考留出缝隙。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)
+[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)
 
 ---
 
