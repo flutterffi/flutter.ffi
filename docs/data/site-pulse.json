@@ -1,12 +1,12 @@
 {
-  "pulse_count": 78,
-  "last_updated_utc": "2026-08-05T04:29:37Z",
-  "last_updated_local": "2026-08-05",
+  "pulse_count": 79,
+  "last_updated_utc": "2026-08-06T04:30:54Z",
+  "last_updated_local": "2026-08-06",
   "posts_total": 90,
-  "day_of_year": 217,
-  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
+  "day_of_year": 218,
+  "daily_quote": "慢下来的时候，树影会移动，句子也会变长。",
   "spotlight": {
-    "title": "SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱",
-    "path": "/posts/技术/swiftui-observable-macro-deep-dive"
+    "title": "SwiftUI 状态：@Observable 与 Observation 框架迁移",
+    "path": "/posts/技术/swiftui-state-observation"
   }
 }

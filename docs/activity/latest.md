@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-05T04:29:37Z |
-| 本地日期 | 2026-08-05 |
+| UTC 时间 | 2026-08-06T04:30:54Z |
+| 本地日期 | 2026-08-06 |
 | 文章总数 | 90 |
-| 脉动序号 | 78 |
+| 脉动序号 | 79 |
 
 ## 今日一句
 
-> 阅读不是填满时间，而是给思考留出缝隙。
+> 慢下来的时候，树影会移动，句子也会变长。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)
+[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)
 
 ---
 
