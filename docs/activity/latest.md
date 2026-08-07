@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-06T04:30:54Z |
-| 本地日期 | 2026-08-06 |
+| UTC 时间 | 2026-08-07T04:03:20Z |
+| 本地日期 | 2026-08-07 |
 | 文章总数 | 90 |
-| 脉动序号 | 79 |
+| 脉动序号 | 80 |
 
 ## 今日一句
 
-> 慢下来的时候，树影会移动，句子也会变长。
+> 一本读了一半的书，像一封未寄出的信。
 
 ## 今日推荐文章
 
-[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)
+[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)
 
 ---
 

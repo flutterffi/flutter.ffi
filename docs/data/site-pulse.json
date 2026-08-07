@@ -1,12 +1,12 @@
 {
-  "pulse_count": 79,
-  "last_updated_utc": "2026-08-06T04:30:54Z",
-  "last_updated_local": "2026-08-06",
+  "pulse_count": 80,
+  "last_updated_utc": "2026-08-07T04:03:20Z",
+  "last_updated_local": "2026-08-07",
   "posts_total": 90,
-  "day_of_year": 218,
-  "daily_quote": "慢下来的时候，树影会移动，句子也会变长。",
+  "day_of_year": 219,
+  "daily_quote": "一本读了一半的书，像一封未寄出的信。",
   "spotlight": {
-    "title": "SwiftUI 状态：@Observable 与 Observation 框架迁移",
-    "path": "/posts/技术/swiftui-state-observation"
+    "title": "SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作",
+    "path": "/posts/技术/swiftui-uikit-interop-hosting"
   }
 }

@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-06T04:30:54Z
-- **本地日期**：2026-08-06
+- **最近更新（UTC）**：2026-08-07T04:03:20Z
+- **本地日期**：2026-08-07
 - **文章总数**：90 篇
-- **维护次数**：第 79 次自动脉动
+- **维护次数**：第 80 次自动脉动
 
-> 慢下来的时候，树影会移动，句子也会变长。
+> 一本读了一半的书，像一封未寄出的信。
 
-**今日随机推荐**：[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)  
+**今日随机推荐**：[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
