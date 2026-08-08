@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-07T04:03:20Z
-- **本地日期**：2026-08-07
+- **最近更新（UTC）**：2026-08-08T03:00:40Z
+- **本地日期**：2026-08-08
 - **文章总数**：90 篇
-- **维护次数**：第 80 次自动脉动
+- **维护次数**：第 81 次自动脉动
 
-> 一本读了一半的书，像一封未寄出的信。
+> 代码与散文一样：删掉的字，往往最值钱。
 
-**今日随机推荐**：[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)  
+**今日随机推荐**：[SwiftUI 深度：视图身份（Identity）如何决定状态生死](/posts/技术/swiftui-view-identity-and-lifetime)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

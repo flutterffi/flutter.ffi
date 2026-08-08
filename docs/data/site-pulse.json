@@ -1,12 +1,12 @@
 {
-  "pulse_count": 80,
-  "last_updated_utc": "2026-08-07T04:03:20Z",
-  "last_updated_local": "2026-08-07",
+  "pulse_count": 81,
+  "last_updated_utc": "2026-08-08T03:00:40Z",
+  "last_updated_local": "2026-08-08",
   "posts_total": 90,
-  "day_of_year": 219,
-  "daily_quote": "一本读了一半的书，像一封未寄出的信。",
+  "day_of_year": 220,
+  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
   "spotlight": {
-    "title": "SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作",
-    "path": "/posts/技术/swiftui-uikit-interop-hosting"
+    "title": "SwiftUI 深度：视图身份（Identity）如何决定状态生死",
+    "path": "/posts/技术/swiftui-view-identity-and-lifetime"
   }
 }

@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-07T04:03:20Z |
-| 本地日期 | 2026-08-07 |
+| UTC 时间 | 2026-08-08T03:00:40Z |
+| 本地日期 | 2026-08-08 |
 | 文章总数 | 90 |
-| 脉动序号 | 80 |
+| 脉动序号 | 81 |
 
 ## 今日一句
 
-> 一本读了一半的书，像一封未寄出的信。
+> 代码与散文一样：删掉的字，往往最值钱。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)
+[SwiftUI 深度：视图身份（Identity）如何决定状态生死](/posts/技术/swiftui-view-identity-and-lifetime)
 
 ---
 
