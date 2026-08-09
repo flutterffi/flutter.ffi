@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-08T03:00:40Z
-- **本地日期**：2026-08-08
+- **最近更新（UTC）**：2026-08-09T03:07:56Z
+- **本地日期**：2026-08-09
 - **文章总数**：90 篇
-- **维护次数**：第 81 次自动脉动
+- **维护次数**：第 82 次自动脉动
 
-> 代码与散文一样：删掉的字，往往最值钱。
+> 雨声是最好的白噪音，适合把章节读完。
 
-**今日随机推荐**：[SwiftUI 深度：视图身份（Identity）如何决定状态生死](/posts/技术/swiftui-view-identity-and-lifetime)  
+**今日随机推荐**：[Trae 使用教程：字节 AI IDE 安装与 Builder 工作流](/posts/技术/trae-ai-ide-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

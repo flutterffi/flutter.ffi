@@ -1,12 +1,12 @@
 {
-  "pulse_count": 81,
-  "last_updated_utc": "2026-08-08T03:00:40Z",
-  "last_updated_local": "2026-08-08",
+  "pulse_count": 82,
+  "last_updated_utc": "2026-08-09T03:07:56Z",
+  "last_updated_local": "2026-08-09",
   "posts_total": 90,
-  "day_of_year": 220,
-  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
+  "day_of_year": 221,
+  "daily_quote": "雨声是最好的白噪音，适合把章节读完。",
   "spotlight": {
-    "title": "SwiftUI 深度：视图身份（Identity）如何决定状态生死",
-    "path": "/posts/技术/swiftui-view-identity-and-lifetime"
+    "title": "Trae 使用教程：字节 AI IDE 安装与 Builder 工作流",
+    "path": "/posts/技术/trae-ai-ide-tutorial"
   }
 }
