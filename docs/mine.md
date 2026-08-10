@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-09T03:07:56Z
-- **本地日期**：2026-08-09
+- **最近更新（UTC）**：2026-08-10T03:18:33Z
+- **本地日期**：2026-08-10
 - **文章总数**：90 篇
-- **维护次数**：第 82 次自动脉动
+- **维护次数**：第 83 次自动脉动
 
-> 雨声是最好的白噪音，适合把章节读完。
+> 图书馆的灯永远比热搜温和。
 
-**今日随机推荐**：[Trae 使用教程：字节 AI IDE 安装与 Builder 工作流](/posts/技术/trae-ai-ide-tutorial)  
+**今日随机推荐**：[Windsurf 使用教程：Cascade 流式编辑与 AI IDE 入门](/posts/技术/windsurf-ai-ide-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
