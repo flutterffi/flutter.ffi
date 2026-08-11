@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-10T03:18:33Z
-- **本地日期**：2026-08-10
+- **最近更新（UTC）**：2026-08-11T03:11:17Z
+- **本地日期**：2026-08-11
 - **文章总数**：90 篇
-- **维护次数**：第 83 次自动脉动
+- **维护次数**：第 84 次自动脉动
 
-> 图书馆的灯永远比热搜温和。
+> 不带手机散步，原来街道有自己的字幕。
 
-**今日随机推荐**：[Windsurf 使用教程：Cascade 流式编辑与 AI IDE 入门](/posts/技术/windsurf-ai-ide-tutorial)  
+**今日随机推荐**：[2026 免费地址生成器推荐：美区（含免税州）与土耳其 Apple ID 注册必备，地址一键生成（支持20+国家）](/posts/收藏/appark-address-generator-us-tax-free-turkey-appleid)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
