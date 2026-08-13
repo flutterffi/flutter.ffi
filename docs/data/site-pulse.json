@@ -1,12 +1,12 @@
 {
-  "pulse_count": 85,
-  "last_updated_utc": "2026-08-12T03:29:02Z",
-  "last_updated_local": "2026-08-12",
+  "pulse_count": 86,
+  "last_updated_utc": "2026-08-13T03:32:56Z",
+  "last_updated_local": "2026-08-13",
   "posts_total": 90,
-  "day_of_year": 224,
-  "daily_quote": "翻译是重读，重读是第二次初见。",
+  "day_of_year": 225,
+  "daily_quote": "瓦尔登湖不在麻省，在关机后的十分钟里。",
   "spotlight": {
-    "title": "2026最新App Store切换地区教程：一键跳转美/日/韩/尼等热门国家",
-    "path": "/posts/收藏/appark-app-store-change-region"
+    "title": "App Store Connect 最新上架教程：从零开始发布你的第一款 APP",
+    "path": "/posts/收藏/appark-app-store-connect-submission-guide"
   }
 }
