@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-13T03:32:56Z
-- **本地日期**：2026-08-13
+- **最近更新（UTC）**：2026-08-14T03:30:09Z
+- **本地日期**：2026-08-14
 - **文章总数**：90 篇
-- **维护次数**：第 86 次自动脉动
+- **维护次数**：第 87 次自动脉动
 
-> 瓦尔登湖不在麻省，在关机后的十分钟里。
+> 好的书评不是判决，而是邀请读者再打开一次书。
 
-**今日随机推荐**：[App Store Connect 最新上架教程：从零开始发布你的第一款 APP](/posts/收藏/appark-app-store-connect-submission-guide)  
+**今日随机推荐**：[2026年最新CC switch下载、安装到进阶使用保姆级教程，打造AI终端配置神器](/posts/收藏/appark-cc-switch-download-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
