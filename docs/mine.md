@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-14T03:30:09Z
-- **本地日期**：2026-08-14
+- **最近更新（UTC）**：2026-08-15T02:19:09Z
+- **本地日期**：2026-08-15
 - **文章总数**：90 篇
-- **维护次数**：第 87 次自动脉动
+- **维护次数**：第 88 次自动脉动
 
-> 好的书评不是判决，而是邀请读者再打开一次书。
+> 技术深度来自追问「为什么」，不是堆砌名词。
 
-**今日随机推荐**：[2026年最新CC switch下载、安装到进阶使用保姆级教程，打造AI终端配置神器](/posts/收藏/appark-cc-switch-download-tutorial)  
+**今日随机推荐**：[2026年最新 ChatGPT 土耳其区折扣订阅指南](/posts/收藏/appark-chatgpt-turkey-discount-subscription-guide)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
