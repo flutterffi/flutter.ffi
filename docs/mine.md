@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-15T02:19:09Z
-- **本地日期**：2026-08-15
+- **最近更新（UTC）**：2026-08-16T02:34:30Z
+- **本地日期**：2026-08-16
 - **文章总数**：90 篇
-- **维护次数**：第 88 次自动脉动
+- **维护次数**：第 89 次自动脉动
 
-> 技术深度来自追问「为什么」，不是堆砌名词。
+> 收藏夹里的文章，像冬天的干花。
 
-**今日随机推荐**：[2026年最新 ChatGPT 土耳其区折扣订阅指南](/posts/收藏/appark-chatgpt-turkey-discount-subscription-guide)  
+**今日随机推荐**：[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

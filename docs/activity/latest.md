@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-15T02:19:09Z |
-| 本地日期 | 2026-08-15 |
+| UTC 时间 | 2026-08-16T02:34:30Z |
+| 本地日期 | 2026-08-16 |
 | 文章总数 | 90 |
-| 脉动序号 | 88 |
+| 脉动序号 | 89 |
 
 ## 今日一句
 
-> 技术深度来自追问「为什么」，不是堆砌名词。
+> 收藏夹里的文章，像冬天的干花。
 
 ## 今日推荐文章
 
-[2026年最新 ChatGPT 土耳其区折扣订阅指南](/posts/收藏/appark-chatgpt-turkey-discount-subscription-guide)
+[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)
 
 ---
 
