@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-16T02:34:30Z |
-| 本地日期 | 2026-08-16 |
+| UTC 时间 | 2026-08-17T02:34:02Z |
+| 本地日期 | 2026-08-17 |
 | 文章总数 | 90 |
-| 脉动序号 | 89 |
+| 脉动序号 | 90 |
 
 ## 今日一句
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
 ## 今日推荐文章
 
-[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)
+[2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买](/posts/收藏/appark-claude-pro-discount-subscription-tutorial)
 
 ---
 

@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-16T02:34:30Z
-- **本地日期**：2026-08-16
+- **最近更新（UTC）**：2026-08-17T02:34:02Z
+- **本地日期**：2026-08-17
 - **文章总数**：90 篇
-- **维护次数**：第 89 次自动脉动
+- **维护次数**：第 90 次自动脉动
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
-**今日随机推荐**：[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)  
+**今日随机推荐**：[2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买](/posts/收藏/appark-claude-pro-discount-subscription-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
