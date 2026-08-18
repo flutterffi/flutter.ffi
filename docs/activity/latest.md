@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-17T02:34:02Z |
-| 本地日期 | 2026-08-17 |
+| UTC 时间 | 2026-08-18T02:29:16Z |
+| 本地日期 | 2026-08-18 |
 | 文章总数 | 90 |
-| 脉动序号 | 90 |
+| 脉动序号 | 91 |
 
 ## 今日一句
 
-> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
+> 星空不需要点赞，海浪也不做 KPI。
 
 ## 今日推荐文章
 
-[2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买](/posts/收藏/appark-claude-pro-discount-subscription-tutorial)
+[GLM Coding Plan 九折优惠购买指南｜持续更新优惠码](/posts/收藏/appark-glm-coding-plan-discount-purchase)
 
 ---
 
