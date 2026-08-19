@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-18T02:29:16Z |
-| 本地日期 | 2026-08-18 |
+| UTC 时间 | 2026-08-19T02:31:48Z |
+| 本地日期 | 2026-08-19 |
 | 文章总数 | 90 |
-| 脉动序号 | 91 |
+| 脉动序号 | 92 |
 
 ## 今日一句
 
-> 星空不需要点赞，海浪也不做 KPI。
+> 把今天写成一行日志，明天就更容易继续。
 
 ## 今日推荐文章
 
-[GLM Coding Plan 九折优惠购买指南｜持续更新优惠码](/posts/收藏/appark-glm-coding-plan-discount-purchase)
+[GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果](/posts/收藏/appark-gpt-image-2-advanced-prompt-and-templates)
 
 ---
 
