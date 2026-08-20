@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-08-19T02:31:48Z |
-| 本地日期 | 2026-08-19 |
+| UTC 时间 | 2026-08-20T02:30:26Z |
+| 本地日期 | 2026-08-20 |
 | 文章总数 | 90 |
-| 脉动序号 | 92 |
+| 脉动序号 | 93 |
 
 ## 今日一句
 
-> 把今天写成一行日志，明天就更容易继续。
+> 沉默不是空白，是页面边距。
 
 ## 今日推荐文章
 
-[GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果](/posts/收藏/appark-gpt-image-2-advanced-prompt-and-templates)
+[GPT Image 2最新使用教程：内附触发提示词，持续收集免费的GPT Image 2站点](/posts/收藏/appark-gpt-image-2-complete-guide-and-prompt-tips)
 
 ---
 

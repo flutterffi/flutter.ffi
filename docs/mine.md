@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-19T02:31:48Z
-- **本地日期**：2026-08-19
+- **最近更新（UTC）**：2026-08-20T02:30:26Z
+- **本地日期**：2026-08-20
 - **文章总数**：90 篇
-- **维护次数**：第 92 次自动脉动
+- **维护次数**：第 93 次自动脉动
 
-> 把今天写成一行日志，明天就更容易继续。
+> 沉默不是空白，是页面边距。
 
-**今日随机推荐**：[GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果](/posts/收藏/appark-gpt-image-2-advanced-prompt-and-templates)  
+**今日随机推荐**：[GPT Image 2最新使用教程：内附触发提示词，持续收集免费的GPT Image 2站点](/posts/收藏/appark-gpt-image-2-complete-guide-and-prompt-tips)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
