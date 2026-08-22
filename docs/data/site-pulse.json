@@ -1,12 +1,12 @@
 {
-  "pulse_count": 94,
-  "last_updated_utc": "2026-08-21T02:36:39Z",
-  "last_updated_local": "2026-08-21",
+  "pulse_count": 95,
+  "last_updated_utc": "2026-08-22T02:28:43Z",
+  "last_updated_local": "2026-08-22",
   "posts_total": 90,
-  "day_of_year": 233,
-  "daily_quote": "经典之所以经典，因为每次重读都会换一双眼睛。",
+  "day_of_year": 234,
+  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
   "spotlight": {
-    "title": "2026 最新谷歌邮箱注册教程（PC 端、移动端 Gmail 注册全指南）",
-    "path": "/posts/收藏/appark-how-to-create-gmail-account"
+    "title": "OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4",
+    "path": "/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4"
   }
 }

@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-21T02:36:39Z
-- **本地日期**：2026-08-21
+- **最近更新（UTC）**：2026-08-22T02:28:43Z
+- **本地日期**：2026-08-22
 - **文章总数**：90 篇
-- **维护次数**：第 94 次自动脉动
+- **维护次数**：第 95 次自动脉动
 
-> 经典之所以经典，因为每次重读都会换一双眼睛。
+> 写作是把模糊的感受，压成可传递的形状。
 
-**今日随机推荐**：[2026 最新谷歌邮箱注册教程（PC 端、移动端 Gmail 注册全指南）](/posts/收藏/appark-how-to-create-gmail-account)  
+**今日随机推荐**：[OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4](/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
