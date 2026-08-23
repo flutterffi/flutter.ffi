@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-08-22T02:28:43Z
-- **本地日期**：2026-08-22
+- **最近更新（UTC）**：2026-08-23T02:37:08Z
+- **本地日期**：2026-08-23
 - **文章总数**：90 篇
-- **维护次数**：第 95 次自动脉动
+- **维护次数**：第 96 次自动脉动
 
-> 写作是把模糊的感受，压成可传递的形状。
+> 生活不在远方，在洗碗时想起的一句诗。
 
-**今日随机推荐**：[OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4](/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4)  
+**今日随机推荐**：[Appark 教程收藏索引](/posts/收藏/appark-tutorial-index)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
