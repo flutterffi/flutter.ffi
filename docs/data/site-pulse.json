@@ -1,12 +1,12 @@
 {
-  "pulse_count": 97,
-  "last_updated_utc": "2026-08-24T02:37:25Z",
-  "last_updated_local": "2026-08-24",
+  "pulse_count": 98,
+  "last_updated_utc": "2026-08-25T02:31:07Z",
+  "last_updated_local": "2026-08-25",
   "posts_total": 90,
-  "day_of_year": 236,
-  "daily_quote": "博客是时间的栈，push 的是片段，不是结论。",
+  "day_of_year": 237,
+  "daily_quote": "观察一片叶子，比刷完时间线更接近真实。",
   "spotlight": {
-    "title": "开发者工具箱收藏：编辑、调试、抓包与笔记",
-    "path": "/posts/收藏/developer-toolkit-2026"
+    "title": "Flutter 学习路径收藏：从 Widget 到引擎",
+    "path": "/posts/收藏/flutter-learning-path"
   }
 }
