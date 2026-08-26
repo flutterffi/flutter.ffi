@@ -1,12 +1,12 @@
 {
-  "pulse_count": 98,
-  "last_updated_utc": "2026-08-25T02:31:07Z",
-  "last_updated_local": "2026-08-25",
+  "pulse_count": 99,
+  "last_updated_utc": "2026-08-26T02:39:16Z",
+  "last_updated_local": "2026-08-26",
   "posts_total": 90,
-  "day_of_year": 237,
-  "daily_quote": "观察一片叶子，比刷完时间线更接近真实。",
+  "day_of_year": 238,
+  "daily_quote": "调试人生：先复现，再缩小范围，最后才改。",
   "spotlight": {
-    "title": "Flutter 学习路径收藏：从 Widget 到引擎",
-    "path": "/posts/收藏/flutter-learning-path"
+    "title": "经典 Giffgaff 开卡指南（英国平价 SIM）",
+    "path": "/posts/收藏/giffgaff-sim-guide"
   }
 }
