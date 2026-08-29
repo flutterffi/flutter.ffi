@@ -1,12 +1,12 @@
 {
-  "pulse_count": 101,
-  "last_updated_utc": "2026-08-28T12:47:30Z",
-  "last_updated_local": "2026-08-28",
+  "pulse_count": 102,
+  "last_updated_utc": "2026-08-29T07:53:25Z",
+  "last_updated_local": "2026-08-29",
   "posts_total": 90,
-  "day_of_year": 240,
-  "daily_quote": "周末适合读纸书，周一适合写注释。",
+  "day_of_year": 241,
+  "daily_quote": "自然从不说教，它只展示循环与季节。",
   "spotlight": {
-    "title": "收藏｜工程师如何在 X 上写好技术短文",
-    "path": "/posts/收藏/x-engineering-writing-on-social"
+    "title": "收藏｜X 上关于 Flutter 性能的高赞讨论精华",
+    "path": "/posts/收藏/x-flutter-performance-discussions"
   }
 }
