@@ -1,12 +1,12 @@
 {
-  "pulse_count": 102,
-  "last_updated_utc": "2026-08-29T07:53:25Z",
-  "last_updated_local": "2026-08-29",
+  "pulse_count": 103,
+  "last_updated_utc": "2026-08-30T06:41:18Z",
+  "last_updated_local": "2026-08-30",
   "posts_total": 90,
-  "day_of_year": 241,
-  "daily_quote": "自然从不说教，它只展示循环与季节。",
+  "day_of_year": 242,
+  "daily_quote": "把观点写短很难，把废话删光更难。",
   "spotlight": {
-    "title": "收藏｜X 上关于 Flutter 性能的高赞讨论精华",
-    "path": "/posts/收藏/x-flutter-performance-discussions"
+    "title": "收藏｜独立开发者在 X 分享的发布清单",
+    "path": "/posts/收藏/x-indie-launch-playbook"
   }
 }
