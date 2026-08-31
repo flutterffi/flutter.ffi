@@ -1,12 +1,12 @@
 {
-  "pulse_count": 103,
-  "last_updated_utc": "2026-08-30T06:41:18Z",
-  "last_updated_local": "2026-08-30",
+  "pulse_count": 104,
+  "last_updated_utc": "2026-08-31T07:02:37Z",
+  "last_updated_local": "2026-08-31",
   "posts_total": 90,
-  "day_of_year": 242,
-  "daily_quote": "把观点写短很难，把废话删光更难。",
+  "day_of_year": 243,
+  "daily_quote": "夜深时，键盘声像远处的雨。",
   "spotlight": {
-    "title": "收藏｜独立开发者在 X 分享的发布清单",
-    "path": "/posts/收藏/x-indie-launch-playbook"
+    "title": "收藏｜X 热议的「资深工程师」迷思与反论",
+    "path": "/posts/收藏/x-senior-dev-career-myths"
   }
 }
