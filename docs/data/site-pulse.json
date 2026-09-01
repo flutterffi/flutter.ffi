@@ -1,12 +1,12 @@
 {
-  "pulse_count": 104,
-  "last_updated_utc": "2026-08-31T07:02:37Z",
-  "last_updated_local": "2026-08-31",
+  "pulse_count": 105,
+  "last_updated_utc": "2026-09-01T06:14:46Z",
+  "last_updated_local": "2026-09-01",
   "posts_total": 90,
-  "day_of_year": 243,
-  "daily_quote": "夜深时，键盘声像远处的雨。",
+  "day_of_year": 244,
+  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
   "spotlight": {
-    "title": "收藏｜X 热议的「资深工程师」迷思与反论",
-    "path": "/posts/收藏/x-senior-dev-career-myths"
+    "title": "收藏｜X 上的系统设计短文：高频模型与阅读法",
+    "path": "/posts/收藏/x-system-design-short-threads"
   }
 }
