@@ -1,12 +1,12 @@
 {
-  "pulse_count": 108,
-  "last_updated_utc": "2026-09-04T05:55:09Z",
-  "last_updated_local": "2026-09-04",
+  "pulse_count": 109,
+  "last_updated_utc": "2026-09-05T05:45:55Z",
+  "last_updated_local": "2026-09-05",
   "posts_total": 90,
-  "day_of_year": 247,
-  "daily_quote": "在信息流里种一棵慢树，需要每天浇一点耐心。",
+  "day_of_year": 248,
+  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
   "spotlight": {
-    "title": "桌面极简：少一件杂物，多一寸思考空间",
-    "path": "/posts/生活/desk-minimalism"
+    "title": "欢迎来到博客",
+    "path": "/posts/生活/hello-world"
   }
 }
