@@ -1,12 +1,12 @@
 {
-  "pulse_count": 109,
-  "last_updated_utc": "2026-09-05T05:45:55Z",
-  "last_updated_local": "2026-09-05",
+  "pulse_count": 110,
+  "last_updated_utc": "2026-09-06T05:58:13Z",
+  "last_updated_local": "2026-09-06",
   "posts_total": 90,
-  "day_of_year": 248,
-  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
+  "day_of_year": 249,
+  "daily_quote": "慢下来的时候，树影会移动，句子也会变长。",
   "spotlight": {
-    "title": "欢迎来到博客",
-    "path": "/posts/生活/hello-world"
+    "title": "写给一年后的自己：不追求酷，追求可持续",
+    "path": "/posts/生活/letter-to-future-self"
   }
 }
