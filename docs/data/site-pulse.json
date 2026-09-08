@@ -1,12 +1,12 @@
 {
-  "pulse_count": 111,
-  "last_updated_utc": "2026-09-07T06:07:36Z",
-  "last_updated_local": "2026-09-07",
+  "pulse_count": 112,
+  "last_updated_utc": "2026-09-08T05:58:39Z",
+  "last_updated_local": "2026-09-08",
   "posts_total": 90,
-  "day_of_year": 250,
-  "daily_quote": "一本读了一半的书，像一封未寄出的信。",
+  "day_of_year": 251,
+  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
   "spotlight": {
-    "title": "不带手机的晨走：二十分钟重置注意力",
-    "path": "/posts/生活/morning-walk-without-phone"
+    "title": "当「AI 写代码」成为热搜：我们到底在兴奋什么",
+    "path": "/posts/阅读/ai-coding-agent-hype-2026"
   }
 }
