@@ -1,12 +1,12 @@
 {
-  "pulse_count": 118,
-  "last_updated_utc": "2026-09-14T06:18:49Z",
-  "last_updated_local": "2026-09-14",
+  "pulse_count": 119,
+  "last_updated_utc": "2026-09-15T06:10:22Z",
+  "last_updated_local": "2026-09-15",
   "posts_total": 90,
-  "day_of_year": 257,
-  "daily_quote": "好的书评不是判决，而是邀请读者再打开一次书。",
+  "day_of_year": 258,
+  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
   "spotlight": {
-    "title": "书评：《三体》——从科幻窗口望向人性与文明的尺度",
-    "path": "/posts/阅读/book-review-three-body"
+    "title": "晚饭时朋友讲的一对情侣",
+    "path": "/posts/阅读/couple-at-supper"
   }
 }
