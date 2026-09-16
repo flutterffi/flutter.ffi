@@ -1,12 +1,12 @@
 {
-  "pulse_count": 119,
-  "last_updated_utc": "2026-09-15T06:10:22Z",
-  "last_updated_local": "2026-09-15",
+  "pulse_count": 120,
+  "last_updated_utc": "2026-09-16T06:03:04Z",
+  "last_updated_local": "2026-09-16",
   "posts_total": 90,
-  "day_of_year": 258,
-  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
+  "day_of_year": 259,
+  "daily_quote": "收藏夹里的文章，像冬天的干花。",
   "spotlight": {
-    "title": "晚饭时朋友讲的一对情侣",
-    "path": "/posts/阅读/couple-at-supper"
+    "title": "国产开源大模型上热搜之后：热闹之外的冷思考",
+    "path": "/posts/阅读/deepseek-open-source-discussion"
   }
 }
