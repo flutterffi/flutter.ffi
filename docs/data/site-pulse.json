@@ -1,12 +1,12 @@
 {
-  "pulse_count": 120,
-  "last_updated_utc": "2026-09-16T06:03:04Z",
-  "last_updated_local": "2026-09-16",
+  "pulse_count": 121,
+  "last_updated_utc": "2026-09-17T06:09:17Z",
+  "last_updated_local": "2026-09-17",
   "posts_total": 90,
-  "day_of_year": 259,
-  "daily_quote": "收藏夹里的文章，像冬天的干花。",
+  "day_of_year": 260,
+  "daily_quote": "清晨的咖啡与傍晚的 commit，都是给自己的仪式。",
   "spotlight": {
-    "title": "国产开源大模型上热搜之后：热闹之外的冷思考",
-    "path": "/posts/阅读/deepseek-open-source-discussion"
+    "title": "「慢就业」上热搜：不是懒，是选项变贵了",
+    "path": "/posts/阅读/gen-z-employment-discourse-2026"
   }
 }
