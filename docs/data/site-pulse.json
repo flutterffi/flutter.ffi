@@ -1,12 +1,12 @@
 {
-  "pulse_count": 121,
-  "last_updated_utc": "2026-09-17T06:09:17Z",
-  "last_updated_local": "2026-09-17",
+  "pulse_count": 122,
+  "last_updated_utc": "2026-09-18T05:56:17Z",
+  "last_updated_local": "2026-09-18",
   "posts_total": 90,
-  "day_of_year": 260,
-  "daily_quote": "清晨的咖啡与傍晚的 commit，都是给自己的仪式。",
+  "day_of_year": 261,
+  "daily_quote": "星空不需要点赞，海浪也不做 KPI。",
   "spotlight": {
-    "title": "「慢就业」上热搜：不是懒，是选项变贵了",
-    "path": "/posts/阅读/gen-z-employment-discourse-2026"
+    "title": "读《沉思录》札记：斯多葛与工程师的日常",
+    "path": "/posts/阅读/notes-on-meditations"
   }
 }
