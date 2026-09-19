@@ -1,12 +1,12 @@
 {
-  "pulse_count": 122,
-  "last_updated_utc": "2026-09-18T05:56:17Z",
-  "last_updated_local": "2026-09-18",
+  "pulse_count": 123,
+  "last_updated_utc": "2026-09-19T05:54:27Z",
+  "last_updated_local": "2026-09-19",
   "posts_total": 90,
-  "day_of_year": 261,
-  "daily_quote": "星空不需要点赞，海浪也不做 KPI。",
+  "day_of_year": 262,
+  "daily_quote": "把今天写成一行日志，明天就更容易继续。",
   "spotlight": {
-    "title": "读《沉思录》札记：斯多葛与工程师的日常",
-    "path": "/posts/阅读/notes-on-meditations"
+    "title": "算法与骑手热搜：技术中立是个方便的神话",
+    "path": "/posts/阅读/platform-algorithm-labor-debate"
   }
 }
