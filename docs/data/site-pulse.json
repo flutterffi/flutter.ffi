@@ -1,12 +1,12 @@
 {
-  "pulse_count": 123,
-  "last_updated_utc": "2026-09-19T05:54:27Z",
-  "last_updated_local": "2026-09-19",
+  "pulse_count": 124,
+  "last_updated_utc": "2026-09-20T06:18:24Z",
+  "last_updated_local": "2026-09-20",
   "posts_total": 90,
-  "day_of_year": 262,
-  "daily_quote": "把今天写成一行日志，明天就更容易继续。",
+  "day_of_year": 263,
+  "daily_quote": "沉默不是空白，是页面边距。",
   "spotlight": {
-    "title": "算法与骑手热搜：技术中立是个方便的神话",
-    "path": "/posts/阅读/platform-algorithm-labor-debate"
+    "title": "诗歌与调试：隐喻如何帮助理解复杂系统",
+    "path": "/posts/阅读/poetry-and-debugging"
   }
 }
