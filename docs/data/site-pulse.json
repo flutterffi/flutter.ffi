@@ -1,12 +1,12 @@
 {
-  "pulse_count": 129,
-  "last_updated_utc": "2026-09-25T06:10:02Z",
-  "last_updated_local": "2026-09-25",
+  "pulse_count": 130,
+  "last_updated_utc": "2026-09-26T06:10:05Z",
+  "last_updated_local": "2026-09-26",
   "posts_total": 90,
-  "day_of_year": 268,
-  "daily_quote": "观察一片叶子，比刷完时间线更接近真实。",
+  "day_of_year": 269,
+  "daily_quote": "调试人生：先复现，再缩小范围，最后才改。",
   "spotlight": {
-    "title": "翻译即重读：在另一种语言里遇见作者",
-    "path": "/posts/阅读/translation-as-rereading"
+    "title": "每周一章《瓦尔登湖》：简朴作为一种练习",
+    "path": "/posts/阅读/walden-one-chapter-a-week"
   }
 }
