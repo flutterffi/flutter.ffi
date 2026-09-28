@@ -1,12 +1,12 @@
 {
-  "pulse_count": 131,
-  "last_updated_utc": "2026-09-27T06:37:16Z",
-  "last_updated_local": "2026-09-27",
+  "pulse_count": 132,
+  "last_updated_utc": "2026-09-28T06:55:46Z",
+  "last_updated_local": "2026-09-28",
   "posts_total": 90,
-  "day_of_year": 270,
-  "daily_quote": "好的工具让人忘记工具，好的文字让人忘记屏幕。",
+  "day_of_year": 271,
+  "daily_quote": "周末适合读纸书，周一适合写注释。",
   "spotlight": {
-    "title": "主流 AI 编程工具教程索引",
-    "path": "/posts/技术/ai-coding-tools-index"
+    "title": "Claude Code 使用教程：终端 Agent 安装与工程化实践",
+    "path": "/posts/技术/claude-code-tutorial"
   }
 }
