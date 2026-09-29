@@ -1,12 +1,12 @@
 {
-  "pulse_count": 132,
-  "last_updated_utc": "2026-09-28T06:55:46Z",
-  "last_updated_local": "2026-09-28",
+  "pulse_count": 133,
+  "last_updated_utc": "2026-09-29T06:55:50Z",
+  "last_updated_local": "2026-09-29",
   "posts_total": 90,
-  "day_of_year": 271,
-  "daily_quote": "周末适合读纸书，周一适合写注释。",
+  "day_of_year": 272,
+  "daily_quote": "自然从不说教，它只展示循环与季节。",
   "spotlight": {
-    "title": "Claude Code 使用教程：终端 Agent 安装与工程化实践",
-    "path": "/posts/技术/claude-code-tutorial"
+    "title": "Cline 使用教程：VS Code 开源 Agent 与 API 配置",
+    "path": "/posts/技术/cline-vscode-agent-tutorial"
   }
 }
