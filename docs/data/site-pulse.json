@@ -1,12 +1,12 @@
 {
-  "pulse_count": 134,
-  "last_updated_utc": "2026-09-30T06:44:19Z",
-  "last_updated_local": "2026-09-30",
+  "pulse_count": 135,
+  "last_updated_utc": "2026-10-01T07:11:22Z",
+  "last_updated_local": "2026-10-01",
   "posts_total": 90,
-  "day_of_year": 273,
-  "daily_quote": "把观点写短很难，把废话删光更难。",
+  "day_of_year": 274,
+  "daily_quote": "夜深时，键盘声像远处的雨。",
   "spotlight": {
-    "title": "跨平台移动开发 2025：Flutter、KMP 与原生三角",
-    "path": "/posts/技术/cross-platform-mobile-2025"
+    "title": "Cursor 使用教程：从安装到 Agent 与 Composer 实战",
+    "path": "/posts/技术/cursor-ai-coding-tutorial"
   }
 }
