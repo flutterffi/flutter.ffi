@@ -1,12 +1,12 @@
 {
-  "pulse_count": 135,
-  "last_updated_utc": "2026-10-01T07:11:22Z",
-  "last_updated_local": "2026-10-01",
+  "pulse_count": 136,
+  "last_updated_utc": "2026-10-02T07:01:00Z",
+  "last_updated_local": "2026-10-02",
   "posts_total": 90,
-  "day_of_year": 274,
-  "daily_quote": "夜深时，键盘声像远处的雨。",
+  "day_of_year": 275,
+  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
   "spotlight": {
-    "title": "Cursor 使用教程：从安装到 Agent 与 Composer 实战",
-    "path": "/posts/技术/cursor-ai-coding-tutorial"
+    "title": "Dart 空安全迁移：Sound null safety 语义深潜",
+    "path": "/posts/技术/dart-null-safety-migration"
   }
 }

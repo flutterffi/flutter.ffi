@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-01T07:11:22Z
-- **本地日期**：2026-10-01
+- **最近更新（UTC）**：2026-10-02T07:01:00Z
+- **本地日期**：2026-10-02
 - **文章总数**：90 篇
-- **维护次数**：第 135 次自动脉动
+- **维护次数**：第 136 次自动脉动
 
-> 夜深时，键盘声像远处的雨。
+> 每一本书都是一扇门，开多少由你决定。
 
-**今日随机推荐**：[Cursor 使用教程：从安装到 Agent 与 Composer 实战](/posts/技术/cursor-ai-coding-tutorial)  
+**今日随机推荐**：[Dart 空安全迁移：Sound null safety 语义深潜](/posts/技术/dart-null-safety-migration)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
