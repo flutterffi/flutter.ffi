@@ -1,12 +1,12 @@
 {
-  "pulse_count": 138,
-  "last_updated_utc": "2026-10-04T06:50:04Z",
-  "last_updated_local": "2026-10-04",
+  "pulse_count": 139,
+  "last_updated_utc": "2026-10-05T07:03:50Z",
+  "last_updated_local": "2026-10-05",
   "posts_total": 90,
-  "day_of_year": 277,
-  "daily_quote": "今日可读，明日可改，后日可忘——亦无妨。",
+  "day_of_year": 278,
+  "daily_quote": "在信息流里种一棵慢树，需要每天浇一点耐心。",
   "spotlight": {
-    "title": "Impeller 渲染管线：Flutter 图形栈的一次重构",
-    "path": "/posts/技术/flutter-impeller-skia"
+    "title": "Flutter Isolate：并发模型与消息传递实战",
+    "path": "/posts/技术/flutter-isolates-concurrency"
   }
 }
