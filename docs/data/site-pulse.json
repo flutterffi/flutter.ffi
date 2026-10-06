@@ -1,12 +1,12 @@
 {
-  "pulse_count": 139,
-  "last_updated_utc": "2026-10-05T07:03:50Z",
-  "last_updated_local": "2026-10-05",
+  "pulse_count": 140,
+  "last_updated_utc": "2026-10-06T07:35:22Z",
+  "last_updated_local": "2026-10-06",
   "posts_total": 90,
-  "day_of_year": 278,
-  "daily_quote": "在信息流里种一棵慢树，需要每天浇一点耐心。",
+  "day_of_year": 279,
+  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
   "spotlight": {
-    "title": "Flutter Isolate：并发模型与消息传递实战",
-    "path": "/posts/技术/flutter-isolates-concurrency"
+    "title": "Riverpod 2.x：依赖注入与 UI 解耦架构笔记",
+    "path": "/posts/技术/flutter-riverpod-architecture"
   }
 }
