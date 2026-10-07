@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-06T07:35:22Z |
-| 本地日期 | 2026-10-06 |
+| UTC 时间 | 2026-10-07T07:15:13Z |
+| 本地日期 | 2026-10-07 |
 | 文章总数 | 90 |
-| 脉动序号 | 140 |
+| 脉动序号 | 141 |
 
 ## 今日一句
 
-> 阅读不是填满时间，而是给思考留出缝隙。
+> 慢下来的时候，树影会移动，句子也会变长。
 
 ## 今日推荐文章
 
-[Riverpod 2.x：依赖注入与 UI 解耦架构笔记](/posts/技术/flutter-riverpod-architecture)
+[Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载](/posts/技术/flutter-widget-rebuild-performance)
 
 ---
 
