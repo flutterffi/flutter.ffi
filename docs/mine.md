@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-07T07:15:13Z
-- **本地日期**：2026-10-07
+- **最近更新（UTC）**：2026-10-08T07:26:12Z
+- **本地日期**：2026-10-08
 - **文章总数**：90 篇
-- **维护次数**：第 141 次自动脉动
+- **维护次数**：第 142 次自动脉动
 
-> 慢下来的时候，树影会移动，句子也会变长。
+> 一本读了一半的书，像一封未寄出的信。
 
-**今日随机推荐**：[Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载](/posts/技术/flutter-widget-rebuild-performance)  
+**今日随机推荐**：[Gemini CLI 使用教程：Google 终端 Agent 安装与项目实践](/posts/技术/gemini-cli-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

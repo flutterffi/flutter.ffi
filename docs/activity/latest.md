@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-07T07:15:13Z |
-| 本地日期 | 2026-10-07 |
+| UTC 时间 | 2026-10-08T07:26:12Z |
+| 本地日期 | 2026-10-08 |
 | 文章总数 | 90 |
-| 脉动序号 | 141 |
+| 脉动序号 | 142 |
 
 ## 今日一句
 
-> 慢下来的时候，树影会移动，句子也会变长。
+> 一本读了一半的书，像一封未寄出的信。
 
 ## 今日推荐文章
 
-[Widget 重建优化：从 RepaintBoundary 到 ListView 懒加载](/posts/技术/flutter-widget-rebuild-performance)
+[Gemini CLI 使用教程：Google 终端 Agent 安装与项目实践](/posts/技术/gemini-cli-tutorial)
 
 ---
 
