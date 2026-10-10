@@ -1,12 +1,12 @@
 {
-  "pulse_count": 143,
-  "last_updated_utc": "2026-10-09T07:24:20Z",
-  "last_updated_local": "2026-10-09",
+  "pulse_count": 144,
+  "last_updated_utc": "2026-10-10T07:09:55Z",
+  "last_updated_local": "2026-10-10",
   "posts_total": 90,
-  "day_of_year": 282,
-  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
+  "day_of_year": 283,
+  "daily_quote": "雨声是最好的白噪音，适合把章节读完。",
   "spotlight": {
-    "title": "Git 日常使用案例：从改代码到安全上线",
-    "path": "/posts/技术/git-daily-workflow"
+    "title": "GitHub Copilot 使用教程：补全、Chat 与 Agent 模式入门",
+    "path": "/posts/技术/github-copilot-tutorial"
   }
 }
