@@ -1,12 +1,12 @@
 {
-  "pulse_count": 144,
-  "last_updated_utc": "2026-10-10T07:09:55Z",
-  "last_updated_local": "2026-10-10",
+  "pulse_count": 145,
+  "last_updated_utc": "2026-10-11T07:13:12Z",
+  "last_updated_local": "2026-10-11",
   "posts_total": 90,
-  "day_of_year": 283,
-  "daily_quote": "雨声是最好的白噪音，适合把章节读完。",
+  "day_of_year": 284,
+  "daily_quote": "图书馆的灯永远比热搜温和。",
   "spotlight": {
-    "title": "GitHub Copilot 使用教程：补全、Chat 与 Agent 模式入门",
-    "path": "/posts/技术/github-copilot-tutorial"
+    "title": "Go channel 与 select：并发模式集锦",
+    "path": "/posts/技术/go-channels-select-patterns"
   }
 }
