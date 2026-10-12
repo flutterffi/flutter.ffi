@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-11T07:13:12Z
-- **本地日期**：2026-10-11
+- **最近更新（UTC）**：2026-10-12T07:22:21Z
+- **本地日期**：2026-10-12
 - **文章总数**：90 篇
-- **维护次数**：第 145 次自动脉动
+- **维护次数**：第 146 次自动脉动
 
-> 图书馆的灯永远比热搜温和。
+> 不带手机散步，原来街道有自己的字幕。
 
-**今日随机推荐**：[Go channel 与 select：并发模式集锦](/posts/技术/go-channels-select-patterns)  
+**今日随机推荐**：[Go context.Context：超时、取消与请求作用域](/posts/技术/go-context-cancellation)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
