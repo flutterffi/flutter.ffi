@@ -1,12 +1,12 @@
 {
-  "pulse_count": 147,
-  "last_updated_utc": "2026-10-13T07:43:35Z",
-  "last_updated_local": "2026-10-13",
+  "pulse_count": 148,
+  "last_updated_utc": "2026-10-14T06:09:52Z",
+  "last_updated_local": "2026-10-14",
   "posts_total": 90,
-  "day_of_year": 286,
-  "daily_quote": "翻译是重读，重读是第二次初见。",
+  "day_of_year": 287,
+  "daily_quote": "瓦尔登湖不在麻省，在关机后的十分钟里。",
   "spotlight": {
-    "title": "Go 接口：隐式实现与小接口哲学",
-    "path": "/posts/技术/go-interfaces-composition"
+    "title": "Go Modules 与 vendor：依赖可复现构建",
+    "path": "/posts/技术/go-modules-vendor-workflow"
   }
 }
