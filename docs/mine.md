@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-14T06:09:52Z
-- **本地日期**：2026-10-14
+- **最近更新（UTC）**：2026-10-15T05:54:59Z
+- **本地日期**：2026-10-15
 - **文章总数**：90 篇
-- **维护次数**：第 148 次自动脉动
+- **维护次数**：第 149 次自动脉动
 
-> 瓦尔登湖不在麻省，在关机后的十分钟里。
+> 好的书评不是判决，而是邀请读者再打开一次书。
 
-**今日随机推荐**：[Go Modules 与 vendor：依赖可复现构建](/posts/技术/go-modules-vendor-workflow)  
+**今日随机推荐**：[Kotlin 协程：结构化并发与作用域取消](/posts/技术/kotlin-coroutines-structured-concurrency)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
