@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-15T05:54:59Z |
-| 本地日期 | 2026-10-15 |
+| UTC 时间 | 2026-10-16T05:52:24Z |
+| 本地日期 | 2026-10-16 |
 | 文章总数 | 90 |
-| 脉动序号 | 149 |
+| 脉动序号 | 150 |
 
 ## 今日一句
 
-> 好的书评不是判决，而是邀请读者再打开一次书。
+> 技术深度来自追问「为什么」，不是堆砌名词。
 
 ## 今日推荐文章
 
-[Kotlin 协程：结构化并发与作用域取消](/posts/技术/kotlin-coroutines-structured-concurrency)
+[Kotlin 属性委托：lazy、observable 与 map 存储](/posts/技术/kotlin-delegation-properties)
 
 ---
 

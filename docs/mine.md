@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-15T05:54:59Z
-- **本地日期**：2026-10-15
+- **最近更新（UTC）**：2026-10-16T05:52:24Z
+- **本地日期**：2026-10-16
 - **文章总数**：90 篇
-- **维护次数**：第 149 次自动脉动
+- **维护次数**：第 150 次自动脉动
 
-> 好的书评不是判决，而是邀请读者再打开一次书。
+> 技术深度来自追问「为什么」，不是堆砌名词。
 
-**今日随机推荐**：[Kotlin 协程：结构化并发与作用域取消](/posts/技术/kotlin-coroutines-structured-concurrency)  
+**今日随机推荐**：[Kotlin 属性委托：lazy、observable 与 map 存储](/posts/技术/kotlin-delegation-properties)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

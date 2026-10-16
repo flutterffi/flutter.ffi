@@ -1,12 +1,12 @@
 {
-  "pulse_count": 149,
-  "last_updated_utc": "2026-10-15T05:54:59Z",
-  "last_updated_local": "2026-10-15",
+  "pulse_count": 150,
+  "last_updated_utc": "2026-10-16T05:52:24Z",
+  "last_updated_local": "2026-10-16",
   "posts_total": 90,
-  "day_of_year": 288,
-  "daily_quote": "好的书评不是判决，而是邀请读者再打开一次书。",
+  "day_of_year": 289,
+  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
   "spotlight": {
-    "title": "Kotlin 协程：结构化并发与作用域取消",
-    "path": "/posts/技术/kotlin-coroutines-structured-concurrency"
+    "title": "Kotlin 属性委托：lazy、observable 与 map 存储",
+    "path": "/posts/技术/kotlin-delegation-properties"
   }
 }
