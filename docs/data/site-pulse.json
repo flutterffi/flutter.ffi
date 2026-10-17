@@ -1,12 +1,12 @@
 {
-  "pulse_count": 150,
-  "last_updated_utc": "2026-10-16T05:52:24Z",
-  "last_updated_local": "2026-10-16",
+  "pulse_count": 151,
+  "last_updated_utc": "2026-10-17T05:36:47Z",
+  "last_updated_local": "2026-10-17",
   "posts_total": 90,
-  "day_of_year": 289,
-  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
+  "day_of_year": 290,
+  "daily_quote": "收藏夹里的文章，像冬天的干花。",
   "spotlight": {
-    "title": "Kotlin 属性委托：lazy、observable 与 map 存储",
-    "path": "/posts/技术/kotlin-delegation-properties"
+    "title": "Kotlin Flow 对比 RxJava：冷流、背压与操作符心智",
+    "path": "/posts/技术/kotlin-flow-vs-rxjava"
   }
 }

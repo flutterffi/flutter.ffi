@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-16T05:52:24Z
-- **本地日期**：2026-10-16
+- **最近更新（UTC）**：2026-10-17T05:36:47Z
+- **本地日期**：2026-10-17
 - **文章总数**：90 篇
-- **维护次数**：第 150 次自动脉动
+- **维护次数**：第 151 次自动脉动
 
-> 技术深度来自追问「为什么」，不是堆砌名词。
+> 收藏夹里的文章，像冬天的干花。
 
-**今日随机推荐**：[Kotlin 属性委托：lazy、observable 与 map 存储](/posts/技术/kotlin-delegation-properties)  
+**今日随机推荐**：[Kotlin Flow 对比 RxJava：冷流、背压与操作符心智](/posts/技术/kotlin-flow-vs-rxjava)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
