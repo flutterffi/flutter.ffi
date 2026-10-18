@@ -1,12 +1,12 @@
 {
-  "pulse_count": 151,
-  "last_updated_utc": "2026-10-17T05:36:47Z",
-  "last_updated_local": "2026-10-17",
+  "pulse_count": 152,
+  "last_updated_utc": "2026-10-18T05:55:36Z",
+  "last_updated_local": "2026-10-18",
   "posts_total": 90,
-  "day_of_year": 290,
-  "daily_quote": "收藏夹里的文章，像冬天的干花。",
+  "day_of_year": 291,
+  "daily_quote": "清晨的咖啡与傍晚的 commit，都是给自己的仪式。",
   "spotlight": {
-    "title": "Kotlin Flow 对比 RxJava：冷流、背压与操作符心智",
-    "path": "/posts/技术/kotlin-flow-vs-rxjava"
+    "title": "Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界",
+    "path": "/posts/技术/kotlin-multiplatform-mobile"
   }
 }

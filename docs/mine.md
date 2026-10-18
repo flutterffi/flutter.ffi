@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-17T05:36:47Z
-- **本地日期**：2026-10-17
+- **最近更新（UTC）**：2026-10-18T05:55:36Z
+- **本地日期**：2026-10-18
 - **文章总数**：90 篇
-- **维护次数**：第 151 次自动脉动
+- **维护次数**：第 152 次自动脉动
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
-**今日随机推荐**：[Kotlin Flow 对比 RxJava：冷流、背压与操作符心智](/posts/技术/kotlin-flow-vs-rxjava)  
+**今日随机推荐**：[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-17T05:36:47Z |
-| 本地日期 | 2026-10-17 |
+| UTC 时间 | 2026-10-18T05:55:36Z |
+| 本地日期 | 2026-10-18 |
 | 文章总数 | 90 |
-| 脉动序号 | 151 |
+| 脉动序号 | 152 |
 
 ## 今日一句
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
 ## 今日推荐文章
 
-[Kotlin Flow 对比 RxJava：冷流、背压与操作符心智](/posts/技术/kotlin-flow-vs-rxjava)
+[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)
 
 ---
 
