@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-18T05:55:36Z
-- **本地日期**：2026-10-18
+- **最近更新（UTC）**：2026-10-19T06:13:43Z
+- **本地日期**：2026-10-19
 - **文章总数**：90 篇
-- **维护次数**：第 152 次自动脉动
+- **维护次数**：第 153 次自动脉动
 
-> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
+> 星空不需要点赞，海浪也不做 KPI。
 
-**今日随机推荐**：[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)  
+**今日随机推荐**：[Kotlin 密封类：代数数据类型与穷尽 when](/posts/技术/kotlin-sealed-when-exhaustive)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

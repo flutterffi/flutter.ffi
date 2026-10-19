@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-18T05:55:36Z |
-| 本地日期 | 2026-10-18 |
+| UTC 时间 | 2026-10-19T06:13:43Z |
+| 本地日期 | 2026-10-19 |
 | 文章总数 | 90 |
-| 脉动序号 | 152 |
+| 脉动序号 | 153 |
 
 ## 今日一句
 
-> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
+> 星空不需要点赞，海浪也不做 KPI。
 
 ## 今日推荐文章
 
-[Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界](/posts/技术/kotlin-multiplatform-mobile)
+[Kotlin 密封类：代数数据类型与穷尽 when](/posts/技术/kotlin-sealed-when-exhaustive)
 
 ---
 

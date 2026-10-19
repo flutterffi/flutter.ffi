@@ -1,12 +1,12 @@
 {
-  "pulse_count": 152,
-  "last_updated_utc": "2026-10-18T05:55:36Z",
-  "last_updated_local": "2026-10-18",
+  "pulse_count": 153,
+  "last_updated_utc": "2026-10-19T06:13:43Z",
+  "last_updated_local": "2026-10-19",
   "posts_total": 90,
-  "day_of_year": 291,
-  "daily_quote": "清晨的咖啡与傍晚的 commit，都是给自己的仪式。",
+  "day_of_year": 292,
+  "daily_quote": "星空不需要点赞，海浪也不做 KPI。",
   "spotlight": {
-    "title": "Kotlin Multiplatform Mobile：共享逻辑与原生 UI 边界",
-    "path": "/posts/技术/kotlin-multiplatform-mobile"
+    "title": "Kotlin 密封类：代数数据类型与穷尽 when",
+    "path": "/posts/技术/kotlin-sealed-when-exhaustive"
   }
 }
