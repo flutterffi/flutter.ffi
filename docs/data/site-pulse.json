@@ -1,12 +1,12 @@
 {
-  "pulse_count": 153,
-  "last_updated_utc": "2026-10-19T06:13:43Z",
-  "last_updated_local": "2026-10-19",
+  "pulse_count": 154,
+  "last_updated_utc": "2026-10-20T06:02:23Z",
+  "last_updated_local": "2026-10-20",
   "posts_total": 90,
-  "day_of_year": 292,
-  "daily_quote": "星空不需要点赞，海浪也不做 KPI。",
+  "day_of_year": 293,
+  "daily_quote": "把今天写成一行日志，明天就更容易继续。",
   "spotlight": {
-    "title": "Kotlin 密封类：代数数据类型与穷尽 when",
-    "path": "/posts/技术/kotlin-sealed-when-exhaustive"
+    "title": "OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent",
+    "path": "/posts/技术/openai-codex-tutorial"
   }
 }
