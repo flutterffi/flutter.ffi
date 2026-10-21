@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-20T06:02:23Z
-- **本地日期**：2026-10-20
+- **最近更新（UTC）**：2026-10-21T06:02:10Z
+- **本地日期**：2026-10-21
 - **文章总数**：90 篇
-- **维护次数**：第 154 次自动脉动
+- **维护次数**：第 155 次自动脉动
 
-> 把今天写成一行日志，明天就更容易继续。
+> 沉默不是空白，是页面边距。
 
-**今日随机推荐**：[OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent](/posts/技术/openai-codex-tutorial)  
+**今日随机推荐**：[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

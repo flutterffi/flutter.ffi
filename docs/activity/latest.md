@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-20T06:02:23Z |
-| 本地日期 | 2026-10-20 |
+| UTC 时间 | 2026-10-21T06:02:10Z |
+| 本地日期 | 2026-10-21 |
 | 文章总数 | 90 |
-| 脉动序号 | 154 |
+| 脉动序号 | 155 |
 
 ## 今日一句
 
-> 把今天写成一行日志，明天就更容易继续。
+> 沉默不是空白，是页面边距。
 
 ## 今日推荐文章
 
-[OpenAI Codex 使用教程：IDE 插件与 CLI 工程 Agent](/posts/技术/openai-codex-tutorial)
+[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)
 
 ---
 
