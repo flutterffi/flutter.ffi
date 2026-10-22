@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-21T06:02:10Z
-- **本地日期**：2026-10-21
+- **最近更新（UTC）**：2026-10-22T06:07:16Z
+- **本地日期**：2026-10-22
 - **文章总数**：90 篇
-- **维护次数**：第 155 次自动脉动
+- **维护次数**：第 156 次自动脉动
 
-> 沉默不是空白，是页面边距。
+> 经典之所以经典，因为每次重读都会换一双眼睛。
 
-**今日随机推荐**：[Python asyncio：事件循环、Task 与 aiohttp 实战](/posts/技术/python-asyncio-event-loop)  
+**今日随机推荐**：[Python dataclass：slots、frozen 与性能取舍](/posts/技术/python-dataclass-slots)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
