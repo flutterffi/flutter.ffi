@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-22T06:07:16Z |
-| 本地日期 | 2026-10-22 |
+| UTC 时间 | 2026-10-23T06:02:32Z |
+| 本地日期 | 2026-10-23 |
 | 文章总数 | 90 |
-| 脉动序号 | 156 |
+| 脉动序号 | 157 |
 
 ## 今日一句
 
-> 经典之所以经典，因为每次重读都会换一双眼睛。
+> 写作是把模糊的感受，压成可传递的形状。
 
 ## 今日推荐文章
 
-[Python dataclass：slots、frozen 与性能取舍](/posts/技术/python-dataclass-slots)
+[Python 类型系统：Protocol、Generic 与静态检查](/posts/技术/python-typing-generics-protocol)
 
 ---
 

@@ -1,12 +1,12 @@
 {
-  "pulse_count": 156,
-  "last_updated_utc": "2026-10-22T06:07:16Z",
-  "last_updated_local": "2026-10-22",
+  "pulse_count": 157,
+  "last_updated_utc": "2026-10-23T06:02:32Z",
+  "last_updated_local": "2026-10-23",
   "posts_total": 90,
-  "day_of_year": 295,
-  "daily_quote": "经典之所以经典，因为每次重读都会换一双眼睛。",
+  "day_of_year": 296,
+  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
   "spotlight": {
-    "title": "Python dataclass：slots、frozen 与性能取舍",
-    "path": "/posts/技术/python-dataclass-slots"
+    "title": "Python 类型系统：Protocol、Generic 与静态检查",
+    "path": "/posts/技术/python-typing-generics-protocol"
   }
 }
