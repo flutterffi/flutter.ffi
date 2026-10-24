@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-23T06:02:32Z
-- **本地日期**：2026-10-23
+- **最近更新（UTC）**：2026-10-24T05:55:10Z
+- **本地日期**：2026-10-24
 - **文章总数**：90 篇
-- **维护次数**：第 157 次自动脉动
+- **维护次数**：第 158 次自动脉动
 
-> 写作是把模糊的感受，压成可传递的形状。
+> 生活不在远方，在洗碗时想起的一句诗。
 
-**今日随机推荐**：[Python 类型系统：Protocol、Generic 与静态检查](/posts/技术/python-typing-generics-protocol)  
+**今日随机推荐**：[Roo Code 使用教程：VS Code Agent 模式与 Cline 生态对比](/posts/技术/roo-code-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

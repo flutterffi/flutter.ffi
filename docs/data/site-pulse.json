@@ -1,12 +1,12 @@
 {
-  "pulse_count": 157,
-  "last_updated_utc": "2026-10-23T06:02:32Z",
-  "last_updated_local": "2026-10-23",
+  "pulse_count": 158,
+  "last_updated_utc": "2026-10-24T05:55:10Z",
+  "last_updated_local": "2026-10-24",
   "posts_total": 90,
-  "day_of_year": 296,
-  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
+  "day_of_year": 297,
+  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
   "spotlight": {
-    "title": "Python 类型系统：Protocol、Generic 与静态检查",
-    "path": "/posts/技术/python-typing-generics-protocol"
+    "title": "Roo Code 使用教程：VS Code Agent 模式与 Cline 生态对比",
+    "path": "/posts/技术/roo-code-tutorial"
   }
 }

@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-23T06:02:32Z |
-| 本地日期 | 2026-10-23 |
+| UTC 时间 | 2026-10-24T05:55:10Z |
+| 本地日期 | 2026-10-24 |
 | 文章总数 | 90 |
-| 脉动序号 | 157 |
+| 脉动序号 | 158 |
 
 ## 今日一句
 
-> 写作是把模糊的感受，压成可传递的形状。
+> 生活不在远方，在洗碗时想起的一句诗。
 
 ## 今日推荐文章
 
-[Python 类型系统：Protocol、Generic 与静态检查](/posts/技术/python-typing-generics-protocol)
+[Roo Code 使用教程：VS Code Agent 模式与 Cline 生态对比](/posts/技术/roo-code-tutorial)
 
 ---
 
