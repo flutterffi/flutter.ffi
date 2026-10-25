@@ -1,12 +1,12 @@
 {
-  "pulse_count": 158,
-  "last_updated_utc": "2026-10-24T05:55:10Z",
-  "last_updated_local": "2026-10-24",
+  "pulse_count": 159,
+  "last_updated_utc": "2026-10-25T06:08:58Z",
+  "last_updated_local": "2026-10-25",
   "posts_total": 90,
-  "day_of_year": 297,
-  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
+  "day_of_year": 298,
+  "daily_quote": "博客是时间的栈，push 的是片段，不是结论。",
   "spotlight": {
-    "title": "Roo Code 使用教程：VS Code Agent 模式与 Cline 生态对比",
-    "path": "/posts/技术/roo-code-tutorial"
+    "title": "Swift Actor：数据竞争与 MainActor 边界",
+    "path": "/posts/技术/swift-actor-isolation"
   }
 }
