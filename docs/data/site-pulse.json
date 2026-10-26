@@ -1,12 +1,12 @@
 {
-  "pulse_count": 159,
-  "last_updated_utc": "2026-10-25T06:08:58Z",
-  "last_updated_local": "2026-10-25",
+  "pulse_count": 160,
+  "last_updated_utc": "2026-10-26T06:15:45Z",
+  "last_updated_local": "2026-10-26",
   "posts_total": 90,
-  "day_of_year": 298,
-  "daily_quote": "博客是时间的栈，push 的是片段，不是结论。",
+  "day_of_year": 299,
+  "daily_quote": "观察一片叶子，比刷完时间线更接近真实。",
   "spotlight": {
-    "title": "Swift Actor：数据竞争与 MainActor 边界",
-    "path": "/posts/技术/swift-actor-isolation"
+    "title": "Swift 并发：async/await 与 Task 取消协作",
+    "path": "/posts/技术/swift-async-await-task"
   }
 }

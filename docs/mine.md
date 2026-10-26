@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-25T06:08:58Z
-- **本地日期**：2026-10-25
+- **最近更新（UTC）**：2026-10-26T06:15:45Z
+- **本地日期**：2026-10-26
 - **文章总数**：90 篇
-- **维护次数**：第 159 次自动脉动
+- **维护次数**：第 160 次自动脉动
 
-> 博客是时间的栈，push 的是片段，不是结论。
+> 观察一片叶子，比刷完时间线更接近真实。
 
-**今日随机推荐**：[Swift Actor：数据竞争与 MainActor 边界](/posts/技术/swift-actor-isolation)  
+**今日随机推荐**：[Swift 并发：async/await 与 Task 取消协作](/posts/技术/swift-async-await-task)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
