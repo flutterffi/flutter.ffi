@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-26T06:15:45Z |
-| 本地日期 | 2026-10-26 |
+| UTC 时间 | 2026-10-27T06:17:45Z |
+| 本地日期 | 2026-10-27 |
 | 文章总数 | 90 |
-| 脉动序号 | 160 |
+| 脉动序号 | 161 |
 
 ## 今日一句
 
-> 观察一片叶子，比刷完时间线更接近真实。
+> 调试人生：先复现，再缩小范围，最后才改。
 
 ## 今日推荐文章
 
-[Swift 并发：async/await 与 Task 取消协作](/posts/技术/swift-async-await-task)
+[Swift ARC：strong、weak、unowned 与闭包捕获](/posts/技术/swift-memory-arc-weak-unowned)
 
 ---
 

@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-26T06:15:45Z
-- **本地日期**：2026-10-26
+- **最近更新（UTC）**：2026-10-27T06:17:45Z
+- **本地日期**：2026-10-27
 - **文章总数**：90 篇
-- **维护次数**：第 160 次自动脉动
+- **维护次数**：第 161 次自动脉动
 
-> 观察一片叶子，比刷完时间线更接近真实。
+> 调试人生：先复现，再缩小范围，最后才改。
 
-**今日随机推荐**：[Swift 并发：async/await 与 Task 取消协作](/posts/技术/swift-async-await-task)  
+**今日随机推荐**：[Swift ARC：strong、weak、unowned 与闭包捕获](/posts/技术/swift-memory-arc-weak-unowned)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

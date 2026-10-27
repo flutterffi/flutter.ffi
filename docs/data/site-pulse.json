@@ -1,12 +1,12 @@
 {
-  "pulse_count": 160,
-  "last_updated_utc": "2026-10-26T06:15:45Z",
-  "last_updated_local": "2026-10-26",
+  "pulse_count": 161,
+  "last_updated_utc": "2026-10-27T06:17:45Z",
+  "last_updated_local": "2026-10-27",
   "posts_total": 90,
-  "day_of_year": 299,
-  "daily_quote": "观察一片叶子，比刷完时间线更接近真实。",
+  "day_of_year": 300,
+  "daily_quote": "调试人生：先复现，再缩小范围，最后才改。",
   "spotlight": {
-    "title": "Swift 并发：async/await 与 Task 取消协作",
-    "path": "/posts/技术/swift-async-await-task"
+    "title": "Swift ARC：strong、weak、unowned 与闭包捕获",
+    "path": "/posts/技术/swift-memory-arc-weak-unowned"
   }
 }
