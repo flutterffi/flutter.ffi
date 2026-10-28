@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-27T06:17:45Z
-- **本地日期**：2026-10-27
+- **最近更新（UTC）**：2026-10-28T06:51:37Z
+- **本地日期**：2026-10-28
 - **文章总数**：90 篇
-- **维护次数**：第 161 次自动脉动
+- **维护次数**：第 162 次自动脉动
 
-> 调试人生：先复现，再缩小范围，最后才改。
+> 好的工具让人忘记工具，好的文字让人忘记屏幕。
 
-**今日随机推荐**：[Swift ARC：strong、weak、unowned 与闭包捕获](/posts/技术/swift-memory-arc-weak-unowned)  
+**今日随机推荐**：[Swift 面向协议编程：扩展优于继承](/posts/技术/swift-protocol-oriented-design)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

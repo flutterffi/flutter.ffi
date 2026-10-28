@@ -1,12 +1,12 @@
 {
-  "pulse_count": 161,
-  "last_updated_utc": "2026-10-27T06:17:45Z",
-  "last_updated_local": "2026-10-27",
+  "pulse_count": 162,
+  "last_updated_utc": "2026-10-28T06:51:37Z",
+  "last_updated_local": "2026-10-28",
   "posts_total": 90,
-  "day_of_year": 300,
-  "daily_quote": "调试人生：先复现，再缩小范围，最后才改。",
+  "day_of_year": 301,
+  "daily_quote": "好的工具让人忘记工具，好的文字让人忘记屏幕。",
   "spotlight": {
-    "title": "Swift ARC：strong、weak、unowned 与闭包捕获",
-    "path": "/posts/技术/swift-memory-arc-weak-unowned"
+    "title": "Swift 面向协议编程：扩展优于继承",
+    "path": "/posts/技术/swift-protocol-oriented-design"
   }
 }
