@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-28T06:51:37Z
-- **本地日期**：2026-10-28
+- **最近更新（UTC）**：2026-10-29T07:07:19Z
+- **本地日期**：2026-10-29
 - **文章总数**：90 篇
-- **维护次数**：第 162 次自动脉动
+- **维护次数**：第 163 次自动脉动
 
-> 好的工具让人忘记工具，好的文字让人忘记屏幕。
+> 周末适合读纸书，周一适合写注释。
 
-**今日随机推荐**：[Swift 面向协议编程：扩展优于继承](/posts/技术/swift-protocol-oriented-design)  
+**今日随机推荐**：[SwiftUI 深度：AttributeGraph、@State 存哪儿、更新怎么传播](/posts/技术/swiftui-attribute-graph-and-state)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
