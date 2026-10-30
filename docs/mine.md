@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-29T07:07:19Z
-- **本地日期**：2026-10-29
+- **最近更新（UTC）**：2026-10-30T07:07:56Z
+- **本地日期**：2026-10-30
 - **文章总数**：90 篇
-- **维护次数**：第 163 次自动脉动
+- **维护次数**：第 164 次自动脉动
 
-> 周末适合读纸书，周一适合写注释。
+> 自然从不说教，它只展示循环与季节。
 
-**今日随机推荐**：[SwiftUI 深度：AttributeGraph、@State 存哪儿、更新怎么传播](/posts/技术/swiftui-attribute-graph-and-state)  
+**今日随机推荐**：[SwiftUI 深度教程索引](/posts/技术/swiftui-deep-dive-index)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
