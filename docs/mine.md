@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-30T07:07:56Z
-- **本地日期**：2026-10-30
+- **最近更新（UTC）**：2026-10-31T06:59:49Z
+- **本地日期**：2026-10-31
 - **文章总数**：90 篇
-- **维护次数**：第 164 次自动脉动
+- **维护次数**：第 165 次自动脉动
 
-> 自然从不说教，它只展示循环与季节。
+> 把观点写短很难，把废话删光更难。
 
-**今日随机推荐**：[SwiftUI 深度教程索引](/posts/技术/swiftui-deep-dive-index)  
+**今日随机推荐**：[SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商](/posts/技术/swiftui-layout-proposal-engine)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

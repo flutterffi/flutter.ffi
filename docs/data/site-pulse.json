@@ -1,12 +1,12 @@
 {
-  "pulse_count": 164,
-  "last_updated_utc": "2026-10-30T07:07:56Z",
-  "last_updated_local": "2026-10-30",
+  "pulse_count": 165,
+  "last_updated_utc": "2026-10-31T06:59:49Z",
+  "last_updated_local": "2026-10-31",
   "posts_total": 90,
-  "day_of_year": 303,
-  "daily_quote": "自然从不说教，它只展示循环与季节。",
+  "day_of_year": 304,
+  "daily_quote": "把观点写短很难，把废话删光更难。",
   "spotlight": {
-    "title": "SwiftUI 深度教程索引",
-    "path": "/posts/技术/swiftui-deep-dive-index"
+    "title": "SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商",
+    "path": "/posts/技术/swiftui-layout-proposal-engine"
   }
 }
