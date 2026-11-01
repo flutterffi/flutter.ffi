@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-10-31T06:59:49Z |
-| 本地日期 | 2026-10-31 |
+| UTC 时间 | 2026-11-01T07:33:38Z |
+| 本地日期 | 2026-11-01 |
 | 文章总数 | 90 |
-| 脉动序号 | 165 |
+| 脉动序号 | 166 |
 
 ## 今日一句
 
-> 把观点写短很难，把废话删光更难。
+> 夜深时，键盘声像远处的雨。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商](/posts/技术/swiftui-layout-proposal-engine)
+[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)
 
 ---
 

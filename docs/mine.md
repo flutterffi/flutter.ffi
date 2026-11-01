@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-10-31T06:59:49Z
-- **本地日期**：2026-10-31
+- **最近更新（UTC）**：2026-11-01T07:33:38Z
+- **本地日期**：2026-11-01
 - **文章总数**：90 篇
-- **维护次数**：第 165 次自动脉动
+- **维护次数**：第 166 次自动脉动
 
-> 把观点写短很难，把废话删光更难。
+> 夜深时，键盘声像远处的雨。
 
-**今日随机推荐**：[SwiftUI 深度：布局提案（Layout Proposal）与子视图尺寸协商](/posts/技术/swiftui-layout-proposal-engine)  
+**今日随机推荐**：[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
