@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-01T07:33:38Z
-- **本地日期**：2026-11-01
+- **最近更新（UTC）**：2026-11-02T07:41:22Z
+- **本地日期**：2026-11-02
 - **文章总数**：90 篇
-- **维护次数**：第 166 次自动脉动
+- **维护次数**：第 167 次自动脉动
 
-> 夜深时，键盘声像远处的雨。
+> 每一本书都是一扇门，开多少由你决定。
 
-**今日随机推荐**：[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)  
+**今日随机推荐**：[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

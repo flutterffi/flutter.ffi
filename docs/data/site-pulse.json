@@ -1,12 +1,12 @@
 {
-  "pulse_count": 166,
-  "last_updated_utc": "2026-11-01T07:33:38Z",
-  "last_updated_local": "2026-11-01",
+  "pulse_count": 167,
+  "last_updated_utc": "2026-11-02T07:41:22Z",
+  "last_updated_local": "2026-11-02",
   "posts_total": 90,
-  "day_of_year": 305,
-  "daily_quote": "夜深时，键盘声像远处的雨。",
+  "day_of_year": 306,
+  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
   "spotlight": {
-    "title": "SwiftUI 深度：onAppear、task 与容器生命周期语义",
-    "path": "/posts/技术/swiftui-lifecycle-onappear-containers"
+    "title": "SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航",
+    "path": "/posts/技术/swiftui-navigation-path-deep-dive"
   }
 }

@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-01T07:33:38Z |
-| 本地日期 | 2026-11-01 |
+| UTC 时间 | 2026-11-02T07:41:22Z |
+| 本地日期 | 2026-11-02 |
 | 文章总数 | 90 |
-| 脉动序号 | 166 |
+| 脉动序号 | 167 |
 
 ## 今日一句
 
-> 夜深时，键盘声像远处的雨。
+> 每一本书都是一扇门，开多少由你决定。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：onAppear、task 与容器生命周期语义](/posts/技术/swiftui-lifecycle-onappear-containers)
+[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)
 
 ---
 
