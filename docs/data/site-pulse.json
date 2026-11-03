@@ -1,12 +1,12 @@
 {
-  "pulse_count": 167,
-  "last_updated_utc": "2026-11-02T07:41:22Z",
-  "last_updated_local": "2026-11-02",
+  "pulse_count": 168,
+  "last_updated_utc": "2026-11-03T07:55:49Z",
+  "last_updated_local": "2026-11-03",
   "posts_total": 90,
-  "day_of_year": 306,
-  "daily_quote": "每一本书都是一扇门，开多少由你决定。",
+  "day_of_year": 307,
+  "daily_quote": "记录本身，是对遗忘的温和抵抗。",
   "spotlight": {
-    "title": "SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航",
-    "path": "/posts/技术/swiftui-navigation-path-deep-dive"
+    "title": "SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱",
+    "path": "/posts/技术/swiftui-observable-macro-deep-dive"
   }
 }

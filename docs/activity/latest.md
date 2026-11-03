@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-02T07:41:22Z |
-| 本地日期 | 2026-11-02 |
+| UTC 时间 | 2026-11-03T07:55:49Z |
+| 本地日期 | 2026-11-03 |
 | 文章总数 | 90 |
-| 脉动序号 | 167 |
+| 脉动序号 | 168 |
 
 ## 今日一句
 
-> 每一本书都是一扇门，开多少由你决定。
+> 记录本身，是对遗忘的温和抵抗。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)
+[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)
 
 ---
 

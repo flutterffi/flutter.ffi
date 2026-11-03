@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-02T07:41:22Z
-- **本地日期**：2026-11-02
+- **最近更新（UTC）**：2026-11-03T07:55:49Z
+- **本地日期**：2026-11-03
 - **文章总数**：90 篇
-- **维护次数**：第 167 次自动脉动
+- **维护次数**：第 168 次自动脉动
 
-> 每一本书都是一扇门，开多少由你决定。
+> 记录本身，是对遗忘的温和抵抗。
 
-**今日随机推荐**：[SwiftUI 深度：NavigationStack、NavigationPath 与可恢复导航](/posts/技术/swiftui-navigation-path-deep-dive)  
+**今日随机推荐**：[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
