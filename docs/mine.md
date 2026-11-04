@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-03T07:55:49Z
-- **本地日期**：2026-11-03
+- **最近更新（UTC）**：2026-11-04T07:29:59Z
+- **本地日期**：2026-11-04
 - **文章总数**：90 篇
-- **维护次数**：第 168 次自动脉动
+- **维护次数**：第 169 次自动脉动
 
-> 记录本身，是对遗忘的温和抵抗。
+> 今日可读，明日可改，后日可忘——亦无妨。
 
-**今日随机推荐**：[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)  
+**今日随机推荐**：[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

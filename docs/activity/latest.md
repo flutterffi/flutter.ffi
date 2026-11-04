@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-03T07:55:49Z |
-| 本地日期 | 2026-11-03 |
+| UTC 时间 | 2026-11-04T07:29:59Z |
+| 本地日期 | 2026-11-04 |
 | 文章总数 | 90 |
-| 脉动序号 | 168 |
+| 脉动序号 | 169 |
 
 ## 今日一句
 
-> 记录本身，是对遗忘的温和抵抗。
+> 今日可读，明日可改，后日可忘——亦无妨。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：@Observable 宏、依赖跟踪与迁移陷阱](/posts/技术/swiftui-observable-macro-deep-dive)
+[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)
 
 ---
 
