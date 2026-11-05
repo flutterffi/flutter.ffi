@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-04T07:29:59Z |
-| 本地日期 | 2026-11-04 |
+| UTC 时间 | 2026-11-05T07:55:02Z |
+| 本地日期 | 2026-11-05 |
 | 文章总数 | 90 |
-| 脉动序号 | 169 |
+| 脉动序号 | 170 |
 
 ## 今日一句
 
-> 今日可读，明日可改，后日可忘——亦无妨。
+> 在信息流里种一棵慢树，需要每天浇一点耐心。
 
 ## 今日推荐文章
 
-[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)
+[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)
 
 ---
 

@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-04T07:29:59Z
-- **本地日期**：2026-11-04
+- **最近更新（UTC）**：2026-11-05T07:55:02Z
+- **本地日期**：2026-11-05
 - **文章总数**：90 篇
-- **维护次数**：第 169 次自动脉动
+- **维护次数**：第 170 次自动脉动
 
-> 今日可读，明日可改，后日可忘——亦无妨。
+> 在信息流里种一棵慢树，需要每天浇一点耐心。
 
-**今日随机推荐**：[SwiftUI 状态：@Observable 与 Observation 框架迁移](/posts/技术/swiftui-state-observation)  
+**今日随机推荐**：[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
