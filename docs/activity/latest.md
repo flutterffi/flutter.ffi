@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-05T07:55:02Z |
-| 本地日期 | 2026-11-05 |
+| UTC 时间 | 2026-11-06T07:56:02Z |
+| 本地日期 | 2026-11-06 |
 | 文章总数 | 90 |
-| 脉动序号 | 170 |
+| 脉动序号 | 171 |
 
 ## 今日一句
 
-> 在信息流里种一棵慢树，需要每天浇一点耐心。
+> 阅读不是填满时间，而是给思考留出缝隙。
 
 ## 今日推荐文章
 
-[SwiftUI 深度：UIHostingController 与 UIViewRepresentable 互操作](/posts/技术/swiftui-uikit-interop-hosting)
+[SwiftUI 深度：视图身份（Identity）如何决定状态生死](/posts/技术/swiftui-view-identity-and-lifetime)
 
 ---
 
