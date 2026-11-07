@@ -1,12 +1,12 @@
 {
-  "pulse_count": 171,
-  "last_updated_utc": "2026-11-06T07:56:02Z",
-  "last_updated_local": "2026-11-06",
+  "pulse_count": 172,
+  "last_updated_utc": "2026-11-07T07:11:25Z",
+  "last_updated_local": "2026-11-07",
   "posts_total": 90,
-  "day_of_year": 310,
-  "daily_quote": "阅读不是填满时间，而是给思考留出缝隙。",
+  "day_of_year": 311,
+  "daily_quote": "慢下来的时候，树影会移动，句子也会变长。",
   "spotlight": {
-    "title": "SwiftUI 深度：视图身份（Identity）如何决定状态生死",
-    "path": "/posts/技术/swiftui-view-identity-and-lifetime"
+    "title": "Trae 使用教程：字节 AI IDE 安装与 Builder 工作流",
+    "path": "/posts/技术/trae-ai-ide-tutorial"
   }
 }
