@@ -1,12 +1,12 @@
 {
-  "pulse_count": 173,
-  "last_updated_utc": "2026-11-08T07:23:03Z",
-  "last_updated_local": "2026-11-08",
+  "pulse_count": 174,
+  "last_updated_utc": "2026-11-09T07:58:56Z",
+  "last_updated_local": "2026-11-09",
   "posts_total": 90,
-  "day_of_year": 312,
-  "daily_quote": "一本读了一半的书，像一封未寄出的信。",
+  "day_of_year": 313,
+  "daily_quote": "代码与散文一样：删掉的字，往往最值钱。",
   "spotlight": {
-    "title": "Windsurf 使用教程：Cascade 流式编辑与 AI IDE 入门",
-    "path": "/posts/技术/windsurf-ai-ide-tutorial"
+    "title": "2026 免费地址生成器推荐：美区（含免税州）与土耳其 Apple ID 注册必备，地址一键生成（支持20+国家）",
+    "path": "/posts/收藏/appark-address-generator-us-tax-free-turkey-appleid"
   }
 }
