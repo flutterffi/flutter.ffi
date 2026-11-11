@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-10T08:25:14Z
-- **本地日期**：2026-11-10
+- **最近更新（UTC）**：2026-11-11T07:45:03Z
+- **本地日期**：2026-11-11
 - **文章总数**：90 篇
-- **维护次数**：第 175 次自动脉动
+- **维护次数**：第 176 次自动脉动
 
-> 雨声是最好的白噪音，适合把章节读完。
+> 图书馆的灯永远比热搜温和。
 
-**今日随机推荐**：[2026最新App Store切换地区教程：一键跳转美/日/韩/尼等热门国家](/posts/收藏/appark-app-store-change-region)  
+**今日随机推荐**：[App Store Connect 最新上架教程：从零开始发布你的第一款 APP](/posts/收藏/appark-app-store-connect-submission-guide)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
