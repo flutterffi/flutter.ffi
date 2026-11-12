@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-11T07:45:03Z
-- **本地日期**：2026-11-11
+- **最近更新（UTC）**：2026-11-12T08:21:11Z
+- **本地日期**：2026-11-12
 - **文章总数**：90 篇
-- **维护次数**：第 176 次自动脉动
+- **维护次数**：第 177 次自动脉动
 
-> 图书馆的灯永远比热搜温和。
+> 不带手机散步，原来街道有自己的字幕。
 
-**今日随机推荐**：[App Store Connect 最新上架教程：从零开始发布你的第一款 APP](/posts/收藏/appark-app-store-connect-submission-guide)  
+**今日随机推荐**：[2026年最新CC switch下载、安装到进阶使用保姆级教程，打造AI终端配置神器](/posts/收藏/appark-cc-switch-download-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
