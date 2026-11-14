@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-13T07:59:36Z
-- **本地日期**：2026-11-13
+- **最近更新（UTC）**：2026-11-14T07:37:00Z
+- **本地日期**：2026-11-14
 - **文章总数**：90 篇
-- **维护次数**：第 178 次自动脉动
+- **维护次数**：第 179 次自动脉动
 
-> 翻译是重读，重读是第二次初见。
+> 瓦尔登湖不在麻省，在关机后的十分钟里。
 
-**今日随机推荐**：[2026年最新 ChatGPT 土耳其区折扣订阅指南](/posts/收藏/appark-chatgpt-turkey-discount-subscription-guide)  
+**今日随机推荐**：[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

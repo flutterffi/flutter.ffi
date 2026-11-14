@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-13T07:59:36Z |
-| 本地日期 | 2026-11-13 |
+| UTC 时间 | 2026-11-14T07:37:00Z |
+| 本地日期 | 2026-11-14 |
 | 文章总数 | 90 |
-| 脉动序号 | 178 |
+| 脉动序号 | 179 |
 
 ## 今日一句
 
-> 翻译是重读，重读是第二次初见。
+> 瓦尔登湖不在麻省，在关机后的十分钟里。
 
 ## 今日推荐文章
 
-[2026年最新 ChatGPT 土耳其区折扣订阅指南](/posts/收藏/appark-chatgpt-turkey-discount-subscription-guide)
+[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)
 
 ---
 
