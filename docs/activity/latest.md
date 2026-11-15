@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-14T07:37:00Z |
-| 本地日期 | 2026-11-14 |
+| UTC 时间 | 2026-11-15T07:52:43Z |
+| 本地日期 | 2026-11-15 |
 | 文章总数 | 90 |
-| 脉动序号 | 179 |
+| 脉动序号 | 180 |
 
 ## 今日一句
 
-> 瓦尔登湖不在麻省，在关机后的十分钟里。
+> 好的书评不是判决，而是邀请读者再打开一次书。
 
 ## 今日推荐文章
 
-[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)
+[2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买](/posts/收藏/appark-claude-pro-discount-subscription-tutorial)
 
 ---
 

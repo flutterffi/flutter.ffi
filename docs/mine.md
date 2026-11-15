@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-14T07:37:00Z
-- **本地日期**：2026-11-14
+- **最近更新（UTC）**：2026-11-15T07:52:43Z
+- **本地日期**：2026-11-15
 - **文章总数**：90 篇
-- **维护次数**：第 179 次自动脉动
+- **维护次数**：第 180 次自动脉动
 
-> 瓦尔登湖不在麻省，在关机后的十分钟里。
+> 好的书评不是判决，而是邀请读者再打开一次书。
 
-**今日随机推荐**：[Claude Code最新使用教程: 安装方式、技巧与最佳实践](/posts/收藏/appark-claude-code-user-guide-and-installation)  
+**今日随机推荐**：[2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买](/posts/收藏/appark-claude-pro-discount-subscription-tutorial)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
