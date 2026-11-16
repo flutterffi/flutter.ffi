@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-15T07:52:43Z
-- **本地日期**：2026-11-15
+- **最近更新（UTC）**：2026-11-16T07:59:37Z
+- **本地日期**：2026-11-16
 - **文章总数**：90 篇
-- **维护次数**：第 180 次自动脉动
+- **维护次数**：第 181 次自动脉动
 
-> 好的书评不是判决，而是邀请读者再打开一次书。
+> 技术深度来自追问「为什么」，不是堆砌名词。
 
-**今日随机推荐**：[2026年最新 Claude Pro 折扣订阅教程｜五折尼日利亚区购买](/posts/收藏/appark-claude-pro-discount-subscription-tutorial)  
+**今日随机推荐**：[GLM Coding Plan 九折优惠购买指南｜持续更新优惠码](/posts/收藏/appark-glm-coding-plan-discount-purchase)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->
