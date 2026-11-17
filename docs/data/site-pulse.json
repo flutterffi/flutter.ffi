@@ -1,12 +1,12 @@
 {
-  "pulse_count": 181,
-  "last_updated_utc": "2026-11-16T07:59:37Z",
-  "last_updated_local": "2026-11-16",
+  "pulse_count": 182,
+  "last_updated_utc": "2026-11-17T09:13:46Z",
+  "last_updated_local": "2026-11-17",
   "posts_total": 90,
-  "day_of_year": 320,
-  "daily_quote": "技术深度来自追问「为什么」，不是堆砌名词。",
+  "day_of_year": 321,
+  "daily_quote": "收藏夹里的文章，像冬天的干花。",
   "spotlight": {
-    "title": "GLM Coding Plan 九折优惠购买指南｜持续更新优惠码",
-    "path": "/posts/收藏/appark-glm-coding-plan-discount-purchase"
+    "title": "GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果",
+    "path": "/posts/收藏/appark-gpt-image-2-advanced-prompt-and-templates"
   }
 }
