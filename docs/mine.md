@@ -30,14 +30,14 @@ title: 我的
 <!-- site-pulse:auto:start -->
 ## 站点脉动（每日自动维护）
 
-- **最近更新（UTC）**：2026-11-17T09:13:46Z
-- **本地日期**：2026-11-17
+- **最近更新（UTC）**：2026-11-18T08:33:18Z
+- **本地日期**：2026-11-18
 - **文章总数**：90 篇
-- **维护次数**：第 182 次自动脉动
+- **维护次数**：第 183 次自动脉动
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
-**今日随机推荐**：[GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果](/posts/收藏/appark-gpt-image-2-advanced-prompt-and-templates)  
+**今日随机推荐**：[GPT Image 2最新使用教程：内附触发提示词，持续收集免费的GPT Image 2站点](/posts/收藏/appark-gpt-image-2-complete-guide-and-prompt-tips)  
 
 更完整的日志见 [每日脉动记录](/activity/latest)。
 <!-- site-pulse:auto:end -->

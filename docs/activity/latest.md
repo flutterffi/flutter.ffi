@@ -8,18 +8,18 @@ title: 每日脉动
 
 | 字段 | 值 |
 |------|-----|
-| UTC 时间 | 2026-11-17T09:13:46Z |
-| 本地日期 | 2026-11-17 |
+| UTC 时间 | 2026-11-18T08:33:18Z |
+| 本地日期 | 2026-11-18 |
 | 文章总数 | 90 |
-| 脉动序号 | 182 |
+| 脉动序号 | 183 |
 
 ## 今日一句
 
-> 收藏夹里的文章，像冬天的干花。
+> 清晨的咖啡与傍晚的 commit，都是给自己的仪式。
 
 ## 今日推荐文章
 
-[GPT Image 2提示词高阶模板合集：附推特爆款提示词生图效果](/posts/收藏/appark-gpt-image-2-advanced-prompt-and-templates)
+[GPT Image 2最新使用教程：内附触发提示词，持续收集免费的GPT Image 2站点](/posts/收藏/appark-gpt-image-2-complete-guide-and-prompt-tips)
 
 ---
 
