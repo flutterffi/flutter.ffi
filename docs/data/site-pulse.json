@@ -1,12 +1,12 @@
 {
-  "pulse_count": 184,
-  "last_updated_utc": "2026-11-19T08:48:52Z",
-  "last_updated_local": "2026-11-19",
+  "pulse_count": 185,
+  "last_updated_utc": "2026-11-20T08:33:49Z",
+  "last_updated_local": "2026-11-20",
   "posts_total": 90,
-  "day_of_year": 323,
-  "daily_quote": "星空不需要点赞，海浪也不做 KPI。",
+  "day_of_year": 324,
+  "daily_quote": "把今天写成一行日志，明天就更容易继续。",
   "spotlight": {
-    "title": "2026 最新谷歌邮箱注册教程（PC 端、移动端 Gmail 注册全指南）",
-    "path": "/posts/收藏/appark-how-to-create-gmail-account"
+    "title": "OpenAI Codex 使用教程：从安装到 GPT-5.5 实战，深度对比 DeepSeek V4",
+    "path": "/posts/收藏/appark-openai-codex-guide-gpt55-vs-deepseekv4"
   }
 }
