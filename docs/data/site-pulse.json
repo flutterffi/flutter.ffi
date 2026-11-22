@@ -1,12 +1,12 @@
 {
-  "pulse_count": 186,
-  "last_updated_utc": "2026-11-21T08:17:22Z",
-  "last_updated_local": "2026-11-21",
+  "pulse_count": 187,
+  "last_updated_utc": "2026-11-22T07:59:50Z",
+  "last_updated_local": "2026-11-22",
   "posts_total": 90,
-  "day_of_year": 325,
-  "daily_quote": "沉默不是空白，是页面边距。",
+  "day_of_year": 326,
+  "daily_quote": "经典之所以经典，因为每次重读都会换一双眼睛。",
   "spotlight": {
-    "title": "Appark 教程收藏索引",
-    "path": "/posts/收藏/appark-tutorial-index"
+    "title": "开发者工具箱收藏：编辑、调试、抓包与笔记",
+    "path": "/posts/收藏/developer-toolkit-2026"
   }
 }
