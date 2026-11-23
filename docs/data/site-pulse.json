@@ -1,12 +1,12 @@
 {
-  "pulse_count": 187,
-  "last_updated_utc": "2026-11-22T07:59:50Z",
-  "last_updated_local": "2026-11-22",
+  "pulse_count": 188,
+  "last_updated_utc": "2026-11-23T09:07:23Z",
+  "last_updated_local": "2026-11-23",
   "posts_total": 90,
-  "day_of_year": 326,
-  "daily_quote": "经典之所以经典，因为每次重读都会换一双眼睛。",
+  "day_of_year": 327,
+  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
   "spotlight": {
-    "title": "开发者工具箱收藏：编辑、调试、抓包与笔记",
-    "path": "/posts/收藏/developer-toolkit-2026"
+    "title": "Flutter 学习路径收藏：从 Widget 到引擎",
+    "path": "/posts/收藏/flutter-learning-path"
   }
 }
