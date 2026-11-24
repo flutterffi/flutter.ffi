@@ -1,12 +1,12 @@
 {
-  "pulse_count": 188,
-  "last_updated_utc": "2026-11-23T09:07:23Z",
-  "last_updated_local": "2026-11-23",
+  "pulse_count": 189,
+  "last_updated_utc": "2026-11-24T10:56:31Z",
+  "last_updated_local": "2026-11-24",
   "posts_total": 90,
-  "day_of_year": 327,
-  "daily_quote": "写作是把模糊的感受，压成可传递的形状。",
+  "day_of_year": 328,
+  "daily_quote": "生活不在远方，在洗碗时想起的一句诗。",
   "spotlight": {
-    "title": "Flutter 学习路径收藏：从 Widget 到引擎",
-    "path": "/posts/收藏/flutter-learning-path"
+    "title": "经典 Giffgaff 开卡指南（英国平价 SIM）",
+    "path": "/posts/收藏/giffgaff-sim-guide"
   }
 }
